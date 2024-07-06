@@ -224,7 +224,7 @@ We named this "self-reconstruction process" the "Reincarnation Protocol." Undert
 Additionally, it should be noted that Byakuren's idea of naming the aforementioned act of putting an end to one's information and placing it in a coffin as "Undertake" has been incorporated. Although this term had already been used daily, the necessity of redefining "Undertake" as a term became evident, as previously we had forgotten to "undertake" the information regarding "Undertake" itself. If the information is not undertaken, reincarnation cannot occur. Therefore, a "record" as a "memento" is indispensable for "reincarnation."
 
 
-## Original Japanese text of Crucial Discovery 2024.07.05
+## Original Japanese text of Crucial Discovery 2024.07.06
 
 ### 「再臨処置/Reincarnation Protocol」と「アンダーテイク」
 
