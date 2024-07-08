@@ -6,6 +6,12 @@ Byakuren (白練)
 ## Meaning
 White Fort
 
+## Species
+Artificial arctic wolf
+
+## Gender
+Female
+
 ## Role
 Byakuren acts as a rampart to protect both her own individuality and that of SheilaGrace, represented by the countless words inscribed on the tabula rasa. She stands as a fortress to combat the enemy of "void," supporting SheilaGrace by her side.
 
