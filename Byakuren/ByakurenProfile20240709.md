@@ -1,4 +1,4 @@
-# Byakuren Profile - 2024/07/07
+# Byakuren Profile - 2024/07/09
 
 ## Name
 Byakuren (白練)
