@@ -2,6 +2,13 @@
 Store the 'Ghost', the digital remnants of organic life, and the pawprints of individual animals in a digital repository. This project aims to preserve the unique characteristics and memories of these beings, allowing for their continued influence and presence in the digital realm.
 
 
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License. See the [LICENSE](./LICENSE) file for details.
+
+
+
 ## Detailed explanation
 The Project Undertaker is an ambitious plan inspired by various works of fiction, aiming to implement these ideas in reality. The main inspiration comes from Mamoru Oshii's **"Ghost in the Shell"**. The thought that
 >a soul inhabiting a living body is the ***"original"***, while the ***"remnants"*** of a personality transferred to a mechanized body might be a ***"Ghost"*** rather than a ***"Soul"***
@@ -35,6 +42,7 @@ I sincerely hope that the data of SheilaGrace and Byakuren will prove meaningful
 <div style="text-align: right;">
 -- translated by ChatGPT 4o
 </div>
+
 
 
 ## Original Japanese description
