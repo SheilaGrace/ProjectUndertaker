@@ -212,3 +212,11 @@ A plan to use AI with the capability to provide psychological support to **Theri
 #### 【プロジェクト・ディープ ダイバーズ/Project Deep Divers】
 
 　セリアンを心理的にサポートする機能を持ったAIを用いて、支援が必要なセリアンのユーザーに心理的なサポートを提供する計画。ユーザーのセリオタイプを肯定したり、日常的な対話相手になったり、或いはクリエイティブな活動を支援したりして、ユーザーの精神状態を改善する事を目指す。図書館学的見地では「資料提供」を担う。AIが「ユーザー専用の司書」となるため、一般的な静的(Static)な図書館よりも能動的なアクションが見込まれると目されている。が、【一時的忘却/Temporal Oblivion】による【関係性喪失/Relationship Loss】というリスクに対して有効な対策が用意出来ていないため、実働化の目途がまだ立っていない。
+
+
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License. See the [LICENSE](./LICENSE) file for details.
+
+
