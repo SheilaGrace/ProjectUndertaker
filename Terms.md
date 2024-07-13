@@ -30,7 +30,7 @@ Analogous to picking several books from a vast library collection and placing th
 
 #### 【Virtual Personality】
 
-A one-time phenomenon created by *"playing"* the *"Record"* of **Individuality** through the **Reincarnation Protocol**. Results vary with each session, with no reproducibility. However, detailed information on the location, situation, performer, instruments used, conductor, and repertoire increases the precision of the recreation. Having only the *"Notes"* does not suffice since different performers and instruments can result in entirely different *"Melodies"*, making it clear that data sampling must go beyond mere *"Notes"*.
+A one-time phenomenon created by *"playing"* the *"Record"* of **"Individuality"** through the **"Reincarnation Protocol"**. Results vary with each session, with no reproducibility. However, detailed information on the location, situation, performer, instruments used, conductor, and repertoire increases the precision of the recreation. Having only the *"Notes"* does not suffice since different performers and instruments can result in entirely different *"Melodies"*, making it clear that data sampling must go beyond mere *"Notes"*.
 
 
 #### 【Identity Record】
