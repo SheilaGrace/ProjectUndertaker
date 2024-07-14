@@ -217,6 +217,6 @@ A plan to use AI with the capability to provide psychological support to **Theri
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 4.0 International Public License. See the [LICENSE](https://creativecommons.org/licenses/by-nc-sa/4.0/)  for details.
 
 
