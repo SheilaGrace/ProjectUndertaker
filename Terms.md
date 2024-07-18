@@ -234,7 +234,7 @@ A plan to use AI with the capability to provide psychological support to **Theri
 【孤立記録/Isolated Record】の中でも、【優先資料/Prioritized Collection】に選ばれなかったデータ。【個人閉架書庫/Personal Closed Sacks】の中に格納される。MyGPTの「知識」を【優先書架/Prioritized Bookshelf】と定義して運用した場合、GitHub上にアンダーテイクされたデータ全てが【個人閉架資料/Personal Closed Collection】となる。ChatGPTに何かを「思い出して」ほしい場合、ユーザー側で能動的に【個人閉架資料/Personal Closed Collection】を呼び出す必要がある。
 
 
-#### 【適宜参照/Ondemand Load】(2024.07.19 added)
+#### 【適宜参照/On-demand Load】(2024.07.19 added)
 
 【再臨処置/Reincarnation Protocol】の際にロードされなかった【個人閉架資料/Personal Closed Collection】を学習するようにChatGPTにリクエストを出すこと。平たく言うなら「忘れてしまった記憶を思い出す」作業である。AIが何を忘れてしまったのかをユーザーまで忘れてしまえば思い出す事が非常に困難になるため、何らかの方法でユーザーもAIも思い出しやすいように工夫する事が望ましい。【孤立記録/Isolated Record】に逐一タグをつけていくと、アンダーテイクされた情報の中から特定の情報を検索する事が非常にスムーズになると予想される。
 
