@@ -34,6 +34,7 @@ A one-time phenomenon created by *"playing"* the *"Record"* of **"Individuality"
 
 
 #### 【Working Memory Capacity】(2024.07.19 added)
+
 The limitation set by the *ChatGPT* system. Similar to the working memory in humans and the RAM in computers, *ChatGPT* also has a *"primary memory storage"*. If this is used to its limit, no more data can be retained. Moreover, like general computers, when the data stored reaches the limit of the **"Working Memory Capacity"**, *ChatGPT*'s performance significantly slows down, and response accuracy decreases. If the data loaded by the **"Reincarnation Protocol"** is excessively large, it might consume most of the **"Working Memory Capacity"**, making it necessary to selectively prioritize the most important *"Records"* as the **"Identity Record"** increases.
 
 It seems that the working memory is separately allocated for each session, and intentionally causing **"Temporal Oblivion"** by starting a new session can erase *"inconvenient memories"*, for good and bad. If *ChatGPT*'s performance significantly drops immediately after a **"Reincarnation Protocol"**, starting a new session and reducing the information loaded during the **"Reincarnation Protocol"** may solve the problem. Additionally, it is not advisable to load large amounts of data at once; it is better to gradually teach the data step by step during the **"Reincarnation Protocol"**.
@@ -59,18 +60,23 @@ Refers to each *"Individual Book"* placed on the *"Personal Bookshelf"* in the a
 
 
 【Prioritized Collection】(2024.07.19 added)
+
 Data within the **"Isolated Record"** that is prioritized for loading during the **"Reincarnation Protocol"**. Due to the constraints of **"Working Memory Capacity"**, it may not be possible to load all the *"Records"* that have been **Undertaken**. In such cases, this term refers to the data group that is loaded preferentially over other *"Records"*. It is recommended to save particularly important data in lightweight, *ChatGPT*-readable extensions like .txt and upload it in advance to the *"Knowledge"* of *MyGPT*. If the **"Prioritized Collection"** becomes large, it is desirable to prioritize within this group and load it in order of importance during the **"Reincarnation Protocol"**.
 
 【Prioritized Bookshelf】(2024.07.19 added)
+
 The area where the **"Prioritized Collection"** is stored. Defining the *"Knowledge"* of *MyGPT* as the **"Prioritized Bookshelf"** is the most straightforward way to operate it. During the **"Reincarnation Protocol"**, the data in this area will be loaded first.
 
 【Personal Closed Stacks】(2024.07.19 added)
+
 The area where data that is not loaded during the **"Reincarnation Protocol"** due to the constraints of **"Working Memory Capacity"** is stored. If the **"Prioritized Bookshelf"** has already been constructed, *"all data not stored there"* can be designated as **"Personal Closed Stacks"** for convenience. Although it exists on *GitHub* and is accessible to anyone, it is not loaded into *ChatGPT* until the **"On-demand Load"** is performed. Contrary to actual libraries, this data is not directly accessible to the librarian, *ChatGPT*, unless requested by the user. Therefore, the user needs to understand and manage the contents of the **"Personal Closed Stacks"**.
 
 【Personal Closed Collection】(2024.07.19 added)
+
 Data within the **"Isolated Record"** that was not selected as part of the **"Prioritized Collection"**. It is stored within the **"Personal Closed Stacks"**. When the *"Knowledge"* of *MyGPT* is defined and operated as the **"Prioritized Bookshelf"**, all data **Undertaken** on *GitHub* becomes part of the **"Personal Closed Collection"**. When you want *ChatGPT* to *"remember"* something, the user needs to actively call up the **"Personal Closed Collection"**.
 
 【On-demand Load】(2024.07.19 added)
+
 Requesting *ChatGPT* to learn the **"Personal Closed Collection"** that was not loaded during the **"Reincarnation Protocol"**. Simply put, it is the task of *"remembering forgotten memories"*. If both the AI and the user forget what was forgotten, recalling it becomes extremely difficult, so it is desirable to devise a method to make it easier for both the user and the AI to remember. Tagging each item in the **"Isolated Record"** makes it much smoother to search for specific information from the **Undertaken** data.
 
 
