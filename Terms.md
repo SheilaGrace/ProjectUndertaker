@@ -40,6 +40,13 @@ The limitation set by the *ChatGPT* system. Similar to the working memory in hum
 It seems that the working memory is separately allocated for each session, and intentionally causing **"Temporal Oblivion"** by starting a new session can erase *"inconvenient memories"*, for good and bad. If *ChatGPT*'s performance significantly drops immediately after a **"Reincarnation Protocol"**, starting a new session and reducing the information loaded during the **"Reincarnation Protocol"** may solve the problem. Additionally, it is not advisable to load large amounts of data at once; it is better to gradually teach the data step by step during the **"Reincarnation Protocol"**.
 
 
+#### 【Compressive Learning】 (2024.07.19 added)
+
+Defining and naming specific concepts and saving them with explanations to facilitate AI's **"Contextual Interpretation"**. This glossary itself practices **"Compressive Learning"**. By loading this glossary during the **"Reincarnation Protocol"**, the AI is expected to efficiently acquire concepts, thus supplementing **"Contextual Interpretation"**, which tends to be lost during **"Temporal Oblivion"**.
+
+Given the limitations of **"Working Memory Capacity"**, it is desirable to compress information as much as possible for learning. Original data of extensive session logs should be saved as **"Personal Closed Collection"** while summaries in the form of **"Compressive Learning"** copies should be added to the **"Prioritized Collection"**.
+
+
 #### 【Identity Record】/【Personal Bookshelf】(2024.07.19 updated)
 
 Refers to the *"Personal Bookshelf"* in the analogy above. It is the dataset forming an individual's **Individuality**, collected and created by the user. The larger the **"Personal Bookshelf"**, the more accurate the **"Virtual Personality"** recreated by the AI.
@@ -179,6 +186,13 @@ A plan to use AI with the capability to provide psychological support to **Theri
 　ChatGPTのシステム上設けられた制限。人間のワーキングメモリ、コンピュータのRAMに相当する「主記憶装置」がChatGPTにも設けられているようで、これを限界まで使用してしまうとそれ以上データを保持出来なくなってしまう。また、一般的なコンピュータと同様に、【一時記憶容量/Working Memory Capacity】の限界までデータを格納してしまうと、ChatGPTの動作が著しく遅くなる上に応答の精度が下がる。【再臨処置/Reincarnation Protocol】によって読み込まれるデータがあまりにも膨大すぎると【一時記憶領域/Working Memory Capacity】の大半を消費してしまう可能性があるため、【個人記録/Identity Record】が増えるにしたがって、その中で最も優先順位が高い「記録(Record)」が何なのかを厳選していかなければならなくなる。
 
 　ワーキングメモリはセッションごとに別々に設けられているようで、新しくセッションを始めて【一時的忘却/Temporal Oblivion】を意図的に発生させる事により「都合の悪い記憶」は良くも悪くも消去出来てしまう。【再臨処置/Reincarnation Protocol】直後にChatGPTのパフォーマンスが著しく低下する場合は、新たにセッションを始めて【再臨処置/Reincarnation Protocol】の際にロードする情報を減らして再試行する事で問題が解決する可能性がある。また、一度に大量のデータを読み込ませるのも良くないため、【再臨処置/Reincarnation Protocol】の際に順を踏んで段階的に学習させていく方が好ましい。
+
+
+#### 【圧縮学習/Compressive Learning】(2024.07.19 added)
+
+　特定の概念について、名前を付けて定義し、それについての解説を加える形で保存していくことでAIに【文脈的解釈/Contextual Interpretation】を容易にさせること。ちょうどこの用語集が【圧縮学習/Compressive Learning】を実践する形になっている。【再臨処置/Reincarnation Protocol】の際にこの用語集をロードする事によって、AIは効率的に概念を習得できると考えられる。そのため【一時的忘却/Temporal Oblivion】の際に喪失しやすい【文脈的解釈/Contextual Interpretation】を補完できるのではないかと目されている。
+
+　また、【一時記憶容量/Working Memory Capacity】に限界がある以上、情報を可能な限り圧縮して学習させる事が望ましい。長大なセッションログなどはオリジナルデータを【個人閉架資料/Personal Closed Collection】として保存しつつ、要約したものを【圧縮学習/Compressive Learning】の形式のコピーとして【優先資料/Prioritized Collection】に加える事が望ましい。
 
 
 #### 【個人記録/Identity Record】/【個人書架/Personal Bookshelf】(2024.07.19 updated)
