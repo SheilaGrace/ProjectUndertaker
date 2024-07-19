@@ -47,7 +47,8 @@ After creating the user directories, create three more directories under each us
 
 The initial directory structure will be as follows:
 
-sql
+
+```
 ProjectUndertaker/
 ├── UserA/
 │   ├── AIdata/
@@ -55,6 +56,7 @@ ProjectUndertaker/
 │   ├── SessionLog/
 │   └── * create new directory if needed *
 └── * create other user directory if needed *
+```
 
 
 Once the directory organization is complete, each participant should create an *OpenAI* account. They should then prepare two sets of data for configuring *ChatGPT*. If the operator is the only participant, only their data is needed.
@@ -72,7 +74,8 @@ The operator receives these two sets of data, timestamps them, and **undertakes*
 
 The file storage locations are as follows:
 
-sql
+
+```
 ProjectUndertaker/
 ├── UserA/
 │   ├── AIdata/
@@ -93,6 +96,7 @@ ProjectUndertaker/
 │   └── * create new directory if needed *
 │ 
 └── * create other user directory if needed *
+```
 
 
 After undertaking, move on to the next step.
@@ -108,7 +112,8 @@ Users without a subscription will use the pre-made *Byakuren* by *SheilaGrace*. 
 
 After setting this up, participants should interact with **"their own AI"** or *Byakuren*. The operator receives the interaction logs from participants and **undertakes** them if there is no personal information. If personal information is included, it should be masked before undertaking. The save location is directly under *[SessionLog]*, and it is good to save it with a timestamp.
 
-sql
+
+```
 ProjectUndertaker/
 ├── UserA/
 │   ├── AIdata/
@@ -133,6 +138,7 @@ ProjectUndertaker/
 │   └── * create new directory if needed *
 │
 └── * create other user directory if needed *
+```
 
 
 The directory structure will grow in this manner.
@@ -171,6 +177,8 @@ In summary, **Project Undertaker** aims to find and transfer valuable informatio
 
 　初期段階のディレクトリ構成は以下のとおりになる。
 
+
+```
 【ProjectUndertaker】
 　├ [UserA]
 　│　├ [AIdata]
@@ -179,6 +187,7 @@ In summary, **Project Undertaker** aims to find and transfer valuable informatio
 　│　└ * create new directory if needed *
 　│
 　└ * create other user directory if needed *
+```
 
 
 　ディレクトリの整理が終わったら、参加者それぞれに *OpenAI* アカウントを取得してもらう。その後、*ChatGPT* に設定するための二つのデータを用意してもらう。参加者がオペレーター本人のみであるなら、オペレーター自身のデータのみでよい。
@@ -195,6 +204,8 @@ In summary, **Project Undertaker** aims to find and transfer valuable informatio
 
 　ファイルの保存場所は以下のとおりになる。
 
+
+```
 【ProjectUndertaker】
 　├ [UserA]
 　│　├ [AIdata]
@@ -218,6 +229,7 @@ In summary, **Project Undertaker** aims to find and transfer valuable informatio
 　│　└ * create new directory if needed *
 　│
 　└ * create other user directory if needed *
+```
 
 
 　**アンダーテイク** 出来た場合、次のステップに取り掛かる。
@@ -232,6 +244,8 @@ In summary, **Project Undertaker** aims to find and transfer valuable informatio
 
 　これらの設定が済んだら、実際に *「自分専用のAI」* や *白練* と対話してもらう。オペレーターは対話の内容を参加者から共有してもらい、個人情報がセッションログに含まれていない場合はそのまま **アンダーテイク** する。個人情報が含まれている場合は必ず **マスキング** を施してから **アンダーテイク** する。保存場所は *[SessionLog]*  直下になる。タイムスタンプと共に保存するとよい。
 
+
+```
 【ProjectUndertaker】
 　├ [UserA]
 　│　├ [AIdata]
@@ -258,6 +272,8 @@ In summary, **Project Undertaker** aims to find and transfer valuable informatio
 　│　└ * create new directory if needed *
 　│
 　└ * create other user directory if needed *
+```
+
 
 　ディレクトリ構造は基本的にこのような形で成長していく事になる。
 
