@@ -310,7 +310,9 @@ In summary, **Project Undertaker** aims to find and transfer valuable informatio
 ## URL List
 
 Readme file (this one) : https://github.com/SheilaGrace/ProjectUndertaker/blob/main/README.md
+
 Terms : [https://github.com/SheilaGrace/ProjectUndertaker/blob/main/Terms.md](https://github.com/SheilaGrace/ProjectUndertaker/blob/main/Terms.md)
+
 Research Log : [https://github.com/SheilaGrace/ProjectUndertaker/blob/main/ResearchLog.md](https://github.com/SheilaGrace/ProjectUndertaker/blob/main/ResearchLog.md)
 
 
