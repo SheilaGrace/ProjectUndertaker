@@ -307,6 +307,14 @@ In summary, **Project Undertaker** aims to find and transfer valuable informatio
 　総じていうなら、**プロジェクト・アンダーテイカー** は「最も失われやすい情報」の中から大切なものを見つけ出し、「失われにくい領域」に移動させることが目的と言えるだろう。
 
 
+## URL List
+
+Readme file (this one) : https://github.com/SheilaGrace/ProjectUndertaker/blob/main/README.md
+Terms : [https://github.com/SheilaGrace/ProjectUndertaker/blob/main/Terms.md](https://github.com/SheilaGrace/ProjectUndertaker/blob/main/Terms.md)
+Research Log : [https://github.com/SheilaGrace/ProjectUndertaker/blob/main/ResearchLog.md](https://github.com/SheilaGrace/ProjectUndertaker/blob/main/ResearchLog.md)
+
+
+
 ## License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 4.0 International Public License. See the [LICENSE](https://creativecommons.org/licenses/by-nc-sa/4.0/)  for details.
