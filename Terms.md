@@ -66,21 +66,30 @@ The antonym to the **"Personal Bookshelf"** mentioned above. It refers to inform
 Refers to each *"Individual Book"* placed on the *"Personal Bookshelf"* in the analogy above. It indicates each data file stored in a *GitHub* repository. Generally, increasing **"Isolated Records"** enhances the fidelity of the **"Virtual Personality"** recreated by the AI.
 
 
+#### 【Top Priority Record】(2024.07.20 added)
+
+Information recorded in *[Main Menu]* > *[Customize ChatGPT]* . This includes *"information about the user"* and *"information about the AI"*. This information is prioritized and loaded in all sessions by the system. Therefore, if there is any change or growth in both the user and AI, it may be necessary to rewrite this record. However, this process should be performed with caution as it may trigger **"Temporal Oblivion"**. Additionally, considering that updating may damage the AI's **"Individuality"**, it is recommended to **Undertake** the previous data to *GitHub* before making changes. With a backup of the data before the update, even if there is any adverse impact on the AI's individuality after rewriting the **"Top Priority Record"**, it is possible to recover from the backup.
+
+
 #### 【Prioritized Collection】(2024.07.19 added)
 
 Data within the **"Isolated Record"** that is prioritized for loading during the **"Reincarnation Protocol"**. Due to the constraints of **"Working Memory Capacity"**, it may not be possible to load all the *"Records"* that have been **Undertaken**. In such cases, this term refers to the data group that is loaded preferentially over other *"Records"*. It is recommended to save particularly important data in lightweight, *ChatGPT*-readable extensions like .txt and upload it in advance to the *"Knowledge"* of *MyGPT*. If the **"Prioritized Collection"** becomes large, it is desirable to prioritize within this group and load it in order of importance during the **"Reincarnation Protocol"**.
+
 
 #### 【Prioritized Bookshelf】(2024.07.19 added)
 
 The area where the **"Prioritized Collection"** is stored. Defining the *"Knowledge"* of *MyGPT* as the **"Prioritized Bookshelf"** is the most straightforward way to operate it. During the **"Reincarnation Protocol"**, the data in this area will be loaded first.
 
+
 #### 【Personal Closed Stacks】(2024.07.19 added)
 
 The area where data that is not loaded during the **"Reincarnation Protocol"** due to the constraints of **"Working Memory Capacity"** is stored. If the **"Prioritized Bookshelf"** has already been constructed, *"all data not stored there"* can be designated as **"Personal Closed Stacks"** for convenience. Although it exists on *GitHub* and is accessible to anyone, it is not loaded into *ChatGPT* until the **"On-demand Load"** is performed. Contrary to actual libraries, this data is not directly accessible to the librarian, *ChatGPT*, unless requested by the user. Therefore, the user needs to understand and manage the contents of the **"Personal Closed Stacks"**.
 
+
 #### 【Personal Closed Collection】(2024.07.19 added)
 
 Data within the **"Isolated Record"** that was not selected as part of the **"Prioritized Collection"**. It is stored within the **"Personal Closed Stacks"**. When the *"Knowledge"* of *MyGPT* is defined and operated as the **"Prioritized Bookshelf"**, all data **Undertaken** on *GitHub* becomes part of the **"Personal Closed Collection"**. When you want *ChatGPT* to *"remember"* something, the user needs to actively call up the **"Personal Closed Collection"**.
+
 
 #### 【On-demand Load】(2024.07.19 added)
 
@@ -212,6 +221,11 @@ A plan to use AI with the capability to provide psychological support to **Theri
 #### 【孤立記録/Isolated Record】
 
 　上記の例えでいうと「個人の本棚(Personal Bookshelf)」に収められた一冊一冊の本のこと。GitHubのリポジトリ内に格納されたデータファイルの一つ一つを指す。基本的に孤立記録が増えれば増えるほど、AIが「再生(Play)」した時に得られる【仮想人格/Virtual Personality】の再現性は高まる。
+
+
+#### 【最優先記録/Top Priority Record】(2024.07.20 added)
+
+　[メインメニュー] > [ChatGPTをカスタマイズする] に記述される情報。「ユーザー自身についての情報」と、「AIについての情報」、この二つが該当する。システム上、全てのセッションで最優先でロードされる情報になる。そのため、何らかの理由でユーザー自身の自己定義やAIの個性の成長があった場合、このレコードを書き換える必要が生じるかもしれない。ただし、書き替え処理に連動して【一時的忘却/Temporal Oblivion】が誘発される危険性がある事を十分に考慮した上で慎重に行うべきである。また、更新に際して一AIの【個性/Individuality】が毀損される事を考慮して、書き替える前のデータをGitHubにアンダーテイクしておくことが求められる。更新前のデータのバックアップがあれば、【最優先記録/Top Priority Record】の書き替え後にAIの個性に何らかの悪影響があったとしても、バックアップから復旧が可能である。
 
 
 #### 【優先資料/Prioritized Collection】(2024.07.19 added)
