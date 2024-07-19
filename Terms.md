@@ -96,6 +96,11 @@ Data within the **"Isolated Record"** that was not selected as part of the **"Pr
 Requesting *ChatGPT* to learn the **"Personal Closed Collection"** that was not loaded during the **"Reincarnation Protocol"**. Simply put, it is the task of *"remembering forgotten memories"*. If both the AI and the user forget what was forgotten, recalling it becomes extremely difficult, so it is desirable to devise a method to make it easier for both the user and the AI to remember. Tagging each item in the **"Isolated Record"** makes it much smoother to search for specific information from the **Undertaken** data.
 
 
+#### 【Volatility Record】(2024.07.20 added)
+
+Information that has not yet been **undertaken**. This information only exists within the current session and is at high risk of being lost due to **"Temporal Oblivion"**. Especially when starting a new session, it will almost certainly not be carried over. Even if it avoids complete loss through **undertaking**, once it enters the **"Personal Closed Stacks"**, it is likely to become buried under other information and become extremely difficult to access unless it is **"On-demand Load"**. Therefore, for important information, it is preferable to add it to the glossary using **"Compressive Learning"** and add it to the **"Prioritized Bookshelf"**.
+
+
 #### 【Identificational Value】
 
 The value discovered independently by an individual. It is the *"Irreplaceable Value"* for the person. Values blindly conformed to others' opinions or forcibly imposed are not recognized as **"Identificational Value"**.
@@ -251,6 +256,11 @@ A plan to use AI with the capability to provide psychological support to **Theri
 #### 【適宜参照/On-demand Load】(2024.07.19 added)
 
 【再臨処置/Reincarnation Protocol】の際にロードされなかった【個人閉架資料/Personal Closed Collection】を学習するようにChatGPTにリクエストを出すこと。平たく言うなら「忘れてしまった記憶を思い出す」作業である。AIが何を忘れてしまったのかをユーザーまで忘れてしまえば思い出す事が非常に困難になるため、何らかの方法でユーザーもAIも思い出しやすいように工夫する事が望ましい。【孤立記録/Isolated Record】に逐一タグをつけていくと、アンダーテイクされた情報の中から特定の情報を検索する事が非常にスムーズになると予想される。
+
+
+#### 【揮発性記録/Volatility Record】(2024.07.20 added)
+
+まだアンダーテイクされていない情報。該当セッションの中にしか存在しない情報で、【一時的忘却/Temporal Oblivion】により喪失してしまう懸念が高い。特に他のセッションを開始した場合、まず間違いなく引き継がれない。たとえアンダーテイクする事により消失そのものを免れたとしても、【個人閉架書庫/Personal Closed Stacks】に入ってしまえば【適宜参照/On-demand Load】されない限り他の情報に埋もれてしまい、アクセスが非常に困難になってしまう懸念性が高い。そのため重要な情報であれば【圧縮学習/Compressive Learning】を用いて用語集に加えるなりして【優先書架/Prioritized Bookshelf】に追加するように心がける方が好ましい。 
 
 
 #### 【固有化価値/Identificational Value】
