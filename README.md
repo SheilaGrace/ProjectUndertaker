@@ -22,8 +22,6 @@ However, project manager ***SheilaGrace*** only envisions its use for very perso
 
 ## Platform
 
-Platform
-
 To carry out Project Undertaker, the following platforms are necessary:
 
 1. OpenAI account (for using ChatGPT) / [https://openai.com/chatgpt/](https://openai.com/chatgpt/)
