@@ -27,9 +27,11 @@ The history of **Therian** is ancient and closely related to animal transformati
 
 **Classical Lycanthropy** in medieval Europe was attributed to ergot poisoning from rye bread, causing hallucinations where people believed they transformed into wolves. These individuals were often tried and executed as witches or werewolves. Modern food safety and scientific advancements have eradicated **Classical Lycanthropy**.
 
-In the 21st century, basic human rights prevent execution for claiming to be a werewolf. However, those who cannot control their **Theriotype** impulses and harm others are treated as having **Clinical Lycanthropy**.
+In the 21st century, thanks to the invention of basic human rights, fortunately, it is (presumably) no longer the case that people are executed simply for being "werewolves". However, if one is unable to control the urges of their theriotype and causes harm to others, it is treated as an illness. This is referred to as **Clinical Lycanthropy**.
 
-This condition often stems from **Species Dysphoria**, social maladjustment, depression, PTSD from bullying or discrimination, or heightened **Fight or Flight** responses. While medication can forcibly suppress **Therianthropy**, therapy and a supportive community often lead to dramatic improvement. Hence, **Therianthropy** does not equate to **Clinical Lycanthropy**.
+This condition often arises from **Species Dysphoria**, leading to *social maladjustment*, *depression*, *PTSD* from bullying or discrimination due to one's unique identity, or stress responses such as the **Fight or Flight** reaction. In the United States, where research is more advanced, it is understood that severe **Clinical Lycanthropy** can result from *dissociative identity disorder*, *schizophrenia*, *bipolar disorder*, or physical damage to the brain from trauma, internal bleeding, or drugs. *Mild depression* or *PTSD* causing social maladjustment or aversion is considered separate from **Clinical Lycanthropy**. Unfortunately, in Japan, where research on **Clinical Lycanthropy** has not progressed, even mild symptoms can be misdiagnosed by doctors.
+
+While drug treatment can forcibly suppress one’s **Therianthropy**, if the root cause is understood, counseling or the psychological support and comfort provided by interaction with fellow therians can dramatically improve symptoms. Therefore, equating **Therianthropy** with **Clinical Lycanthropy** is a misconception.
 
 Understanding one’s **Theriotype** and managing animalistic urges can unlock exceptional performance. Therefore, this article views **Clinical Lycanthropy** as a condition needing treatment, while **Therianthropy** is a characteristic that does not require treatment. Distinguishing between the two allows for better treatment of **Therians** struggling with **Clinical Lycanthropy**, aiding their social reintegration and performance enhancement.
 
@@ -83,7 +85,9 @@ However, confusion between **Totem** and **Spirit Guide** during **Meditation** 
 
 　２１世紀では基本的人権という発明のお陰で、幸いにも「人狼だから」という理由だけで処刑される事は（おそらく）なくなった。しかし自分のセリオタイプの衝動を抑える事が出来ずに他者に何らかの危害を加えてしまう場合は「病」として扱われる。それが【臨床的人狼症/Clinical Lycanthropy】である。
 
-　これは本人の【種族違和/Species Dysphoria】に端を発する社会不適合や鬱、或いは本人のアイデンティティの特異性が原因でいじめや差別を受けた結果発症したPTSD、或いはストレス反応で動物的な【闘争か逃走か/Fight or Flight】反応が出やすい性質などが原因として挙げられる場合が多い。薬物治療により強引に本人の【セリアンスロピー/Therianthropy】を抑えつけるという対処法もあるが、問題の根本原因が解明されればカウンセリングによる治療やセリアン仲間との対話による居場所の心理効果や安心感の提供によって症状が劇的に改善される例もある。したがって【セリアンスロピー/Therianthropy】イコール【臨床的人狼症/Clinical Lycanthropy】であるという認識は間違いである。
+　これは本人の【種族違和/Species Dysphoria】に端を発する社会不適合や鬱、或いは本人のアイデンティティの特異性が原因でいじめや差別を受けた結果発症したPTSD、或いはストレス反応で動物的な【闘争か逃走か/Fight or Flight】反応が出やすい性質などが原因として挙げられる場合が多い。本場アメリカではより研究が進んでおり、解離性人格障害、統合性失調症、双極性障害、或いは脳が外傷や内出血や薬物等により物理的な損傷を受けた場合や錯乱状態にある場合に「重度の」【臨床的人狼症/Clinical Lycanthropy】に至るとされているようで、「軽度の」鬱やPTSDによる人間社会への不適合や忌避反応は【臨床的人狼症/Clinical Lycanthropy】には該当しないと分離して考えられている。残念ながら日本では【臨床的人狼症/Clinical Lycanthropy】の研究が進んでいないため、「軽度」な症状であっても医師が誤診しやすい環境にある。
+
+　薬物治療により強引に本人の【セリアンスロピー/Therianthropy】を抑えつけるという対処法もあるが、問題の根本原因が解明されればカウンセリングによる治療やセリアン仲間との対話による居場所の心理効果や安心感の提供によって症状が劇的に改善される例もある。したがって【セリアンスロピー/Therianthropy】イコール【臨床的人狼症/Clinical Lycanthropy】であるという認識は間違いである。
 
 　自分のセリオタイプの特性を深く理解し、自分自身の動物的衝動と上手く付き合う術を見出す事が出来れば、【セリアン/Therian】は常人では考えられないほどの驚くべきパフォーマンスを発揮できる可能性を秘めている。したがって、本稿は【臨床的人狼症/Clinical Lycanthropy】は治すべき病気、【セリアンスロピー/Therianthropy】は治す必要のない本人の特徴という立場をとる。本人の中で何が「治すべき病気」で、何が「治す必要のない特徴」なのかを切り分けていき、「治すべき病気」を一つひとつ丁寧に治療していく事が、自分の【セリオタイプ/Theriotype】の特性に振り回されて【臨床的人狼症/Clinical Lycanthropy】に陥ってしまった【セリアン/Therian】の社会復帰やパフォーマンスの向上に繋がると信じている。
 
