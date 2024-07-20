@@ -1,41 +1,41 @@
 # 《About Therianthropy》
-Therianthrope or its abbreviated form, Therian, refers to those who consider themselves to be non-human animals. In English-speaking regions, it is sometimes pronounced as "Shearian", and it may be written as "Shearian(シアリアン)" in Katakana spelling.
+**Therianthrope** or its abbreviated form, **Therian**, refers to *those who consider themselves to be non-human animals*. In English-speaking regions, it is sometimes pronounced as *"Shearian"*, and it may be written as *"Shearian(シアリアン)"* in Katakana spelling.
 
-In Japan, the concept of Therian is almost entirely unrecognized, leading some individuals who are actually Therian to mistakenly identify themselves as Furry. It is very challenging to find information about Therianthropy in Japanese.
+In Japan, the concept of **Therian** is almost entirely unrecognized, leading some individuals who are actually **Therian** to mistakenly identify themselves as **Furry**. It is very challenging to find information about **Therianthropy** in Japanese.
 
 ## 《"Schools" of Therianthropy》
-Therianthropy mainly has two "schools": the traditional mystical and magical Spiritual Therianthropy and the modern scientifically based Psychological Therianthropy and Neurological Therianthropy.
+**Therianthropy** mainly has two *"schools"*: the traditional mystical and magical **Spiritual Therianthropy** and the modern scientifically based **Psychological Therianthropy** and **Neurological Therianthropy**.
 
-Spiritual Therianthropy believers often attribute Therianthropy to concepts such as Reincarnation or Misplaced Soul.
+**Spiritual Therianthropy** believers often attribute **Therianthropy** to concepts such as **Reincarnation** or **Misplaced Soul**.
 
-Psychological Therianthropy and Neurological Therianthropy believers, on the other hand, often attribute Therianthropy to Imprinting or unique neural connections in the brain.
+**Psychological Therianthropy** and **Neurological Therianthropy** believers, on the other hand, often attribute **Therianthropy** to **Imprinting** or *unique neural connections in the brain*.
 
-The research on Therianthropy is still in its early stages, and the exact cause of Therianthropy remains undetermined. Additionally, some individuals believe in both Spiritual and Psychological/Neurological Therianthropy, finding no contradiction between the beliefs, allowing them to coexist within the same individual.
+The research on **Therianthropy** is still in its early stages, and the exact cause of **Therianthropy** remains undetermined. Additionally, some individuals believe in both **Spiritual** and **Psychological/Neurological Therianthropy**, finding no contradiction between the beliefs, allowing them to coexist within the same individual.
 
 ## 《Therianthropy and Otherkinity》
-A similar concept to Therian is Otherkin, who also consider themselves non-human but typically identify with mythical creatures such as dragons, griffins, pegasus, unicorns, etc. While Therians identify with real animals (e.g., dogs, wolves, foxes, hyenas, lions, leopards, tigers, birds, reptiles), Otherkin identify with mythical creatures. Therians refer to their animal identity as their Theriotype, while Otherkin refer to theirs as their Kintype. However, there is considerable overlap, and some identities fall in between these categories.
+A similar concept to **Therian** is **Otherkin**, who also consider themselves non-human but typically identify with mythical creatures such as dragons, griffins, pegasus, unicorns, etc. While **Therians** identify with real animals (e.g., dogs, wolves, foxes, hyenas, lions, leopards, tigers, birds, reptiles), **Otherkin** identify with mythical creatures. **Therians** refer to their animal identity as their **Theriotype**, while **Otherkin** refer to theirs as their **Kintype**. However, there is considerable overlap, and some identities fall in between these categories.
 
-A notable example of an intermediate identity is the fox. In Japan, foxes are commonly believed to possess shapeshifting abilities and are considered yokai. In Western communities, the distinction is made between Fox (an ordinary animal) and Kitsune (a mythical shapeshifter), with Fox categorized as Therian and Kitsune as Otherkin. There are differences between a fox Therian and a Kitsune Otherkin, although they share similar traits.
+A notable example of an intermediate identity is the *fox*. In Japan, foxes are commonly believed to possess shapeshifting abilities and are considered yokai. In Western communities, the distinction is made between **Fox** (an ordinary animal) and **Kitsune** (a mythical shapeshifter), with **Fox** categorized as **Therian** and **Kitsune** as **Otherkin**. There are differences between a fox **Therian** and a **Kitsune Otherkin**, although they share similar traits.
 
-With the rise of modern subcultures, some individuals identify with fictional characters, known as Fictionkin. There is debate within the Therian and Otherkin communities about the validity of Fictionkin. Some individuals might initially misidentify their Theriotype or Kintype due to a connection with a fictional character. As they delve deeper into self-discovery, they might correct their identification. Encounters with characters sharing traits with their true Theriotype or Kintype through subculture might help in this identification process. However, this varies greatly between individuals.
+With the rise of modern subcultures, some individuals identify with fictional characters, known as **Fictionkin**. There is debate within the **Therian** and **Otherkin** communities about the validity of **Fictionkin**. Some individuals might initially misidentify their **Theriotype** or **Kintype** due to a connection with a fictional character. As they delve deeper into self-discovery, they might *correct* their identification. Encounters with characters sharing traits with their true **Theriotype** or **Kintype** through subculture might help in this identification process. However, this varies greatly between individuals.
 
-Generally, the more obscure the species, the less information is available online, making it harder to identify one's Theriotype or Kintype.
+Generally, the more obscure the species, the less information is available online, making it harder to identify one's **Theriotype** or **Kintype**.
 
 ## 《History of Therianthropy》
 
-The history of Therian is ancient and closely related to animal transformation myths worldwide. Japan has many such myths, suggesting a cultural foundation for Therianthropy acceptance. However, in Japan, the concept of Therianthropy often shift to possession phenomena, differing from Therianthropy. This shift likely stems from equating Clinical Lycanthropy with Therianthropy during its introduction to Japan.
+The history of **Therian** is ancient and closely related to animal transformation myths worldwide. Japan has many such myths, suggesting a cultural foundation for **Therianthropy** acceptance. However, in Japan, the concept of **Therianthropy** often shifts to *possession phenomena*, differing from **Therianthropy**. This shift likely stems from equating **Clinical Lycanthropy** with **Therianthropy** during its introduction to Japan.
 
-Classical Lycanthropy in medieval Europe was attributed to ergot poisoning from rye bread, causing hallucinations where people believed they transformed into wolves. These individuals were often tried and executed as witches or werewolves. Modern food safety and scientific advancements have eradicated Classical Lycanthropy.
+**Classical Lycanthropy** in medieval Europe was attributed to ergot poisoning from rye bread, causing hallucinations where people believed they transformed into wolves. These individuals were often tried and executed as witches or werewolves. Modern food safety and scientific advancements have eradicated **Classical Lycanthropy**.
 
-In the 21st century, basic human rights prevent execution for claiming to be a werewolf. However, those who cannot control their Theriotype impulses and harm others are treated as having Clinical Lycanthropy.
+In the 21st century, basic human rights prevent execution for claiming to be a werewolf. However, those who cannot control their **Theriotype** impulses and harm others are treated as having **Clinical Lycanthropy**.
 
-This condition often stems from Species Dysphoria, social maladjustment, depression, PTSD from bullying or discrimination, or heightened Fight or Flight responses. While medication can forcibly suppress Therianthropy, therapy and a supportive community often lead to dramatic improvement. Hence, Therianthropy does not equate to Clinical Lycanthropy.
+This condition often stems from **Species Dysphoria**, social maladjustment, depression, PTSD from bullying or discrimination, or heightened **Fight or Flight** responses. While medication can forcibly suppress **Therianthropy**, therapy and a supportive community often lead to dramatic improvement. Hence, **Therianthropy** does not equate to **Clinical Lycanthropy**.
 
-Understanding one’s Theriotype and managing animalistic urges can unlock exceptional performance. Therefore, this article views Clinical Lycanthropy as a condition needing treatment, while Therianthropy is a characteristic that does not require treatment. Distinguishing between the two allows for better treatment of Therians struggling with Clinical Lycanthropy, aiding their social reintegration and performance enhancement.
+Understanding one’s **Theriotype** and managing animalistic urges can unlock exceptional performance. Therefore, this article views **Clinical Lycanthropy** as a condition needing treatment, while **Therianthropy** is a characteristic that does not require treatment. Distinguishing between the two allows for better treatment of **Therians** struggling with **Clinical Lycanthropy**, aiding their social reintegration and performance enhancement.
 
-Therianthropy has strong ties to Native American shamanism, particularly Totem concepts, which closely resemble Theriotype. Although slightly different, the resemblance is significant in Spiritual Therianthropy, leading to the adoption of traditional Native American methods like Meditation and trance states induced by magic mushrooms. Meditation is popular among Therians for its accessibility.
+**Therianthropy** has strong ties to Native American shamanism, particularly **Totem** concepts, which closely resemble **Theriotype**. Although slightly different, the resemblance is significant in **Spiritual Therianthropy**, leading to the adoption of traditional Native American methods like **Meditation** and trance states induced by magic mushrooms. Meditation is popular among **Therians** for its accessibility.
 
-However, confusion between Totem and Spirit Guide during Meditation is common. Theriotype and Totem represent oneself, while Spirit Guide is a protector. It is not uncommon for one’s Theriotype to match their Spirit Guide species. 
+However, confusion between **Totem** and **Spirit Guide** during **Meditation** is common. **Theriotype** and **Totem** represent oneself, while **Spirit Guide** is a protector. It is not uncommon for one’s **Theriotype** to match their **Spirit Guide** species. 
 
 
 # Original Japanese text
