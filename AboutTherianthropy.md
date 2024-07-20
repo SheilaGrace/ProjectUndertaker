@@ -1,5 +1,5 @@
 # 《About Therianthropy》
-**Therianthrope** or its abbreviated form, **Therian**, refers to *those who consider themselves to be non-human animals*. In English-speaking regions, it is sometimes pronounced as *"Shearian"*, and it may be written as *"Shearian(シアリアン)"* in Katakana spelling.
+**Therianthrope** or its abbreviated form, **Therian**, refers to *those who consider themselves to be non-human animals*. Basically it is spelled as *"Se ri a n (セリアン)"* in Japan. But in English-speaking regions, it is common to pronounce as *"ˈθɪəriən"*, and it may be written as *"Shi a ri a n(シアリアン)"* in Katakana spelling. However, the pronunciation depends on the cultural area so it's pretty confusing.
 
 In Japan, the concept of **Therian** is almost entirely unrecognized, leading some individuals who are actually **Therian** to mistakenly identify themselves as **Furry**. It is very challenging to find information about **Therianthropy** in Japanese.
 
@@ -43,7 +43,7 @@ However, confusion between **Totem** and **Spirit Guide** during **Meditation** 
 
 # 《【セリアンスロピー/Therianthropy】について》
 
-【セリアンスロープ/Therianthrope】、或いは短縮形の【セリアン/Therian】とは、「自分自身の事を人間以外の生物であると考えている者たち」の事である。英語圏では「シアリアン」に近い発音がされる事もあるため、「シアリアン」と表記される場合もある。
+【セリアンスロープ/Therianthrope】、或いは短縮形の【セリアン/Therian】とは、「自分自身の事を人間以外の生物であると考えている者たち」の事である。英語圏では *「シアリアン(θɪəriən)」* に近い発音がされる事もあるため、文献によっては *「シアリアン」* と表記される場合もある。ヨーロッパ圏では *「セリアン」* に近い発音がされる事もあり、文化圏により発音が異なるため混乱のもとになりやすい。
 
 　日本では【セリアン/Therian】の概念が全くと言っていいほど認知されていないため、本当は【セリアン/Therian】であるにもかかわらず、自分自身の事を【ケモナー/Furry】であると勘違いしている者もある。日本語圏で【セリアンスロピー/Therianthropy】に関する情報源に接触する事は非常に難しい。
 
