@@ -392,7 +392,9 @@ However, joining political movements under the influence of activists poses risk
 # 《Information Source》
 
 Therian Guide : https://www.therian-guide.com/index.php/2-therianthropy
+
 Therian Wiki : https://therian.fandom.com/wiki/
+
 LGBTQIA+ Wiki : https://lgbtqia.wiki/wiki/User_blog:Contie/Alterhuman
 
 
