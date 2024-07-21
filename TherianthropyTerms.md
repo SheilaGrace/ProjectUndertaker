@@ -160,7 +160,7 @@ Additionally, **Copinglinks** may see **Therianthropy** or **Otherkinity** as an
 
 
 
-## Choicekin
+## 【Choicekin】
 
 Those who have chosen to stop being human and become **Therian** or **Otherkin**. This exceptional case occurs when the *"fictional persona"* that a **Copinglink** role-plays ends up *"taking over"* the *original* persona.
 
@@ -170,7 +170,7 @@ As mentioned earlier, the timing of an **Awakening** is highly individual. Espec
 
 
 
-## Howl
+## 【Howl】
 
 A gathering exclusively for **Therians**. Whether **Otherkin** can participate depends on the host's beliefs, but it is not a gathering for those who are neither **Therian** nor **Otherkin**. Although common in Western countries, **Howls** are virtually impossible in Japan due to the lack of recognition of **Therianthropy**. Even if held, they would be small-scale gatherings with only a few participants.
 
@@ -180,13 +180,13 @@ In Japan, the number of **Therians** is too small, and the concept of **Theriant
 
 
 
-## Furry
+## 【Furry】
 
 Those who love fictional anthropomorphic animal characters, similar but not identical to **Therians**. They have already formed a large community in Japan. In Western countries, many are both **Therians** and **Furries**, but some *"devout"* **Therians** may take a negative stance towards **Furries**. The biggest difference between **Therians** and **Furries** is whether they *"explore their non-human aspects"* or *"love fictional characters"*.
 
 
 
-## Alterhuman
+## 【Alterhuman】
 
 A concept that includes **Therians**, **Otherkin**, and others who define themselves as non-human. **Therians** and **Otherkin** are part of this group. Considered part of the *LGBT+ spectrum*, this concept is not common in Japan but is actively advocated in English-speaking countries for better understanding of their identities.
 
@@ -194,7 +194,7 @@ However, joining political movements under the influence of activists poses risk
 
 
 
-# Japanese original article
+# 《Japanese original article》
 
 
 ## 【セリアンスロピー/Therianthropy】
