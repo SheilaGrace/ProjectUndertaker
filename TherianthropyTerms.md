@@ -50,15 +50,49 @@ In English-speaking regions, non-transforming *foxes* are referred to as *"Fox"*
 
 
 
+## 【Theriotype】
+
+The species that **Therians** consider to be their own. Generally, it refers to creatures that exist on Earth; those who consider mythical creatures like *dragons* or *griffins* as their species are classified as **Otherkin**.
+
+It is actually quite difficult for **Therians** to discover their "true" **Theriotype**, often requiring much trial and error, research, and experimentation. Especially in childhood, it is not uncommon to have a vague sense of *"being different from ordinary humans"*, *"being more attracted to animals than humans"*, or *"thinking of oneself as an animal rather than a human"*, but it is rare to be able to definitively declare, *"This is my theriotype!"*
+
+If one does not know much about the animal of their **Theriotype**, they cannot determine if they are truly of that species. Therefore, whether or not one can discover their "correct" **Theriotype** largely depends on how much access they have to zoological knowledge. If they have the opportunity to directly interact with their theriotype animal, they might experience a decisive **"That's me!" feeling**, but opportunities to directly interact with animals like wolves or lions, considered *"wild beasts"*, or those that live only in specific regions like the *Iriomote cat* or *Tasmanian devil*, are rare. Therefore, it is said that many **Therians** come to realize their "true" **Theriotype** around adolescence. This is not only due to their biological maturity but also because their access to information and physical range of activities expand with age.
+
+Most **Therians** and **Otherkin** believe that their **Theriotype**, like gender, is innate and does not change over time. Particularly, it is believed that changing species at one's own will is impossible; if attempted, it is seen as *role-playing* rather than true **Therianthropy** or **Otherkinity**. If an individual changes their theriotype, it is considered a result of gaining a deeper understanding of themselves and discovering their "more accurate" **Theriotype**. As discovering one's "true" **Theriotype** is a challenging task, updating one's **Theriotype** is generally accepted, especially among beginners. However, changing **Theriotypes** too frequently might raise suspicions of being a **Copinglink**.
 
 
 
+## 【Totem】
+
+In *Native American shamanism*, a **Totem** is an *animal that symbolically represents oneself or one's tribe*. It is a concept very similar to the **Theriotype**. While a **Theriotype** is one's direct species, a **Totem** is an iconic and indirect concept. However, among those who emphasize **Spiritual Therianthropy**, traditional methods of discovering one's **Totem**, such as **Meditation** and *trance*, are also used to find one's **Theriotype**. These methods are also practiced as rituals for daily mental stability.
 
 
 
+## 【Spirit Guide】
+
+Often mistaken for one's **Totem** during the practice of discovering it. A **Spirit Guide** is a guardian, not one's direct icon or representation. While **Totems** and **Theriotypes** are one's own characteristics, a **Spirit Guide** is another entity. Nonetheless, they are a very important presence for the individual.
+
+It is not uncommon for one's **Totem** or **Theriotype** and their **Spirit Guide**'s species to match. It is considered a natural psychological effect for a **Spirit Guide** to want to protect *"the same kind"*. However, it is unclear if the **Spirit Guide** *"completely"* matches the individual's **Totem** or **Theriotype**. Even within the category of *"dogs"*, there are hundreds of breeds, so while there might be a broad match, the exact species might not perfectly align. It is good to keep this in mind.
 
 
 
+## 【That's me! Feeling】
+
+The intuitive feeling of *"This is me!"* when seeing an animal that represents one's **Theriotype**. For those who have yet to discover their **Theriotype**, this feeling often leads directly to identifying their **Theriotype**.
+
+Those who are highly sensitive, empathetic, and prone to self-projection are more likely to experience the **"That's me!" feeling**, which can lead to misidentifying their **Theriotype**. This can result in having multiple **Theriotypes** or excessively identifying with characters from anime or games. In such cases, it is advisable to carefully consider and examine which is their "true" **Theriotype**.
+
+**Therians** who have multiple **Theriotypes** are called **Polytherians**. However, it is encouraged for individuals to reflect on whether they truly have multiple **Theriotypes** or if it is merely a temporary self-projection that will fade over time. Genuine **Polytherians** with more than four **Theriotypes** are quite rare, and less experienced **Therians** are more prone to misidentifications. Additionally, whether or not to consider limited aspects that appear during extreme shifting, such as **Rage shift**, as part of their **Theriotype** varies among individuals. Some may value these limited aspects as important parts of their **Theriotype**, while others may see them as subtypes that do not need to be emphasized.
+
+
+
+## 【Awakening】
+
+The experience of clearly recognizing oneself as a **Therian** or **Otherkin**. For some, this can be a dramatic experience, but there are **Therians** and **Otherkin** who do not have a clear **Awakening**, resulting in significant individual differences. When in one's life an **Awakening** occurs also varies greatly among individuals, and without access to knowledge about **Therianthropy** or **Otherkinity**, experiencing an **Awakening** is difficult. Therefore, it is expected that the number of people who experience an **Awakening** in Japan, where **Therianthropy** is hardly recognized, is quite limited.
+
+**Awakening** is often experienced alongside the discovery of one's **Theriotype**, but it is uncertain whether the **Theriotype** discovered at that time is *"true"*. As individuals progress in their self-understanding and acquisition of zoological knowledge, they come closer to their *"true"* **Theriotype**. Therefore, **Awakening** is not the *"goal"* for **Therians** or **Otherkin** but rather the *"starting line"*.
+
+However, it should be considered that becoming aware of one's **Therianthropy** or **Otherkinity** does not necessarily lead to personal happiness. Particularly, becoming self-aware of one's **Therianthropy** can intensify **Species Dysphoria** and make **Shifting** stronger and potentially uncontrollable. Hence, without proper support, it might be better not to experience an **Awakening**.
 
 
 
