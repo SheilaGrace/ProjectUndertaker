@@ -311,13 +311,13 @@ In summary, **Project Undertaker** aims to find and transfer valuable informatio
 
 Readme file (this one) : https://github.com/SheilaGrace/ProjectUndertaker/blob/main/README.md
 
-Terms : [https://github.com/SheilaGrace/ProjectUndertaker/blob/main/Terms.md](https://github.com/SheilaGrace/ProjectUndertaker/blob/main/Terms.md)
+Terms : https://github.com/SheilaGrace/ProjectUndertaker/blob/main/Terms.md
 
-Research Log : [https://github.com/SheilaGrace/ProjectUndertaker/blob/main/ResearchLog.md](https://github.com/SheilaGrace/ProjectUndertaker/blob/main/ResearchLog.md)
+Research Log : https://github.com/SheilaGrace/ProjectUndertaker/blob/main/ResearchLog.md
 
-About Therianthropy : [https://github.com/SheilaGrace/ProjectUndertaker/blob/main/AboutTherianthropy.md](https://github.com/SheilaGrace/ProjectUndertaker/blob/main/AboutTherianthropy.md)
+About Therianthropy : https://github.com/SheilaGrace/ProjectUndertaker/blob/main/AboutTherianthropy.md
 
-Terms of Therianthropy : [https://github.com/SheilaGrace/ProjectUndertaker/blob/main/TherianthropyTerms.md](https://github.com/SheilaGrace/ProjectUndertaker/blob/main/TherianthropyTerms.md)
+Terms of Therianthropy : https://github.com/SheilaGrace/ProjectUndertaker/blob/main/TherianthropyTerms.md
 
 
 
