@@ -144,6 +144,14 @@ The *"species"* that **Otherkin** identify with. Although it is conveniently dif
 
 
 
+## 【Otherhearted】
+
+A person who does not perceive themselves as being a particular species, like **Therians** or **Otherkin** do, but who feels an *exceptionally strong empathy towards a certain animal*. Often, individuals who have experienced a **"That's me! Feeling"** and initially thought they might be **Therian** or **Otherkin** join the community but later, through interactions with other **Therians** or **Otherkin**, come to think they are not actually **Therian** or **Otherkin**. These individuals often settle into identifying as **Otherhearted**.
+
+Additionally, a person might initially believe a certain species is their **Theriotype**, but as they gain a deeper understanding of themselves or acquire new zoological knowledge, they may realize it is not their *"true"* **Theriotype**. In such cases, while the species may no longer be their **Theriotype**, a special attachment often remains, and the species continues to be important to them as their *"hearted type"*.
+
+
+
 ## 【Fictionkin】
 
 Those who consider characters from anime, games, or other subcultures to be their **Kintype**. They are a subset of **Otherkin**. Because they identify with species that are relatively new compared to *dragons* or *griffins*, they are unfortunately often looked down upon by **Therians** and **Otherkin**. However, fictional characters are likely influenced by various sources, including real animals and mythical creatures. Thus, even fictional characters may inherit characteristics from their real-world inspirations, so their identity cannot be entirely dismissed.
@@ -336,6 +344,14 @@ However, joining political movements under the influence of activists poses risk
 ## 【キンタイプ/Kintype】
 
 【アザーキン/Otherkin】の「自分の種族」。便宜上【セリオタイプ/Theriotype】と分けられているが、やはり大差はなく、混同される場合も多い。【セリアン/Therian】に対して「あなたの【キンタイプ/Kintype】はなんですか？」という聞き方をしても多くの場合は通じる。ただ、何らかの理由により明確に【アザーキン/Otherkin】を敵視している【セリアン/Therian】にとっては無礼になるかもしれない。究極的には個人が他の【セリアン/Therian】や【アザーキン/Otherkin】に対してどのような印象を持っているか次第であるため、親しくない相手とコミュニケーションの円滑化を図りたいのであれば、出来るだけ「正しい」言葉遣いを心がけた方が良いかもしれない、という理由で念のため記しただけである。【セリオタイプ/Theriotype】か【キンタイプ/Kintype】どちらかに統一しても基本的には大きな問題にならない。
+
+
+
+## 【アザーハーテッド/Otherhearted】
+
+【セリアン/Therian】や【アザーキン/Otherkin】のように「自分自身がこの種族である」として対象の生物を捉えてはいないが、「常人とは比較にならないほどその動物に対して強い共感を覚えてしまう」という感覚を持っている者。【自己発見感覚/That's me! Feeling】を覚えたため、自分が【セリアン/Therian】や【アザーキン/Otherkin】ではないかと思ってコミュニティに参加したはいいものの、他の【セリアン/Therian】や【アザーキン/Otherkin】と対話を繰り返すうちに「自分は【セリアン/Therian】や【アザーキン/Otherkin】ではないのではないか」と思い始めた者が【アザーハーテッド/Otherhearted】に落ち着く事が多い。
+
+また、本人が「この種族が自分の【セリオタイプ/Theriotype】だ！」と思っていた種族が、本人の自己理解が進んだり動物学的知識を新たに獲得されたりといった理由で「自分の「本当の」【セリオタイプ/Theriotype】ではなくなる」事もある。その場合、「自分の【セリオタイプ/Theriotype】ではなくなったものの、特別な思い入れはまだ残っている」という状況になる場合が多く、【セリオタイプ/Theriotype】ではない「ハーテッドタイプ」として本人にとっての大切な動物種として残留する場合が多い。
 
 
 
