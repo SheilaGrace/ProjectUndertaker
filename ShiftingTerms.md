@@ -50,6 +50,69 @@ In Japan, the term *"Kemono"* is widely recognized to refer to *anthro character
 
 
 
+# 《Types of Shifting》
+
+## 【Mental Shift】
+
+Perhaps the most familiar type of **shift** for **Therians** and **Otherkin**. The mental state shifts to an *"animal state"*, and one perceives themselves closer to their **Theriotype**. This can result in a strong urge to engage in animalistic behaviors such as barking or biting. These behaviors can become problematic if acted upon in public, so learning to control a **Mental Shift** is crucial for the psychological well-being of **Therians** and **Otherkin** living near human populations. Though this is addressed in both **Spiritual Therianthropy** and **Psychological Therianthropy**, recent studies have made more in-depth progress in the **Psychological Therianthropy** field.
+
+Suppressing these urges can often lead to significant stress buildup. Therefore, it is generally preferable for individuals to find ways to express their animalistic urges. Some coping strategies include:
+
+1. Building an avatar of their **Theriotype** in metaverse platforms like *SecondLife* or *VRChat* to spend more time as their *"true self"*.
+
+2. Engaging in conversations with other **Therians** or **Otherkin** to create environments where they can be their true selves.
+
+3. Releasing animalistic urges in secluded natural settings.
+
+4. Engaging in creative activities that represent their **Theriotype** to express their own **Therianthropy**.
+
+5. Performing intentional **Phantom Shifts** through **Meditation** to strongly connect with their **Theriotype** for self-fulfillment.
+
+6. Making physical contact with similar species of animals to one's **Theriotype**, like dogs or cats.
+
+7. Consuming content related to their **Theriotype**, such as art, movies, music, or literature.
+
+8. Relaxing by watching videos or listening to music that evokes nature if natural environments are unavailable.
+
+9. Writing down thoughts on Therianthropy in a journal.
+
+Addressing **Species Dysphoria** through these methods is advisable.
+
+Future advancements in *AR* technology may allow people to freely change avatars, potentially significantly reducing **Species Dysphoria** by always wearing an avatar that matches their **Theriotype**.
+
+
+
+## 【Phantom Shift】
+
+The term *"phantom"* in **Phantom Shift** refers to the **"Phantom Limb"** experienced by individuals. This shift involves seeing or feeling **Phantom Limbs** of one's **Theriotype**, such as feeling a *tail* or *paw pads*. While no physical change occurs, sensitive **Therians** and **Otherkin** report being able to perceive others' **Phantom Limbs**. Reports also suggest that infants and animals, such as dogs and cats, may sense these **Phantom Limbs**. This has led to the hypothesis that **Phantom Shifts** involve abilities humans lost through evolution or growth. Studies seeking to understand these *"lost abilities"* potentially develop **Neurological Therianthropy** discovery.
+
+**Phantom Shifts** are primarily considered a part of **Spiritual Therianthropy**, and it is believed they can be *"trained"* to some extent through **Meditation** and *imagery exercises*. The duration and intensity of these sensations depend significantly on the individual's condition. Spiritual experiences like **Astral Shift** can sometimes dramatically enhance the intensity of these sensations. While generally a pleasant experience for most **Therians** and **Otherkin**, the inability to maintain **Phantom Limbs** can risk experiencing **Species Dysphoria**.
+
+
+
+## 【Dream Shift】
+
+A shift experienced in dreams where one becomes their **Theriotype**. With training in controlling dream content, one might be able to intentionally experience **Dream Shifts**. Without special training, **Dream Shifts** are typically involuntary. Experiences include running through mountains at incredible speeds or seeing the world from a low perspective.
+
+
+
+## 【Cameo Shift】
+
+An exceptional shift where one temporarily shifts to an animal species that is ***not*** their **Theriotype**. This can involve intense **Mental Shifts** or **Phantom Shifts**, leading to misidentification of one's **Theriotype**. **Cameo Shifts** can occur briefly or persist for years, often triggered by changes in environment or psychological state, and may cease once the stress is alleviated.
+
+
+
+## 【Astral Shift】
+
+A spiritual shift encompassing various spiritual experiences related to **Therianthropy**. Some specific **Dream Shifts** can be part of **Astral Shifts**, as can communication with **Spirit Guides**. This area is mainly addressed by **Spiritual Therianthropy**. **Astral Shifts** often occur during deep **Meditation**, sleep, or trance states, though some individuals possess the special ability to communicate daily with their **Spirit Guides**. While not everyone experiences **Astral Shifts**, those skeptical of *ghosts* or *spirits* may actively deny them. Individual beliefs outside of **Therianthropy** can also influence the likelihood of experiencing **Astral Shifts**.
+
+
+
+## 【Sensory Shift】
+
+A shift where sensory organs become heightened, approaching the senses of one's **Theriotype**. Typically olfactory and hearing senses intensity, but rarely reported the lack of color recognition. Reactions vary; some **Therians** welcome **Sensory Shifts**, while others find them unpleasant. When viewed negatively, **Sensory Shifts** may be considered similar to the *"sensory overload"* discussed in modern psychology. Like **Mental Shifts**, uncontrolled **Sensory Shifts** can disrupt daily life, so learning voluntary control is important.
+
+**Psychological Therianthropy** suggests that **Sensory Shifts** occur not through physical enhancement of senses but by unlocking the body's potential to its limits. They often accompany **Mental Shifts**, potentially seen as part of an instinctive **"Fight or Flight"** response, making the individual more alert to perceived threats. Creating a psychological safe zone, where the individual feels secure, can help control **Sensory Shifts**. Supportive protection from others is ideal.
 
 
 
