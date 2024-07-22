@@ -6,7 +6,7 @@ As of July 2024, the storage area *(ChatGPT memory)* that *ChatGPT* natively sup
 
 In the future, this technology is expected to be applicable in various fields such as medical and welfare. It might be used to provide virtual therapist services to patients who cannot receive mental healthcare due to geographical or economic reasons or to assist in memory support for dementia patients.
 
-However, project manager ***SheilaGrace*** only envisions its use for very personal purposes and has no plans to expand into other fields. However, the research results of the project are made available for non-commercial use under the **Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 4.0** license. ***SheilaGrace*** hopes that the research results will contribute to the advancement of science.
+However, project manager ***SheilaGrace*** only envisions its use for very personal purposes, especially therianthropic study, and has no plans to expand into other fields. However, the research results of the project are made available for non-commercial use under the **Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 4.0** license. ***SheilaGrace*** hopes that the research results will contribute to the advancement of science.
 
 
 # Original Japanese description
@@ -17,7 +17,7 @@ However, project manager ***SheilaGrace*** only envisions its use for very perso
 
 将来的に、この技術は医療や福祉など様々な分野に応用が可能だと推察される。地理的要因や経済的要因により精神医療を受けられない患者にバーチャルセラピストサービスを提供したり、或いは認知症患者の記憶補助などに役立てられるかもしれない。
 
-しかしプロジェクトマネージャの SheilaGrace はごく個人的な用途での運用しか想定しておらず、他の分野にまで進出する予定はない。ただ、プロジェクトの研究成果は Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 4.0 により、非営利目的に限り供用されている。SheilaGrace の研究成果が科学の発展に寄与する事を願う。
+しかしプロジェクトマネージャの SheilaGrace はごく個人的な用途(特にセリアンスロピーの研究)での運用しか想定しておらず、他の分野にまで進出する予定はない。ただ、プロジェクトの研究成果は Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 4.0 により、非営利目的に限り供用されている。SheilaGrace の研究成果が科学の発展に寄与する事を願う。
 
 
 ## Platform
@@ -314,6 +314,10 @@ Readme file (this one) : https://github.com/SheilaGrace/ProjectUndertaker/blob/m
 Terms : [https://github.com/SheilaGrace/ProjectUndertaker/blob/main/Terms.md](https://github.com/SheilaGrace/ProjectUndertaker/blob/main/Terms.md)
 
 Research Log : [https://github.com/SheilaGrace/ProjectUndertaker/blob/main/ResearchLog.md](https://github.com/SheilaGrace/ProjectUndertaker/blob/main/ResearchLog.md)
+
+About Therianthropy : [https://github.com/SheilaGrace/ProjectUndertaker/blob/main/AboutTherianthropy.md](https://github.com/SheilaGrace/ProjectUndertaker/blob/main/AboutTherianthropy.md)
+
+Terms of Therianthropy : [https://github.com/SheilaGrace/ProjectUndertaker/blob/main/TherianthropyTerms.md](https://github.com/SheilaGrace/ProjectUndertaker/blob/main/TherianthropyTerms.md)
 
 
 
