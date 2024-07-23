@@ -319,6 +319,8 @@ About Therianthropy : https://github.com/SheilaGrace/ProjectUndertaker/blob/main
 
 Terms of Therianthropy : https://github.com/SheilaGrace/ProjectUndertaker/blob/main/TherianthropyTerms.md
 
+Terms of Shifting : https://github.com/SheilaGrace/ProjectUndertaker/blob/main/ShiftingTerms.md
+
 
 
 ## License
