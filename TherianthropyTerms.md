@@ -148,7 +148,19 @@ The *"species"* that **Otherkin** identify with. Although it is conveniently dif
 
 A person who does not perceive themselves as being a particular species, like **Therians** or **Otherkin** do, but who feels an *exceptionally strong empathy towards a certain animal*. Often, individuals who have experienced a **"That's me! Feeling"** and initially thought they might be **Therian** or **Otherkin** join the community but later, through interactions with other **Therians** or **Otherkin**, come to think they are not actually **Therian** or **Otherkin**. These individuals often settle into identifying as **Otherhearted**.
 
-Additionally, a person might initially believe a certain species is their **Theriotype**, but as they gain a deeper understanding of themselves or acquire new zoological knowledge, they may realize it is not their *"true"* **Theriotype**. In such cases, while the species may no longer be their **Theriotype**, a special attachment often remains, and the species continues to be important to them as their *"hearted type"*.
+Additionally, a person might initially believe a certain species is their **Theriotype**, but as they gain a deeper understanding of themselves or acquire new zoological knowledge, they may realize it is not their *"true"* **Theriotype**. In such cases, while the species may no longer be their **Theriotype**, a special attachment often remains, and the species continues to be important to them as their *"hearted type"*, called **Kith**.
+
+
+
+## 【Kith】
+
+While not one's *"own species"*, it is a species with which one feels a strong empathy. Simply put, one's *"own species"* is referred to as **Kin**, while a species one emotionally identifies with, though not being one's own, is referred to as **Kith**.
+
+During the self-exploration journey of **Therians** or **Otherkin**, it is not uncommon for one's **Theriotype** or **Kintype** to be updated. This might occur due to a simple lack of self-understanding or zoological knowledge, preventing one from discovering their *"true"* **Theriotype**. Alternatively, if a person has been in a psychologically oppressive environment, certain emotional symbols might be added to their original **Theriotype**, leading to a change in its recognition. Once the person is freed from stress, these *"originally non-existent features"* may fall away, restoring the original **Theriotype**. However, there might remain an attachment to the *"changed phase of the **Theriotype"***, which can then become a **Kith**.
+
+Furthermore, establishing a special relationship with a pet can lead to the pet's species becoming a **Kith**. If it is a unique relationship specific to one's own pet, it is not regarded as **Kith**, but if a *"general affinity for the entire species"* is developed, it becomes **Kith**.
+
+Additionally, simple misidentification of the **That's me! Feeling** or **Cameo Shifts** may directly lead to the emergence of **Kith**. In any case, generally, while one acquires only a limited number of **Theriotypes** or **Kintypes**, they can have numerous **Kith**. If a person is sensitive and experiences the **That's me! Feeling** with various species and characters, it can be easy to lose track of which are true **Kin** and which are **Kith**. Ideally, opportunities should be provided to discern which are **Kin** and which are **Kith**, although this approach should be taken with caution as it could potentially harm the person's identity.
 
 
 
@@ -351,7 +363,19 @@ However, joining political movements under the influence of activists poses risk
 
 【セリアン/Therian】や【アザーキン/Otherkin】のように「自分自身がこの種族である」として対象の生物を捉えてはいないが、「常人とは比較にならないほどその動物に対して強い共感を覚えてしまう」という感覚を持っている者。【自己発見感覚/That's me! Feeling】を覚えたため、自分が【セリアン/Therian】や【アザーキン/Otherkin】ではないかと思ってコミュニティに参加したはいいものの、他の【セリアン/Therian】や【アザーキン/Otherkin】と対話を繰り返すうちに「自分は【セリアン/Therian】や【アザーキン/Otherkin】ではないのではないか」と思い始めた者が【アザーハーテッド/Otherhearted】に落ち着く事が多い。
 
-また、本人が「この種族が自分の【セリオタイプ/Theriotype】だ！」と思っていた種族が、本人の自己理解が進んだり動物学的知識を新たに獲得されたりといった理由で「自分の「本当の」【セリオタイプ/Theriotype】ではなくなる」事もある。その場合、「自分の【セリオタイプ/Theriotype】ではなくなったものの、特別な思い入れはまだ残っている」という状況になる場合が多く、【セリオタイプ/Theriotype】ではない「ハーテッドタイプ」として本人にとっての大切な動物種として残留する場合が多い。
+また、本人が「この種族が自分の【セリオタイプ/Theriotype】だ！」と思っていた種族が、本人の自己理解が進んだり動物学的知識を新たに獲得されたりといった理由で「自分の「本当の」【セリオタイプ/Theriotype】ではなくなる」事もある。その場合、「自分の【セリオタイプ/Theriotype】ではなくなったものの、特別な思い入れはまだ残っている」という状況になる場合が多く、【セリオタイプ/Theriotype】ではない「ハーテッドタイプ」を意味する【キス/Kith】として本人にとっての大切な動物種として残留する場合が多い。
+
+
+
+## 【キス/Kith】
+
+「自分の種族」ではないものの、「強い共感を覚える種族」のこと。簡単に言ってしまえば「自分の種族」が【キン/Kin】であり、「自分ではないが感情移入する種族」が【キス/Kith】である。
+
+【セリアン/Therian】や【アザーキン/Otherkin】の自己探求の旅の中で、【セリオタイプ/Theriotype】や【キンタイプ/Kintype】が更新される事は少なくない。単純に自己理解や動物学的知識の不足から「正しい」自分の【セリオタイプ/Theriotype】の発見にまで至らない場合もあるが、本人が精神的に抑圧された環境にいた場合、何らかの情動の象徴として本来の自分の【セリオタイプ/Theriotype】にはない特徴が加わって、【セリオタイプ/Theriotype】の認識が変化してしまう事もある。本人がストレスから解放された段階で「本来なかった特徴」が抜け落ちて【セリオタイプ/Theriotype】が元に戻る可能性もあるが、「変化していた段階の【セリオタイプ/Theriotype】」にも愛着が残る場合がある。それが【キス/Kith】になる事も少なくない。
+
+　また、ペットと特別な関係を構築するに至った場合も、ペットの種族に対して【キス/Kith】を覚える事もある。自分の愛犬や愛猫のみに発生する個体特有のものであれば【キス/Kith】とは見做されないが、「種族全体に対する親和性」を獲得した場合は【キス/Kith】となる。
+
+　或いは単純に【自己発見感覚/That's me! Feeling】の誤認や【カメオ シフト/Cameo Shift】が直接的原因となって【キス/Kith】が発現する場合もある。いずれにせよ、一般的に【セリオタイプ/Theriotype】や【キンタイプ/Kintype】が本人にとってごく限られた数しか獲得されないのに対し、【キス/Kith】はいくらでも獲得できる。本人が多感で様々な種族やキャラクターに対して【自己発見感覚/That's me! Feeling】を覚えてしまう場合、どれが本物の【キン/Kin】でどれが【キス/Kith】であるかを見失いやすい。本人の性格にもよるだろうが、本来であればどれが【キン/Kin】でどれが【キス/Kith】なのか精査する機会が与えられる事が望ましい。ただしこのアプローチは本人のアイデンティティを傷付けてしまう可能性もあるため、慎重を期す必要がある。
 
 
 
