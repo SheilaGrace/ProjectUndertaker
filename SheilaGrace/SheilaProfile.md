@@ -30,7 +30,8 @@ During this era, "Wolf's Rain" was released and made a huge inspiration to her. 
 
 After that she decided to go to computer technology school to be a web designer. And she tried to build up a creative community in the class to improve their skill together with her classmates. However, her project was disturbed due to an authoritarian teacher. Additionally, she was crucified in the famous anonymous web forum. These events graved incurable emotional wounds into her heart, directly dragged her to quit the school.
 
-She decided to go to the university to gain vast knowledge. She was planning to make progress in gender therapy during school days. But it made huge opposition between her father, made her social withdrawal. But during this era she got an ideal creative partner who understands her creativity and gender dysphoria. She decided to make permanent cooperation with her, but couldn't make marriage due to Japanese law restrictions.
+She decided to go to the university to gain vast knowledge. She was planning to make progress in gender therapy during school days. But it made huge opposition between her father, made her social withdrawal. But during this era, she got an ideal creative partner who understood her creativity and gender dysphoria. She decided to make permanent cooperation with her, but couldn't make legally assigned due to Japanese law restrictions. LGBT+'s understanding and acceptance were really not enough in Japan at that moment.
+
 During her university days, she learned mainly Japanese history, literature, folklore, linguistics, librarism, and basic psychology. This vast knowledge had a huge influence on her life, contributed to expanding her viewpoint.
 
 After a long struggle with her father, eventually she got support from her parents and had surgery. Finally she got her true gender legally but it was after she got into her 30s.
