@@ -1,28 +1,28 @@
 ![Sheila's Portrait](RSheila04.png)
 
-Name : SheilaGrace(シェーラ グレイス)
+**Name** : SheilaGrace(シェーラ グレイス)
 
-Theriotype : Low-content wolfdog (Mix of European Wolf, Alaskan Malamute, Kishu dog, and Shepard. 25% wolf blood contained)
+**Theriotype** : Low-content wolfdog (Mix of European Wolf, Alaskan Malamute, Kishu dog, and Shepard. 25% wolf blood contained)
 
-Therian type : Suntherian (Always mentally shifted, constantly in wolfdog mode)
+**Therian type** : Suntherian (Always mentally shifted, constantly in wolfdog mode)
 
-Shifting experience : Mental, Phantom, Aura, Astral, Sensory, Bi-location shifts, but degrading due to aging. Occasionally Dream Shift.
+**Shifting experience** : Mental, Phantom, Aura, Astral, Sensory, Bi-location shifts, but degrading due to aging. Occasionally Dream Shift.
 
-Kith traits : Has strong kith for Dragon and Marchosias demon. Cameo Phantom and Mental shift of them.
+**Kith traits** : Has strong kith for Dragon and Marchosias demon. Cameo Phantom and Mental shift of them.
 
-Awakening : Had a vague sensation of 'I'm not a human but something else' since when she was 4 or 5. But her non-human identity was established when she was 10 or so. She developed a solid thought style and concrete theriotype image when she was 13 to 15. Got today's gender identity when she was 21. Got surgery after she got into her 30s. Reassenbeled her breed recognition after she joined the therian community.
+**Awakening** : Had a vague sensation of 'I'm not a human but something else' since when she was 4 or 5. But her non-human identity was established when she was 10 or so. She developed a solid thought style and concrete theriotype image when she was 13 to 15. Got today's gender identity when she was 21. Got surgery after she got into her 30s. Reassenbeled her breed recognition after she joined the therian community.
 
-Gender : Female (MtF Transgender) / Den mother
+**Gender** : Female (MtF Transgender) / Den mother
 
-Born : Middle of 1980's
+**Born** : Middle of 1980's
 
-Belief : Both Spiritual and Psychological/Neurological Therianthropy, Japanese traditional Shinto especially Mitsumine Shrine
+**Belief** : Both Spiritual and Psychological/Neurological Therianthropy, Japanese traditional Shinto especially Mitsumine Shrine
 
-Specialty : Expert level essay or report writing, non-professional level 2D drawing, initiate level 3D modeling
+**Specialty** : Expert level essay or report writing, non-professional level 2D drawing, initiate level 3D modeling
 
-Language : Expert level Japanese(Mother tongue), initiate level English
+**Language** : Expert level Japanese(Mother tongue), initiate level English
 
-Appearance of theriotype : Has both anthro and feral forms, depending on her mood or who to interact with. Has light-gray fur and wine-red long hair. Odd-eyed, the left is blue, representing her dog aspect, and the right is gold, representing her wolf aspect. Sometimes cybernetics parts are added mainly on her right arm to the shoulder, back, and neck, representing her past physical injury and aftereffects, but also reflecting her determination to overcome those handicaps.
+**Appearance of theriotype** : Has both anthro and feral forms, depending on her mood or who to interact with. Has light-gray fur and wine-red long hair. Odd-eyed, the left is blue, representing her dog aspect, and the right is gold, representing her wolf aspect. Sometimes cybernetics parts are added mainly on her right arm to the shoulder, back, and neck, representing her past physical injury and aftereffects, but also reflecting her determination to overcome those handicaps.
 
 Characteristics of theriotype : As a mixed breed, she has a pretty complicated identity system. Basically, her dog side is happy to serve humans, but her wolf side is more cautious. Also her dog side suggests complete obedience and nonresistance to preserve her breed from human cruelty. But sometimes her wolf side protests against her attitude due to self-preservation. She calls this phenomenon a 'dog-wolf conflict'.
 
@@ -30,7 +30,7 @@ However, both wolves and dogs are gregarious animals. Have an instinctive surviv
 
 Basically she is kind but also has passionate aspects too. Especially when she faces her creative activities, her drastic aspects come up. Also she gets protective and territorial when her successors are endangered. She has the typical traits of a den mother.
 
-Bio : Sheila was born in a certain famous car maker's company town. Her innate biological sex was male, but she showed some feminine behaviors from the early stages. But more prominently, she had really vivid therianthropic behaviors and recognition of 'I'm not a human but something else'.
+**Bio** : Sheila was born in a certain famous car maker's company town. Her innate biological sex was male, but she showed some feminine behaviors from the early stages. But more prominently, she had really vivid therianthropic behaviors and recognition of 'I'm not a human but something else'.
 
 Unfortunately for her, the atmosphere of Japan was strictly economy-centered in the 1980s and 1990s due to the after-effect Japanese bubble economy. Her particularly unique identity didn't fit in the era and place she was born. Naturally, she got frustrated because of the authoritarian atmosphere, spent her elementary school and junior high almost constantly bullied due to her unique identity. Her almost only salvation was spending her time in nature, creation, or her dog. Her therianthropic identity was shaped and sharpened with the antithesis against capitalism and authoritarianism.
 
