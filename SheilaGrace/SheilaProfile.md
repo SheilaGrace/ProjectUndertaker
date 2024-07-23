@@ -37,6 +37,7 @@ After a long struggle with her father, eventually she got support from her paren
 
 After that, her gender dysphoria was almost gone but instead her species dysphoria came up. She tried to seek a solution and found an English-based therian community. She was not that good at English at that moment but tried her best to communicate with global therians. That experience almost concluded her stance.
 
+That is to say, her life itself is a therianthropic art.
 
 
 
