@@ -24,7 +24,7 @@
 
 **Appearance of theriotype** : Has both anthro and feral forms, depending on her mood or who to interact with. Has light-gray fur and wine-red long hair. Odd-eyed, the left is blue, representing her dog aspect, and the right is gold, representing her wolf aspect. Sometimes cybernetics parts are added mainly on her right arm to the shoulder, back, and neck, representing her past physical injury and aftereffects, but also reflecting her determination to overcome those handicaps.
 
-Characteristics of theriotype : As a mixed breed, she has a pretty complicated identity system. Basically, her dog side is happy to serve humans, but her wolf side is more cautious. Also her dog side suggests complete obedience and nonresistance to preserve her breed from human cruelty. But sometimes her wolf side protests against her attitude due to self-preservation. She calls this phenomenon a 'dog-wolf conflict'.
+**Characteristics of theriotype** : As a mixed breed, she has a pretty complicated identity system. Basically, her dog side is happy to serve humans, but her wolf side is more cautious. Also her dog side suggests complete obedience and nonresistance to preserve her breed from human cruelty. But sometimes her wolf side protests against her attitude due to self-preservation. She calls this phenomenon a 'dog-wolf conflict'.
 
 However, both wolves and dogs are gregarious animals. Have an instinctive survival urge of 'altruistic behavior based on selfish purpose'. Thus she can draw her true potential only when her owner is capable enough and approved as the leader by her wolf side. She has the typical traits of a wolfdog in this context.
 
