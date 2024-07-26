@@ -321,6 +321,8 @@ Terms of Therianthropy : https://github.com/SheilaGrace/ProjectUndertaker/blob/m
 
 Terms of Shifting : https://github.com/SheilaGrace/ProjectUndertaker/blob/main/ShiftingTerms.md
 
+How to support Therians : https://github.com/SheilaGrace/ProjectUndertaker/blob/main/HowToSupportTherians.md
+
 
 
 ## License
