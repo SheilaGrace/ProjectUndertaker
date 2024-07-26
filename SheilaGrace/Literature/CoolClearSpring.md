@@ -1,5 +1,5 @@
 
-#　scattered piece : 1　Cool Clear Spring　～　出会いと別れの季節の中で
+# scattered piece : 1　Cool Clear Spring　～　出会いと別れの季節の中で
 
 
 　*――シェーラ （ クロスヒル ・ セント＝マーチャーシュ教会 ・ 霊園 ）*
