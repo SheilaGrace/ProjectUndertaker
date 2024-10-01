@@ -54,39 +54,43 @@ In Japan, the term *"Kemono"* is widely recognized to refer to *anthro character
 
 ## 【Mental Shift】
 
-Perhaps the most familiar type of **shift** for **Therians** and **Otherkin**. The mental state shifts to an *"animal state"*, and one perceives themselves closer to their **Theriotype**. This can result in a strong urge to engage in animalistic behaviors such as barking or biting. These behaviors can become problematic if acted upon in public, so learning to control a **Mental Shift** is crucial for the psychological well-being of **Therians** and **Otherkin** living near human populations. Though this is addressed in both **Spiritual Therianthropy** and **Psychological Therianthropy**, recent studies have made more in-depth progress in the **Psychological Therianthropy** field.
+A **Mental Shift** is likely the most familiar type of **Shift** for many **Therians** and **Otherkins**. During this **Shift**, the individual's mental state transitions into an "animalistic state," where they perceive themselves as being closer to their **Theriotype**. This may result in animalistic thought processes or emotions, and in some cases, a strong urge to engage in behaviors such as barking or biting. In human society, acting on these impulses in public can lead to problems, so the ability to control one's **Mental Shift** plays a significant role in the mental well-being of **Therians** and **Otherkins**. The topic is covered in both **Spiritual Therianthropy** and **Psychological Therianthropy**, but in recent years, there has been more in-depth research in the field of **Psychological Therianthropy**.
 
-Suppressing these urges can often lead to significant stress buildup. Therefore, it is generally preferable for individuals to find ways to express their animalistic urges. Some coping strategies include:
+For **Suntherians** and **Vacillant Otherkins**, who are in a constant state of **Mental Shift**, there is no complete return to a human mental state. For them, the **Mental Shift** is the "normal state," with a spectrum of behaviors ranging from more animalistic thoughts and emotions to the ability to suppress such impulses. In contrast, **Shifters** are reported to have the ability to turn their **Mental Shift** "completely off."
 
-1. Building an avatar of their **Theriotype** in metaverse platforms like *SecondLife* or *VRChat* to spend more time as their *"true self"*.
+Whether a **Mental Shift** can be controlled voluntarily or whether it occurs involuntarily in response to certain situations varies by individual. In crisis situations, the body's **Fight or Flight** defense mechanism may trigger instinctual problem-solving behaviors associated with one's **Theriotype**. This is often the case with a **Rage Shift**, where one may become overly defensive in moments of perceived threat. Developing ways to manage anger and stress is essential for preventing uncontrollable **Rage Shifts**. Those who live in chronically stressful environments may develop heightened vigilance, similar to wild animals, so having a safe space or time for relaxation is key to controlling these responses.
 
-2. Engaging in conversations with other **Therians** or **Otherkin** to create environments where they can be their true selves.
+One typical manifestation of a **Mental Shift** can be seen in the *pack mentality* experienced by canine therians, such as wolves and dogs. These individuals tend to be extremely devoted to their pack members, often sacrificing themselves to help others. While this trait is strong in many canine therians, it can also leave them vulnerable to exploitation, leading to emotional trauma.
 
-3. Releasing animalistic urges in secluded natural settings.
+Fox therians, on the other hand, have a strong territorial instinct and are particularly sensitive to invasions of their personal space. Their concept of a "pack" is much smaller, usually centered around close family members or a partner, whom they value highly. Because of this difference in social structure, fox therians and wolf therians may sometimes clash when forming deep relationships.
 
-4. Engaging in creative activities that represent their **Theriotype** to express their own **Therianthropy**.
+For dragon otherkin, the act of flying often carries a deep emotional significance. Some experience pleasure from virtual flying through games or the metaverse, or even from simulating flight through activities like cycling or riding roller coasters.
 
-5. Performing intentional **Phantom Shifts** through **Meditation** to strongly connect with their **Theriotype** for self-fulfillment.
+As such, the mental processes and emotions experienced during a **Mental Shift** vary greatly depending on the individual's species, making it difficult to generalize. However, one thing that is common across all species is that suppressing animalistic impulses can lead to stress. It is often preferable for the individual to find a way to release these impulses in a healthy manner. Potential coping strategies include:
 
-6. Making physical contact with similar species of animals to one's **Theriotype**, like dogs or cats.
+1. Preparing a theriotype avatar in virtual environments such as SecondLife or VRChat, allowing one to spend time as their "true self."
+2. Engaging in discussions with other therians or otherkin, creating an environment where everyone can be their authentic selves.
+3. Releasing animalistic impulses in natural, secluded environments.
+4. Expressing one's theriotype through creative activities, such as art or writing.
+5. Practicing meditation to deliberately induce a Phantom Shift, deepening one's awareness of their theriotype for greater fulfillment.
+6. Physically interacting with animals that resemble one's theriotype, such as dogs or cats.
+7. Consuming media related to one's theriotype, whether it be art, films, music, literature, etc.
+8. Engaging with nature-inspired content instead, such as videos or music, if the real nature is inaccessible.
+9. Writing about one's thoughts on therianthropy in a personal journal.
 
-7. Consuming content related to their **Theriotype**, such as art, movies, music, or literature.
+Using these methods to cope with species dysphoria is considered ideal.
 
-8. Relaxing by watching videos or listening to music that evokes nature if natural environments are unavailable.
-
-9. Writing down thoughts on Therianthropy in a journal.
-
-Addressing **Species Dysphoria** through these methods is advisable.
-
-Future advancements in *AR* technology may allow people to freely change avatars, potentially significantly reducing **Species Dysphoria** by always wearing an avatar that matches their **Theriotype**.
+In the future, advancements in AR technology may allow people to change their avatars freely. If individuals could wear avatars that match their **Theriotype** at all times, it is believed that species dysphoria could be significantly alleviated.
 
 
 
 ## 【Phantom Shift】
 
-The term *"phantom"* in **Phantom Shift** refers to the **"Phantom Limb"** experienced by individuals. This shift involves seeing or feeling **Phantom Limbs** of one's **Theriotype**, such as feeling a *tail* or *paw pads*. While no physical change occurs, sensitive **Therians** and **Otherkin** report being able to perceive others' **Phantom Limbs**. Reports also suggest that infants and animals, such as dogs and cats, may sense these **Phantom Limbs**. This has led to the hypothesis that **Phantom Shifts** involve abilities humans lost through evolution or growth. Studies seeking to understand these *"lost abilities"* potentially develop **Neurological Therianthropy** discovery.
+Sometimes *"phantom"* refers to ghosts or spirits in spiritual terms. However, in therianthropic terms, **"phantom"** means *"phantom limb,"* like *"phantom pain"* in medical or psychological fields. A **Phantom Shift** is when the individual sees or feels phantom limbs corresponding to their theriotype, such as feeling the presence of a tail or the sensation of paw pads on their hands. Although there is no physical change, there are reports that sensitive therians or otherkins can perceive the phantom limbs of others. Additionally, some reports suggest that not only therians and otherkins, but also children and animals, such as dogs and cats, exhibit behaviors that imply they can sense phantom limbs. This has led to the hypothesis that **Phantom Shifts** may involve the use of abilities, such as sensing magnetic fields, which humans may have lost or weakened through evolution and development. In the field of **Neurological Therianthropy**, there has been interest in studying these "lost abilities" that may have diminished during human evolution or maturation.
 
-**Phantom Shifts** are primarily considered a part of **Spiritual Therianthropy**, and it is believed they can be *"trained"* to some extent through **Meditation** and *imagery exercises*. The duration and intensity of these sensations depend significantly on the individual's condition. Spiritual experiences like **Astral Shift** can sometimes dramatically enhance the intensity of these sensations. While generally a pleasant experience for most **Therians** and **Otherkin**, the inability to maintain **Phantom Limbs** can risk experiencing **Species Dysphoria**.
+**Phantom Shifts** are primarily regarded as part of **Spiritual Therianthropy** and are believed to be something that can be trained to some extent through practices like **Meditation** and imagery training. However, with advancements in modern science, such as the study of *Phantom Limb Phenomenon* and the *Somatosensory Map*, it is hoped that research within **Neurological Therianthropy** will also progress. The fact that **Therianthropy** and **Otherkinity** often manifest and develop during early childhood through adolescence has led to the hypothesis that the influence of one's **Theriotype** or **Kintype** on physical growth could result in the formation of a **Phantom Limb** aligned with one's **Theriotype** or **Kintype** as the *Somatosensory Map* is constructed. SheilaGrace personally proposes the theory that this may be related to *Psycho-Neuro-Immunology*.
+
+The duration and intensity of a **Phantom Shift** is highly dependent on the individual's condition. In **Spiritual Therianthropy**, it is believed that **Phantom Limbs** are constructed through *"Chi"* or spiritual energy, and if one's Chi weakens, they may struggle to successfully construct a phantom limb. On the other hand, there are instances where, through some spiritual experience, the intensity of the **Phantom Limb** sensations dramatically increases. For many **Therians** and **Otherkins**, the experience of a **Phantom Limb** is often a pleasant one, but there is also the risk of experiencing **Species Dysphoria** when the individual can no longer maintain their **Phantom Limb**.
 
 
 
@@ -118,11 +122,13 @@ A shift where sensory organs become heightened, approaching the senses of one's 
 
 ## 【Bi-location Shift】 / 【Astral Projection】
 
-A shift involving projecting one's spiritual or psychological double externally, creating the sensation of being in another place. This area is mainly covered by **Spiritual Therianthropy**.
+A form of psychic projection. This refers to the act of projecting one's spiritual or mental self externally, creating the sensation of being in another place, known as a **Bi-location Shift** or **Astral Projection**. It is primarily considered a practice within **Spiritual Therianthropy**.
 
-Concepts like *"clairvoyance"* and *"out-of-body experiences"* in Eastern traditions are somewhat similar. Voluntarily performing these is known as **Astral Projection**. The sensation is similar to controlling an *avatar* in a *third-person 3D game*, where the character is a *"representation"* of oneself but not the actual body. The main difference between a game and **Astral Projection** is whether one uses a pre-designed system or spontaneously projects their spirit. If one feels as though they are truly in the game's world, they might be unconsciously performing **Astral Projection** too.
+Concepts such as "clairvoyance" and "out-of-body experiences" in Eastern traditions are somewhat similar. Deliberately engaging in these experiences is referred to as astral projection, and the sensation is akin to controlling an avatar in a third-person perspective (TPS) game. The feeling of controlling a character that is "your representation but not your physical self" closely resembles astral projection. The key difference is whether you are manipulating a character in a game designed by someone else or actively projecting your spiritual body of your own volition.
 
-However, game characters are often difficult to modify to one's exact liking due to system constraints. In a **Bi-location Shift**, one can maintain the exact appearance of their **Theriotype**, making it feel more authentic than a game avatar. **Bi-location Shifts** are not universally achievable and are said to require training. To fully project one's **Phantom Limbs** to another location, one must first master **Phantom Shifting**, then try to *'pull off'* the **Phantom Limbs** from one's body.
+If you find yourself deeply immersed in a game to the point of feeling as though you are physically present, you may be unconsciously performing astral projection into the game's world. There are reports from players of VR Chat who describe feeling physical sensations, such as being touched by another avatar, as if it were happening to their own body. This might indicate an unconscious **Astral Projection** into their virtual avatar, where the spiritual self is receiving sensory feedback as though it were their physical body.
+
+However, in most games, modifying a character to perfectly match "your true form" is often difficult due to system limitations. In a **Bi-location Shift**, you can project yourself in the form of your theriotype, which would feel much more like "your true self" compared to a game character. That said, not everyone can perform a **Bi-location shift**; it is said to require training. The process involves "detaching" all of your **Phantom Limbs** from your physical body and relocating them, meaning that mastery of **Phantom Shifting** is a prerequisite for success.
 
 
 
@@ -222,9 +228,19 @@ Nevertheless, the desire to physically become one's **Theriotype** is likely a c
 
 ## 【メンタル シフト/Mental Shift】
 
-　精神変化。【セリアン/Therian】や【アザーキン/Otherkin】にとっておそらく最も身近な【シフト/Shift】。精神状態が「動物の状態」へと移行し、より自分の【セリオタイプ/Theriotype】に近い存在として自分自身を認識する。結果として吠える、噛むなどの動物的行動を取りたいという強い衝動を覚える場合もある。衝動に従って衆目の前でこれらの行動を取ってしまうと問題になる可能性があるため、ヒトの生活圏の近くで生活する場合は【メンタル シフト/Mental Shift】をいかにコントロールするかが【セリアン/Therian】や【アザーキン/Otherkin】の心理状態を大きく左右する。【スピリチュアル セリアンスロピー/Spiritual Therianthropy】でも【心理的セリアンスロピー/Psychological Therianthropy】でも扱われる分野だが、近年では【心理的セリアンスロピー/Psychological Therianthropy】の一歩踏み込んだ研究が進んでいると言える。
+　精神変化。【セリアン/Therian】や【アザーキン/Otherkin】にとっておそらく最も身近な【シフト/Shift】。精神状態が「動物の状態」へと移行し、より自分の【セリオタイプ/Theriotype】に近い存在として自分自身を認識する。結果として思考プロセスや感情が動物的になる、吠える・噛むなどの動物的行動を取りたいという強い衝動を覚える場合もある。衝動に従って衆目の前でこれらの行動を取ってしまうと問題になる可能性があるため、ヒトの生活圏の近くで生活する場合は【メンタル シフト/Mental Shift】をいかにコントロールするかが【セリアン/Therian】や【アザーキン/Otherkin】の心理状態を大きく左右する。【スピリチュアル セリアンスロピー/Spiritual Therianthropy】でも【心理的セリアンスロピー/Psychological Therianthropy】でも扱われる分野だが、近年では【心理的セリアンスロピー/Psychological Therianthropy】の一歩踏み込んだ研究が進んでいると言える。
 
-　基本的に抑圧するばかりではストレスが溜まる場合が非常に多いため、何らかの方法で動物的衝動を発散する方が本人にとって好ましい結果に繋がる可能性が高い。対症療法としては
+「常に【メンタル シフト/Mental Shift】した状態」である【サンセリアン/Suntherian】や【ヴァシラント/Vacillant】は、基本的に「【メンタル シフト/Mental Shift】が完全に解除されて普通の人間の精神状態になる」という事がない。【サンセリアン/Suntherian】や【ヴァシラント/Vacillant】にとっては【メンタル シフト/Mental Shift】した状態こそが「普通の状態」であり、その中で「より動物的な考え方や感情を持つ」、或いは逆に「動物的な衝動を抑える事ができる」といったスペクトラム状の推移が起こる。逆に【シフター/Shifter】は【メンタル シフト/Mental Shift】を「完全にOFF」に出来てしまうらしい。
+
+【メンタル シフト/Mental Shift】が随意でコントロール出来るのか、それとも不随意で特定の状況に遭遇した時に自動的に発現してしまうのかは個々人により異なる。特に何らかの危機的状況に陥り、「闘争か逃走か/Fight or Flight」の防衛機制が表に出やすい状況になると、自分のセリオタイプの問題解決行動が咄嗟に出てしまう事は多い。【レイジ シフト/Rage Shift】もこの一環で、自らが危機的状況に陥った場合に過剰防衛してしまう可能性もあるため、自分で怒りを抑える手段を身に着ける事が好ましい。常日頃からストレスの多い環境に身を置いている場合は、野生動物と同様に警戒心を強く持ってしまう事もあるため、個々人が安心できる場所や時間を出来るだけ長く持てるようにする事が【レイジ シフト/Rage Shift】や「闘争か逃走か/Fight or Flight」の防衛機制をコントロールするための鍵になるだろう。
+
+【メンタル シフト/Mental Shift】の中で特に典型的なものは、狼や犬などイヌ科のセリアンが経験する群心理だろう。狼や犬は群の仲間に対し非常に献身的に接するのが一般的で、日常的に互いを気遣い自己犠牲も厭わず他の個体を助ける習性がある。狼や犬のセリアンはこの習性を非常に強く持つ者が多いが、逆にこの習性を悪用され酷い仕打ちを受けた者も多く、心に傷を抱える者も少なくない。
+
+　狐のセリアンは縄張り意識が強く、パーソナルスペースが他者から侵略される事を極端に嫌う性質を持っている。また「家族」というごく小規模の単位で自分の群を認識しているため、自分のパートナーを極端に大切にして他をあまり顧みない傾向がある。狼や犬の群心理とは異なるため、狐のセリアンと狼のセリアンは深い関係を築くと性質の違いから対立する場合もある。
+
+　ドラゴンのアザーキンは「飛ぶ」という行為に対して非常に特別な感情を抱く事が多いらしい。メタバースやゲームを通じて飛行を仮想体験したり、自転車やジェットコースターに乗って飛行する感覚を疑似体験する事に快感を覚える者もいるという。
+
+　このように【メンタル シフト/Mental Shift】と一口に言っても種族ごとにどのような思考プロセスや感情を持つかは千差万別であるため、一括りにして考えるのは非常に難しい。ただ、全ての種族に一貫して言える事は、基本的にこれらの動物的な衝動や情動を抑圧するばかりではストレスが溜まる一方になってしまう事が多く、何らかの方法で動物的衝動を発散する方が本人にとって好ましい結果に繋がる可能性が高い。対症療法としては
 
 1. SecondLife や VRChat などのメタバースで自分の【セリオタイプ/Theriotype】のアバターを構築し、「本当の自分」で居られる時間を増やす。
 
@@ -252,9 +268,11 @@ Nevertheless, the desire to physically become one's **Theriotype** is likely a c
 
 ## 【ファントム シフト/Phantom Shift】
 
-　幻肢変化。幻肢痛の事を「ファントム ペイン」と呼ぶが、【ファントム シフト/Phantom Shift】の「ファントム」はこの【幻肢/Phantom Limb】を指す。本人が自分の【セリオタイプ/Theriotype】の幻肢を見たり感じたりする【シフト/Shift】で、尻尾が生えているような感覚を覚えたり、手に肉球があるように感じたりといった変化が起こる。もちろん物理的な変化が起こるわけではないが、感性の鋭い【セリアン/Therian】や【アザーキン/Otherkin】は、他者の【幻肢/Phantom Limb】を知覚する事が出来ると報告されている。また、【セリアン/Therian】や【アザーキン/Otherkin】だけでなく幼児や犬猫などの動物も【幻肢/Phantom Limb】を感知していると思わせる行動を見せるという報告もある。そのため【ファントム シフト/Phantom Shift】はヒトが進化や成長の過程でで退化させてしまった磁場を感じ取る能力などを使用しているのではないかという仮説もある。【神経学的セリアンスロピー/Neurological Therianthropy】では、それらの「進化や成長の過程で失われてしまった能力」を解明しようとした研究が着目された事があった。
+　幻肢変化。幻肢痛の事を「ファントム ペイン」と呼ぶが、【ファントム シフト/Phantom Shift】の「ファントム」はこの【幻肢/Phantom Limb】を指す。本人が自分の【セリオタイプ/Theriotype】の【幻肢/Phantom Limb】を見たり感じたりする【シフト/Shift】で、尻尾が生えているような感覚を覚えたり、手に肉球があるように感じたりといった変化が起こる。もちろん物理的な変化が起こるわけではないが、感性の鋭い【セリアン/Therian】や【アザーキン/Otherkin】は、他者の【幻肢/Phantom Limb】を知覚する事が出来ると報告されている。また、【セリアン/Therian】や【アザーキン/Otherkin】だけでなく幼児や犬猫などの動物も【幻肢/Phantom Limb】を感知していると思わせる行動を見せるという報告もある。そのため【ファントム シフト/Phantom Shift】はヒトが進化や成長の過程でで退化させてしまった磁場を感じ取る能力などを使用しているのではないかという仮説もある。【神経学的セリアンスロピー/Neurological Therianthropy】では、それらの「進化や成長の過程で失われてしまった能力」を解明しようとした研究が着目された事があった。
 
-【ファントム シフト/Phantom Shift】は主に【スピリチュアル セリアンスロピー/Spiritual Therianthropy】の分野とされており、【瞑想/Meditation】やイメージトレーニングなどの実践を通じてある程度「鍛える」ことが出来ると考えられている。持続力や感覚強度は本人のコンディションにも大きく左右される。また何らかの霊的な体験を通じて劇的に感覚強度が向上する場合もある。基本的に多くの【セリアン/Therian】や【アザーキン/Otherkin】にとって心地良い体験となる場合が多いが、【幻肢/Phantom Limb】を維持出来なくなった時に【種族違和/Species Dysphoria】を経験するリスクもある。
+【ファントム シフト/Phantom Shift】は主に【スピリチュアル セリアンスロピー/Spiritual Therianthropy】の分野とされており、【瞑想/Meditation】やイメージトレーニングなどの実践を通じてある程度「鍛える」ことが出来ると考えられている。しかし「ファントムリム現象/Phantom Limb Phenomenon」や「身体地図/Somatosensory Map」といった現代科学の発展により、【神経学的セリアンスロピー/Neurological Therianthropy】での研究が進む事も期待される。セリアンスロピーやアザーキニティの発生・発達が幼少期から思春期にかけて集中していることから、身体的な成長が自身の【セリオタイプ/Theriotype】や【キンタイプ/Kintype】の影響を強く受けて「身体地図/Somatosensory Map」の構築の際に自身の【セリオタイプ/Theriotype】や【キンタイプ/Kintype】に準じた「ファントムリム/Phantom Limb」が形成されていくのではないか、即ち「心理神経免疫学/Psycho-Neuro-Immunology」とも何らかの関係があるのではないかという仮説を SheilaGrace は個人的に提唱している。
+
+【ファントム シフト/Phantom Shift】の持続力や感覚強度は本人のコンディションにも大きく左右される。【スピリチュアル セリアンスロピー/Spiritual Therianthropy】では基本的に【幻肢/Phantom Limb】は「気」や「スピリチュアル エナジー」で構築されると考えられているため、本人の「気」が弱ってしまうと上手く「ファントムリム/Phantom Limb」を構築出来なくなってしまう場合がある。逆に何らかの霊的な体験を通じて劇的に【幻肢/Phantom Limb】の感覚強度が向上する場合もある。基本的に多くの【セリアン/Therian】や【アザーキン/Otherkin】にとって心地良い体験となる場合が多いが、【幻肢/Phantom Limb】を維持出来なくなった時に【種族違和/Species Dysphoria】を経験するリスクもある。
 
 
 
@@ -290,7 +308,9 @@ Nevertheless, the desire to physically become one's **Theriotype** is likely a c
 
 　投影変化ないし心霊投射。自分の霊的ないし心理的な分身を外部に投影し、あたかも別の場所に居るかのような感覚になる【シフト/Shift】。主に【スピリチュアル セリアンスロピー/Spiritual Therianthropy】が扱う分野とされる。
 
-　東洋に伝わる「千里眼」や「幽体離脱」が概念としてやや近いものになる。これらを随意的に行う事が【アストラル プロジェクション/Astral Projection】だが、感覚としてはTPSのような3Dゲームで自分のアバターを操作しているのに近い。「自分の分身であるが、自分の本体ではない」キャラクターを操作している感覚は【アストラル プロジェクション/Astral Projection】と似通った部分がある。ゲームという他者が作ったシステムで自分のキャラクターを動かすか、或いは自分自身で自発的に霊体を投射するかが二者間の違いと言えるだろう。もしもゲームをしている最中に「あたかもそこにいるような感覚」になっているのであれば、ゲームの世界に対して無意識的に【アストラル プロジェクション/Astral Projection】を行っているのかもしれない。
+　東洋に伝わる「千里眼」や「幽体離脱」が概念としてやや近いものになる。これらを随意的に行う事が【アストラル プロジェクション/Astral Projection】だが、感覚としてはTPSのような3Dゲームで自分のアバターを操作しているのに近い。「自分の分身であるが、自分の本体ではない」キャラクターを操作している感覚は【アストラル プロジェクション/Astral Projection】と似通った部分がある。ゲームという他者が作ったシステムで自分のキャラクターを動かすか、或いは自分自身で自発的に霊体を投射するかが二者間の違いと言えるだろう。
+ 
+　もしもゲームをしている最中に「あたかもそこにいるような感覚」になっているのであれば、ゲームの世界に対して無意識的に【アストラル プロジェクション/Astral Projection】を行っているのかもしれない。VRチャットをプレイしている際に、VR空間上で他者のアバターに触られると「あたかも自分自身が触れられたような感覚」を覚える場合があるという報告がある。これは仮想空間上の自分のアバターに【アストラル プロジェクション/Astral Projection】を無意識的に行っており、自分の霊体が受けた感覚をそのまま自分のものとしてフィードバックを受け取っていると考えられる。
 
 　ただ、ゲームのキャラクターは往々にして「自分の思い通りの姿」にまで改造する事が非常に難しく、ゲームシステムの制約を大きく受ける。【バイ-ロケーション シフト/Bi-location Shift】では「自分の【セリオタイプ/Theriotype】そのまま」の姿でいられるため、ゲームのキャラクターよりもより「自分に近い」存在として感じられるだろう。ただ、【バイ-ロケーション シフト/Bi-location Shift】も誰でも行えるわけではなく、一定の訓練が必要と言われている。自分の【幻肢/Phantom Limb】全てを自分の肉体から引きはがして別の場所に移動させるような【シフト/Shift】であるため、そもそも前提として【ファントム シフト/Phantom Shift】を自在に扱えるようになる必要がある。
 
