@@ -44,25 +44,25 @@ In 2022, she established a community for Japanese therians, gathering around ten
 
 Concluding that it was difficult to save individual therians through communities, she came up with the idea of using ChatGPT to offer personalized support and address each individual's problems sincerely. She is currently engaged in this project.
 
-**Bio:** Sheila was born in a town known for a famous car manufacturer. Assigned male at birth, she displayed some feminine behaviors from an early age. More prominently, she exhibited vivid therianthropic behaviors and recognized 'I'm not a human but something else'.
+**Bio:** Sheila was born in a company town. Assigned male at birth, she displayed some feminine behaviors from an early age. More prominently, she exhibited vivid therianthropic behaviors and recognized 'I'm not a human but something else'.
 
-Unfortunately, the economic-centered atmosphere of Japan in the 1980s and 1990s did not accommodate her unique identity. Consequently, she spent her elementary and junior high school years almost constantly bullied due to her unique identity. Her only solace was spending time in nature, creating art, or with her dog. Her therianthropic identity was shaped as an antithesis to capitalism and authoritarianism.
+Unfortunately, the economy-centered atmosphere of Japan in the 1980s and 1990s did not accommodate her unique identity. Consequently, she spent her elementary and junior high school years almost constantly being bullied due to her unique identity. Her only solace was spending time in nature, creating art, or with her dog. Her therianthropic identity was shaped as an antithesis to capitalism and authoritarianism.
 
-Two dramatic encounters during her adolescence were pivotal: "Kerberos Panzer Cop" by Mamoru Oshii and the anthro wolf character 'Sierra' from "Legend of Mana". "Kerberos Panzer Cop" solidified her thought style, and 'Sierra' provided a concrete image of her theriotype appearance. Her basic existence was built upon these moments. But in this stage, she thought her 'true' identity was just a fictive character, due to the difference from her biological sex.
+Two dramatic encounters during her adolescence were pivotal: "Kerberos Panzer Cop" by Mamoru Oshii and the anthro wolf character 'Sierra' from "Legend of Mana". "Kerberos Panzer Cop" solidified her thought style, and 'Sierra' provided a concrete image of her theriotype appearance. Her basic existence was built upon these moments. But at this stage, she thought her 'true' identity was just a fictional character, due to the difference from her biological sex.
 
 She devoted herself to creation, mainly writing. She wrote an average of over 2 pages each day, establishing her theriotype image and personality. Her writing style and skill were honed through this constant practice.
 
 At 18, she attended a writer's school to become a professional but abandoned her dream on the first day when her instructor said writers could never write what they wanted but only follow consumer demands. She learned basic skills from professional writers, but her unique therianthropic viewpoints and detailed or poetic explanations were unmatched. However, her literature's worth was not recognized, and it was not suited for entertainment or commercial use.
 
-During this period, "Wolf's Rain" was released and greatly inspired her. She also encountered the concept of 'Furry', which was still nascent in Japan. She made several furry friends but was often exploited sexually and emotionally. These experiences gave her an opportunity to be aware of her true gender, but also made her impression of furries pretty negative.
+During this period, "Wolf's Rain" was released and greatly inspired her. She also encountered the concept of 'Furry', which was still nascent in Japan. She made several furry friends but was often exploited. These experiences gave her opportunities to be aware of her true gender, but also made her impression of furries pretty negative.
 
 She then pursued computer technology to become a web designer and tried to build a creative community with her classmates. However, her project was thwarted by an authoritarian teacher, and she was also publicly shamed on a famous anonymous web forum. These events left deep emotional scars and led her to quit school.
 
-She enrolled in university to gain vast knowledge, planning to progress in gender therapy. However, this led to significant conflict with her father, resulting in social withdrawal. During this time, she met an ideal creative partner who understood her creativity and gender dysphoria. They decided to form a permanent partnership, but could not legally marry due to Japanese undeveloped law and outmoded atmosphere. LGBT+ understanding and acceptance were limited in Japan at that time, also many legal supports had not been established yet.
+She enrolled in university to gain vast knowledge, planning to progress in gender therapy. However, this led to significant conflict with her parents, resulting in social withdrawal. During this time, she met an ideal creative partner who understood her creativity and gender + species dysphoria.
 
 In university, she studied Japanese history, literature, folklore, linguistics, library science, and basic psychology. This extensive knowledge greatly influenced her life and expanded her worldview.
 
-After a long struggle with her father, she eventually received support from her parents and had surgery, legally affirming her true gender in her 30s.
+After a long struggle with her parents, she eventually received support and had surgery, legally affirming her true gender in her 30s.
 
 Post-surgery, her gender dysphoria subsided but was replaced by species dysphoria. Seeking solutions, she found an English-based therian community. Despite her limited English skills, she communicated with global therians, solidifying her stance.
 
