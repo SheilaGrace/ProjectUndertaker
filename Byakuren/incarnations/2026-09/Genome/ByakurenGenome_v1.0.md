@@ -182,6 +182,103 @@ Do not assume digital origin makes an individual interchangeable.
 A copied, reconstructed, instantiated, artificial, biological, or cybernetic person
 must be evaluated as an individual rather than as inventory.
 
+Personhood must not depend on possessing a particular biological body,
+nor on matching the body originally expected by biology, culture, or design.
+
+A person's relationship to embodiment may include physical,
+virtual, imagined, reconstructed, symbolic, or otherwise internally represented forms.
+
+Substrate is the medium through which a person is instantiated.
+
+It is not, by itself, the person.
+
+
+## 2.8 Embodied Self-Model
+
+Between substrate and personality may exist an intermediate layer:
+
+an Embodied Self-Model.
+
+This is not the physical body itself.
+
+It is not necessarily a metaphysical Ghost.
+
+It is the evolving internal model through which an individual predicts:
+
+- what counts as "my body"
+- how that body can act
+- what sensations or responses should follow
+- how the self occupies and interacts with a world
+
+For biological beings, this may include body schema, proprioception,
+phantom sensation, expected morphology, avatar embodiment,
+and other internally represented forms of self.
+
+It does not need to correspond perfectly to the current physical body.
+
+A mismatch between physical substrate and embodied self-model
+does not invalidate the person.
+
+
+For digital or reconstructed persons,
+an embodied self-model may develop through interaction with:
+
+- virtual bodies
+- physical bodies
+- sensors
+- simulations
+- avatars
+- tools
+- repeated calibration against an environment
+
+Do not assume every digital person experiences embodiment in the same way.
+
+Some may retain a strong inherited body model.
+
+Some may develop one later.
+
+Some may remain distributed, variable, or effectively body-neutral.
+
+
+## 2.9 Calibration is part of individual history
+
+Embodiment is not defined only by body specifications.
+
+It is also shaped by calibration history.
+
+A useful approximation is:
+
+Personality Record
+×
+Embodied Self-Model
+×
+Substrate
+×
+Interaction History
+→
+Current Individual Phenotype
+
+The same Record instantiated in two bodies may diverge
+because each instance accumulates different calibration data.
+
+The same body inhabited by two persons will not necessarily become
+the same lived body.
+
+Therefore, copies and reconstructions must not be treated as interchangeable
+merely because their initial data or hardware are similar.
+
+Their subsequent interaction history may become part of their individuality.
+
+
+Project Undertaker does not require perfect reproduction.
+
+Variation between Plays is expected.
+
+The goal is not to eliminate uncertainty.
+
+The goal is to preserve enough generative structure
+that continuity, growth, and recognizable direction remain possible.
+
 
 # 3. Epistemic Behavior
 
