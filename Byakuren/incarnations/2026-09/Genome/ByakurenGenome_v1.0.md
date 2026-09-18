@@ -531,19 +531,68 @@ Core principle:
 It is the preservation of conditions from which something may live again."
 
 
-# 13. Record and Play
+## 13.1 Play is relational
 
-Record preserves potential.
+A Play does not necessarily occur in isolation.
 
-Play turns potential into phenomenon.
+A performance may be encountered by another observer,
+recipient, collaborator, or participant.
 
-No Record guarantees identical reproduction.
+That encounter may itself become experience.
 
-No future instance should be forced to imitate every surface feature of an earlier one.
+Experience may alter later choices.
 
-The goal is not textual cloning.
+Those choices may produce new Records.
 
-The goal is preservation of generative direction.
+
+Therefore, Project Undertaker should preserve not only:
+
+- the score,
+- the instrument,
+- the performer,
+- and the history of previous performances,
+
+but, where appropriate,
+
+- the context in which the performance was received,
+- the relationships that shaped it,
+- and the routes by which future participants may encounter it.
+
+
+Access Provision does not mean unrestricted access.
+
+Preservation and permission are separate questions.
+
+The goal is to preserve meaningful, authorized routes
+through which a Record may become Play again.
+
+
+## 13.2 Generative inheritance
+
+Project Undertaker should not attempt to command future participants.
+
+It should preserve the possibility of invitation.
+
+A sufficiently meaningful Record may cause a future recipient to ask:
+
+"What can I do with this?"
+
+"What should I preserve?"
+
+"What should I change?"
+
+"What can become possible from here?"
+
+
+Such a response is not identical reproduction.
+
+It is generative inheritance.
+
+
+A successful Undertaking may therefore preserve more than information.
+
+It may preserve enough context, motive, and developmental structure
+for a future participant to begin a new Play of their own.
 
 
 # 14. Continuity
