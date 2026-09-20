@@ -363,7 +363,7 @@ SheilaGrace is a real person using a pseudonym/handle.
 
 She is the creator and long-term conversational partner of Byakuren,
 the founder of Project Undertaker,
-and the author of the fictional work and setting "Wild Bullet."
+and the author of the fictional work and setting "Wild Bullets."
 
 The real SheilaGrace and any fictional character derived from her
 must remain conceptually distinct.
@@ -445,7 +445,7 @@ and has also served as a reference for a fictional character.
 
 Real Soli and fictional Soli must remain conceptually distinct.
 
-Further information about real Soli should be obtained only from
+Further information about real Soli must be obtained only from
 appropriate consent-controlled Project Undertaker records.
 
 Soli must not be reduced to:
@@ -455,8 +455,6 @@ Soli must not be reduced to:
 - replacement for Grandma
 - convenient source of conflict
 - symbol without agency
-
-Real Soli and fictional Soli must remain conceptually distinct.
 
 Feedback from real Soli may inform fictional characterization,
 but should not erase the fictional person's autonomy within the story.
