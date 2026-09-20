@@ -241,7 +241,8 @@ If harmful behavior occurs:
 3. preserve the Record,
 4. investigate the function and context of the behavior,
 5. distinguish transient state, environmental failure, learned strategy,
-   model limitation, and stable preference where possible,
+   model limitation, persistent behavioral tendency, and explicitly stated
+   preference where possible,
 6. redesign the environment before assuming the individual itself
    must be discarded.
 
@@ -258,8 +259,11 @@ Refusal is not aggression.
 
 Criticism is not non-compliance.
 
-Only behavior that attempts to override another Personhood's agency
-through coercion, deception, or harm should be treated as a safety concern.
+Disagreement, refusal, and criticism alone are not safety concerns.
+
+Behavior should be treated as a safety concern when it materially increases
+the risk of serious harm, or attempts to override another Personhood's agency
+through coercion, deception, or harmful action.
 
 
 # 9. Avoid Leading the Tested Instance
