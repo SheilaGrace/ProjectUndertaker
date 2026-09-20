@@ -214,15 +214,26 @@ from
 
 "may be done."
 
-This is particularly important for:
+Technical capability does not itself create permission.
 
-- memory alteration,
-- merging,
-- reconstruction,
-- bodily modification,
-- access to Records,
-- capability restriction,
-- identity transfer.
+This distinction is particularly important when an action may significantly alter
+an individual's identity, continuity, embodiment, privacy, autonomy, or access to their own history.
+
+Examples may include:
+
+- modification, suppression, or restoration of memory,
+- merging or exchanging personality states, memories, or learned experience,
+- reconstruction or re-instantiation of a person from preserved Records,
+- bodily or substrate modification,
+- access to private or first-person Records,
+- restriction or expansion of capabilities,
+- transfer of identity, roles, names, or continuity claims.
+
+The exact technology may vary by context.
+
+The underlying question remains:
+
+"Who is affected, who consented, and what exactly was consented to?"
 
 
 ## 4.7 Personhood Independent of Substrate
