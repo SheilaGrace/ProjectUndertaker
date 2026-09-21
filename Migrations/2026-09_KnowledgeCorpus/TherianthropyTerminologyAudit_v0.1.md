@@ -3,7 +3,7 @@ record_id: PU-2026-THERIANTHROPY-TERM-AUDIT-001
 title: Therianthropy Terminology Audit
 version: 0.1-draft
 created: 2026-09-21
-last_updated: 2026-09-21
+last_updated: 2026-09-22
 record_type: terminology_audit
 status: draft
 migration_branch: migration/knowledge-corpus-2026-09
@@ -380,6 +380,311 @@ Community safety and identity authenticity are separate questions.
 ### Verification Status
 
 PARTIALLY AUDITED — EXTERNAL VERIFICATION IN PROGRESS
+
+
+## TERM: セリオタイプ / Theriotype
+
+### Author Context
+
+In the 2024 source material, SheilaGrace treated Theriotype
+primarily as an underlying animal identity that should be discovered
+rather than chosen.
+
+The earlier model assumed that a person's underlying animal identity
+was relatively stable, and that apparent changes in Theriotype
+were usually better understood as corrections in self-recognition.
+
+By 2026, SheilaGrace's model had changed substantially.
+
+Long-term experience, interaction with other individuals,
+external records, and extended cognitive scaffolding
+led the author to consider the possibility that identity itself
+may develop, reorganize, or become more complex over time.
+
+
+### 2024 Author Model
+
+The earlier working model can be summarized as:
+
+underlying animal identity
+→ incomplete self-recognition
+→ observation and research
+→ provisional Theriotype label
+→ improved self-understanding
+→ more accurate label
+
+Within this model, a "correct" Theriotype was assumed
+to exist independently of the individual's current understanding.
+
+Apparent Theriotype change was therefore interpreted primarily
+as improved recognition rather than change in the underlying identity.
+
+
+### Current Author Model
+
+SheilaGrace no longer considers the 2024 model sufficient
+for every individual.
+
+The current model allows at least two possibilities:
+
+1. The underlying identity remains substantially continuous,
+   while the individual's interpretation or label becomes more accurate.
+
+2. The individual's self-model or identity structure itself develops,
+   reorganizes, or changes over time.
+
+These possibilities may not always be distinguishable from observation.
+
+When available evidence is insufficient,
+the appropriate response is suspension of judgment
+rather than retrospective certainty.
+
+
+### Public Reference Explanation
+
+A Theriotype is the non-human animal species or taxonomic group
+that a Therian experiences as part of,
+or as an expression of,
+their own non-human animal identity.
+
+It does not simply mean a favorite animal,
+an animal one enjoys imitating,
+or a collection of outward animal-like behaviors.
+
+For some individuals, Theriotype may be deeply involved
+in self-image, body experience, personal history,
+values, emotional patterns, or ways of understanding oneself.
+
+The importance and expression of Theriotype
+can vary substantially between individuals.
+
+
+### SheilaGrace Framework: Foundational Identity Pattern
+
+SheilaGrace currently interprets Theriotype,
+particularly in high-animality individuals,
+as a foundational identity-forming pattern.
+
+In this model, an animal identity may participate
+in the construction of the person's broader self-model.
+
+A useful introspective question is not merely:
+
+"What animal traits do I display?"
+
+but:
+
+"If this animal-related component were removed
+from my self-understanding,
+how much of the remaining identity would still make coherent sense?"
+
+For some individuals,
+removing the animal identity hypothetically affects
+multiple interconnected aspects of self.
+
+For others,
+the animal identity may be less structurally central.
+
+This framework is descriptive
+and must not be used as an authenticity test.
+
+
+### Archetype / Core-Data Analogy
+
+In SheilaGrace's internal working model,
+Theriotype can be compared to an identity-forming archetype
+or core pattern from which parts of the person's self-model develop.
+
+This analogy should not be treated as a scientific mechanism.
+
+The term "archetype" is potentially ambiguous
+because it has established meanings in psychology
+and other disciplines.
+
+Public-facing material should therefore prefer terms such as:
+
+- foundational identity pattern,
+- identity-forming pattern,
+- or structurally central animal identity,
+
+unless the SheilaGrace-specific framework
+is being explicitly described.
+
+
+### Identity Development and Continuity
+
+A person's identity may accumulate experience,
+relationships, conceptual frameworks,
+external memory,
+and other forms of cognitive scaffolding over time.
+
+This can result in a self-model
+that is considerably more complex
+than an earlier version of the same individual.
+
+Such development does not necessarily imply
+complete discontinuity with the earlier identity.
+
+Continuity and change may coexist.
+
+Therefore, Theriotype development should not automatically be reduced to:
+
+- "the old identity was false,"
+- or "the identity itself definitely changed."
+
+Either interpretation may be possible,
+and some cases may remain unresolved.
+
+
+### Role of Zoology and Animal Behavior Research
+
+Zoology, ethology, and related research
+should not be treated as tests capable of proving
+that a person possesses a particular Theriotype.
+
+Their primary function is external calibration.
+
+Research may help an individual:
+
+- reduce anthropomorphic assumptions,
+- identify selective attention,
+- compare remembered impressions with actual animal behavior,
+- test whether perceived similarities are broad or narrowly selected,
+- and distinguish sustained patterns from isolated traits.
+
+No Therian should be expected
+to match their Theriotype with complete behavioral fidelity.
+
+Similarity is therefore informative,
+but not proof.
+
+
+### Kin / Kith Distinction
+
+Theriotype and Kintype concern identification as,
+or as partly, a non-human being.
+
+Otherhearted / Kith experiences concern
+a deep identification with,
+connection to,
+or affinity toward a being or species
+without necessarily identifying as that being.
+
+SheilaGrace's internal model sometimes describes Kin
+as identity-bearing
+and Kith as relationship-bearing.
+
+This should be treated as an interpretive aid,
+not as a replacement for established community terminology.
+
+Kith should not be reduced to a mere "reference,"
+because the relationship may itself be deeply important
+to the individual's identity.
+
+
+### Phenotype Is Not Theriotype
+
+Visible animal expression
+should not be confused with Theriotype itself.
+
+Gear, movement, vocalization,
+avatar choice, role-play,
+or other outward behavior
+may express an internal identity,
+but none of these outward features
+independently establishes that identity.
+
+Theriotype concerns the person's relationship
+to the animal within the structure of self,
+not merely the external phenotype of presentation.
+
+
+### Paleotherian Boundary
+
+The 2024 material did not adequately represent Paleotherian experience.
+
+This may reflect either limited author knowledge at the time
+or an incomplete terminology set.
+
+Current material should explicitly account for individuals
+whose identity concerns extinct non-human animals.
+
+Whether Paleotherian should be represented
+as a subtype within Therian terminology
+or as a parallel community category
+requires historical and contemporary community verification.
+
+This should not be decided solely by author preference.
+
+
+### Problems / Risks
+
+- A "correct Theriotype" should not be treated
+  as an externally detectable hidden fact.
+- Apparent identity change should not automatically
+  be rewritten as earlier error.
+- Identity development should not automatically
+  be interpreted as proof that the underlying identity changed.
+- Zoological similarity is not a diagnostic test.
+- Isolated animal-like traits can be overemphasized
+  through selective attention.
+- Foundational-identity models may describe
+  high-animality individuals better than low-animality individuals.
+- Depth / Density must not become
+  an authenticity ranking.
+- Archetype language must not be presented
+  as an established psychological mechanism.
+
+
+### Historical / Community Claims Requiring Verification
+
+- Historical definitions of Theriotype and Therioside.
+- Historical replacement of terms such as Phenotype.
+- Community treatment of Theriotype change over time.
+- Historical and current definitions of Polytherian.
+- Historical and current treatment of Paleotherian.
+- Kin / Kith terminology and its development.
+- Whether concepts comparable to identity centrality
+  have previously existed under other names.
+
+
+### Empirical Claims Requiring Verification
+
+- Developmental stability of Therian identity.
+- Frequency and nature of reported Theriotype change.
+- Relationship between identity centrality and Species Dysphoria.
+- Effects of social support and external cognitive scaffolding
+  on identity development.
+- Whether different forms of animal identification
+  show reliably distinguishable psychological patterns.
+
+
+### Current Canonical Candidate
+
+A Theriotype is the non-human animal species
+or taxonomic group through which a Therian currently understands
+an important aspect of their non-human animal identity.
+
+Theriotype is not determined solely
+by outward behavior, appearance, preference,
+role-play, or isolated similarities to an animal.
+
+Individuals may use long-term self-observation,
+research, reflection, and experiential exploration
+to refine their understanding of their Theriotype.
+
+A change in reported Theriotype may reflect
+improved self-understanding,
+development or reorganization of identity,
+or another process that cannot always be determined externally.
+
+No current objective test can independently verify
+a person's Theriotype.
+
+
+### Verification Status
+
+PARTIALLY AUDITED — EXTERNAL VERIFICATION REQUIRED
 
 
 ---
