@@ -2398,6 +2398,272 @@ informal mentorship and oral / experiential transmission,
 not as a formally established community-wide Mentor system.
 
 
+## Mentor Load and Single-Point-of-Failure Risk
+
+SheilaGrace reports that experienced community members
+were often expected to perform multiple support functions
+at the same time.
+
+These functions could include:
+
+- explaining terminology,
+- sharing first-person experience,
+- helping newcomers compare possible identity interpretations,
+- providing historical context,
+- identifying misinformation,
+- assisting with community navigation,
+- responding to interpersonal conflict,
+- offering emotional support,
+- and recognizing situations
+  that might require professional mental-health care
+  or other forms of external support.
+
+These roles place substantially different demands
+on the person providing assistance.
+
+A highly experienced Therian or Otherkin
+may possess valuable community knowledge
+without being trained as:
+
+- a therapist,
+- crisis worker,
+- clinician,
+- historian,
+- librarian,
+- moderator,
+- or social worker.
+
+Community experience alone
+should therefore not be treated
+as unlimited support capacity.
+
+
+### Author Field Observation: Mentor Overload
+
+SheilaGrace reports personal experience
+of attempting to provide intensive guidance
+to multiple newer or questioning individuals.
+
+The demand for individualized explanation,
+interpretation,
+emotional support,
+and reference assistance
+sometimes exceeded the practical capacity
+of a small number of volunteer mentors.
+
+The author experienced substantial strain
+while attempting to compensate
+for missing reference infrastructure
+through direct individual assistance.
+
+This observation should not be generalized
+into a claim that all Therian communities
+operate in the same way.
+
+Status:
+
+AUTHOR FIELD OBSERVATION — ANECDOTAL
+
+
+### Single-Point-of-Failure Problem
+
+A support environment becomes fragile
+when access to knowledge,
+interpretation,
+or emotional support
+depends heavily on a small number
+of experienced individuals.
+
+If one such individual becomes exhausted,
+leaves the community,
+becomes unavailable,
+or can no longer provide support,
+multiple functions may fail simultaneously.
+
+Possible consequences include:
+
+- loss of historical knowledge,
+- reduced access to detailed explanations,
+- increased dependence on simplified material,
+- reduced support for questioning individuals,
+- greater propagation of misinformation,
+- and increased pressure on remaining experienced members.
+
+This creates a single-point-of-failure risk.
+
+
+### Mentorship Should Not Be the Entire Infrastructure
+
+Mentorship can remain valuable.
+
+However,
+mentors should function as experienced nodes
+within a broader support and information system,
+rather than as the system itself.
+
+Where possible,
+routine informational needs should be supported by:
+
+- accessible reference material,
+- layered documentation,
+- self-exploration guides,
+- examples and case material,
+- historical archives,
+- searchable terminology resources,
+- and clear routes to deeper information.
+
+This can reserve direct mentorship
+for situations where individual interpretation,
+context,
+or lived experience
+provides substantial additional value.
+
+
+### Escalation Boundaries
+
+Community mentors should not be expected
+to independently resolve every problem
+presented by another individual.
+
+Different problems may require
+different kinds of support.
+
+For example:
+
+identity exploration
+may benefit from
+community experience and reflective discussion.
+
+Historical questions
+may require archival or source-based research.
+
+Factual claims
+may require external verification.
+
+Severe psychological distress,
+risk of harm,
+or significant functional impairment
+may require appropriately qualified professional support.
+
+The purpose of escalation
+is not to reject the individual.
+
+It is to recognize
+that no single mentor,
+community member,
+or reference source
+can safely perform every support function.
+
+
+### Distributed Support Model
+
+A more resilient support system
+would distribute responsibility across:
+
+reference material
+→ self-directed exploration
+→ peer discussion
+→ experienced community guidance
+→ specialized external support where appropriate
+
+Individuals should be able
+to enter and leave this structure
+at different points
+depending on their actual needs.
+
+Not every questioning individual
+requires intensive mentorship.
+
+Not every difficult case
+can be solved through documentation alone.
+
+
+### Project Undertaker / Project DeepDivers Implication
+
+Project Undertaker and Project DeepDivers
+should reduce dependence
+on individual human memory and availability.
+
+The goal is not to automate away
+human relationships or mentorship.
+
+The goal is to preserve enough:
+
+- knowledge,
+- provenance,
+- interpretive scaffolding,
+- examples,
+- navigation,
+- and recovery paths
+
+that future individuals
+do not require one exhausted expert
+to reconstruct the entire knowledge environment
+for them personally.
+
+In short:
+
+Do not make mentorship
+a single point of failure.
+
+
+### Problems / Risks
+
+- Experienced community members
+  should not automatically be treated
+  as mental-health professionals.
+
+- Volunteer status does not imply
+  unlimited availability or responsibility.
+
+- Mentor exhaustion can reduce
+  both individual welfare
+  and community knowledge continuity.
+
+- Documentation should reduce repetitive workload,
+  not eliminate relational support.
+
+- Automated or written resources
+  should not be assumed capable
+  of replacing every form of human judgment.
+
+- A referral or escalation
+  should not automatically be interpreted
+  as rejection or invalidation.
+
+- SheilaGrace's experience
+  should not be generalized
+  into a universal description
+  of Therian or Otherkin communities.
+
+
+### Claims Requiring External Verification
+
+- Historical prevalence
+  of informal mentorship
+  in Therian and Otherkin communities.
+
+- Frequency and causes
+  of mentor burnout or community withdrawal.
+
+- Degree to which community knowledge
+  has historically depended
+  on a small number of experienced members.
+
+- Availability of formal
+  or semi-formal support structures
+  in current communities.
+
+- Effects of improved documentation
+  on mentor workload
+  and newcomer information access.
+
+Status:
+
+AUTHOR FIELD OBSERVATION / SUPPORT-SYSTEM DESIGN HYPOTHESIS
+— EXTERNAL VERIFICATION REQUIRED
+
+
 ## Platform, Language, and Filter-Bubble Risks
 
 SheilaGrace observed several barriers
@@ -2480,4 +2746,11 @@ or generation.
 - Current accessibility and depth of major Therian reference resources.
 - Development of Japanese-language Therian communities.
 - Current state of Japanese-language Therian reference services.
+- Historical concentration of mentorship and support work
+  among small numbers of experienced community members.
+- Evidence of mentor burnout,
+  withdrawal,
+  or knowledge loss associated with volunteer support burden.
+- Effectiveness of distributed reference and support systems
+  in reducing dependence on individual mentors.
 
