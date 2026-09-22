@@ -334,7 +334,7 @@ AUTHOR-DEVELOPED FRAMEWORK — NOT STANDARD COMMUNITY TERMINOLOGY
 ### Current Canonical Candidate
 
 A Therian is a person who experiences a persistent and personally
-significant identification as, or as partly, a non-human animal.
+significant identification as, or partly as, a non-human animal.
 
 This identity is generally described within Therian communities
 as non-voluntary and distinct from role-play, performance,
@@ -687,6 +687,529 @@ a person's Theriotype.
 PARTIALLY AUDITED — EXTERNAL VERIFICATION REQUIRED
 
 
+## TERM: アザーキン / Otherkin
+
+### Author Context
+
+In the 2024 source material, SheilaGrace treated Otherkin
+primarily as individuals whose non-human identity concerned beings
+that were mythical, fictional, supernatural,
+or otherwise not represented by ordinary living animal species.
+
+The distinction between Therian and Otherkin
+was therefore described largely in terms of
+what kind of being the identity referred to.
+
+By 2026, SheilaGrace no longer considers this distinction
+to represent a deep structural difference in identity.
+
+
+### 2024 Author Model
+
+The earlier model can be summarized approximately as:
+
+Therian
+→ identity associated with a real-world non-human animal
+
+Otherkin
+→ identity associated with a mythical,
+fictional, supernatural, or otherwise non-ordinary being
+
+This distinction reflected terminology
+already used within the communities
+with which SheilaGrace interacted.
+
+The author did not originally develop
+the Therian / Otherkin distinction independently,
+but largely inherited it as an existing classification system.
+
+
+### Current Author Model
+
+SheilaGrace currently considers Therian and Otherkin
+to be structurally similar forms of non-human identity.
+
+Within the author's present framework,
+the more fundamental structure is:
+
+non-human foundational identity pattern
+→ interpretation / identification
+→ community-specific label
+
+The distinction between Therian and Otherkin
+may therefore reflect differences in:
+
+- historical community development,
+- terminology,
+- cultural context,
+- reference provenance,
+- and the kinds of beings through which identity is understood,
+
+rather than a completely different underlying identity process.
+
+
+### Label Value and Observational Window
+
+Although SheilaGrace previously questioned
+whether Therian and Otherkin needed to be separated at all,
+the author now considers the distinction useful.
+
+The labels preserve different historical,
+cultural, and experiential observation windows.
+
+For SheilaGrace personally,
+Therian identity is highly autobiographical
+and emotionally central.
+
+Otherkinity is comparatively more external
+to the author's own primary lived experience.
+
+This distance can make Otherkinity easier
+for the author to examine from a reference-service
+or classificatory perspective.
+
+Therefore:
+
+structural similarity does not necessarily imply
+that separate terminology has no value.
+
+Closely related concepts may still benefit
+from separate labels when those labels preserve
+different histories, traditions, communities,
+or experiential perspectives.
+
+
+### SheilaGrace Framework: Kin Before Category
+
+Within SheilaGrace's current model,
+the distinction between Kin and Kith
+is more fundamental than the distinction
+between Therian and Otherkin.
+
+The important question is not only:
+
+"What kind of being is involved?"
+
+but also:
+
+"How is that being related to the self?"
+
+A Kin relationship is understood
+as identity-bearing.
+
+A Kith / Otherhearted relationship is understood
+as relationship-bearing or affinity-bearing
+without necessarily identifying as the being itself.
+
+This is an interpretive framework
+and should not replace established community terminology.
+
+
+### Scope
+
+SheilaGrace currently considers Otherkinity
+broad enough to potentially include identities involving:
+
+- mythical beings,
+- legendary beings,
+- supernatural beings,
+- spirits,
+- angels,
+- demons,
+- deities,
+- folkloric beings,
+- fictional species,
+- and other non-human entities
+  not adequately described by ordinary animal categories.
+
+However, the author does not claim
+first-person understanding of all such experiences.
+
+Subcategories such as Deitykin,
+Conceptkin,
+Fictionkin,
+and other labels may carry distinctions
+that are important to their users.
+
+Those distinctions should be documented
+before being collapsed into a single category.
+
+
+### Cultural and Mythological Mediation
+
+SheilaGrace currently distinguishes
+between the identity structure itself
+and the cultural source through which
+a possible Kintype is represented.
+
+Many Otherkin identities involve beings
+whose recognizable forms are transmitted
+through mythology,
+folklore,
+religion,
+fiction,
+or other cultural records.
+
+The author therefore considers
+cultural mediation and reference provenance
+more important in Otherkinity
+than in identities involving ordinary biological species.
+
+However, this is SheilaGrace's informational model.
+
+It should not be generalized into the claim
+that mythical or supernatural beings
+cannot exist independently of human observers.
+
+Otherkin individuals may hold
+psychological,
+spiritual,
+metaphysical,
+or other interpretations
+of their own identity.
+
+
+### SheilaGrace Interpretation: Myth, Religion, and Folklore
+
+The 2024 material did not always clearly distinguish
+religion,
+mythology,
+folklore,
+cultural transmission,
+and personal identity interpretation.
+
+SheilaGrace now considers this
+an important conceptual weakness
+in the earlier material.
+
+For the author,
+historical community narratives
+such as accounts of early Otherkin
+or early Therian communities
+are better treated as historical,
+folkloric,
+or archival records
+than as religious doctrine.
+
+The existence of inherited community terminology
+does not by itself make that terminology
+a moral commandment or unquestionable taxonomy.
+
+
+### Fictional Species
+
+SheilaGrace does not consider
+the age or cultural prestige of a fictional species
+sufficient by itself
+to establish a fundamentally different identity category.
+
+A dragon,
+a legendary creature,
+and a recently created fictional species
+may all involve culturally transmitted
+or created reference structures.
+
+However,
+recent or highly salient fictional material
+may create additional risks of:
+
+- selective attention,
+- first-impression bias,
+- identification based on a narrow set of traits,
+- social reinforcement,
+- or confusion between resemblance and identity.
+
+These risks justify careful self-exploration,
+not automatic rejection.
+
+
+### Specific-Character Fictionkin Boundary
+
+Communities using the term Fictionkin
+may include people who identify
+with or as specific fictional characters.
+
+SheilaGrace has substantial ethical reservations
+about claims of identity involving
+a specific other person or character record.
+
+Within the author's Project Undertaker framework,
+such claims raise questions concerning:
+
+- Personhood,
+- provenance,
+- identity ownership,
+- projection,
+- and the distinction between one's own identity
+  and another entity's recorded identity.
+
+These ethical concerns should be preserved
+as SheilaGrace / Project Undertaker normative concerns.
+
+They must not be rewritten as proof
+that specific-character Fictionkin experiences
+do not exist as a community phenomenon.
+
+The existence of a community category
+and SheilaGrace's ethical acceptance of that category
+are separate questions.
+
+
+### Problems / Risks
+
+- Therian and Otherkin should not be assumed
+  to be either completely identical
+  or completely unrelated.
+- Historical community labels should not be erased
+  merely because their structures appear similar.
+- SheilaGrace's limited first-person access
+  to many Otherkin experiences
+  must be acknowledged.
+- Mythological or cultural provenance
+  does not determine the psychological
+  or metaphysical explanation of an identity.
+- Fictional-species identification
+  should not automatically be dismissed as imitation.
+- Specific-character Fictionkin
+  must not be excluded from historical/community description
+  merely because the author has ethical objections.
+- Community labels should not be collapsed
+  without first determining what distinctions
+  their users are attempting to preserve.
+
+
+### Historical / Community Claims Requiring Verification
+
+- Origins and earliest documented uses of Otherkin terminology.
+- Historical relationship between Otherkin communities
+  and early Therian communities.
+- Development of the term Otherkinity.
+- Historical meanings of Elfkind / Elfinkind / Otherkind / Otherkin.
+- Development of Deitykin, Conceptkin, Fictionkin,
+  and related subcategories.
+- Historical interaction or tension
+  between Therian and Otherkin communities.
+- Whether community members historically considered
+  Therian and Otherkin structurally distinct.
+- Historical and current treatment
+  of mythical, spiritual, and fictional identities.
+
+
+### Current Canonical Candidate
+
+Otherkin refers to people who experience themselves
+as, or partly as, a non-human being
+that is not adequately described
+by ordinary contemporary animal categories.
+
+Such identities may involve
+mythological,
+legendary,
+spiritual,
+supernatural,
+fictional,
+or other non-human beings.
+
+Otherkin and Therian identities
+may share important structural similarities,
+but their terminology,
+history,
+community traditions,
+and experiential contexts
+should not be assumed to be interchangeable.
+
+Individual interpretations may be
+psychological,
+spiritual,
+metaphysical,
+informational,
+or otherwise personal.
+
+No single explanatory model
+should be imposed universally.
+
+
+### Verification Status
+
+PARTIALLY AUDITED — EXTERNAL VERIFICATION REQUIRED
+
+
+## TERM: キンタイプ / Kintype
+
+### Author Context
+
+In the 2024 material,
+Kintype was treated largely as
+the Otherkin equivalent of Theriotype.
+
+SheilaGrace currently retains
+much of that structural interpretation,
+while becoming more cautious
+about assuming that community distinctions
+are merely redundant labels.
+
+
+### Public Reference Explanation
+
+A Kintype is the being,
+species,
+kind of entity,
+or identity category
+through which an Otherkin individual
+understands an important aspect
+of their non-human identity.
+
+Kintype should not be reduced
+to a favorite creature,
+a fictional preference,
+a role-play persona,
+or a collection of superficial similarities.
+
+
+### Relationship to Theriotype
+
+Within SheilaGrace's internal model,
+Theriotype and Kintype occupy
+approximately the same structural role.
+
+Both describe
+the non-human identity pattern
+through which an individual
+understands an aspect of self.
+
+The principal difference
+is the historical and community vocabulary
+used around different kinds
+of non-human identity.
+
+This structural similarity
+should not be used
+to erase terminology that individual
+Therians or Otherkin consider meaningful.
+
+
+### SheilaGrace Framework: Foundational Identity Pattern
+
+SheilaGrace applies
+the foundational identity pattern model
+to both Theriotype and Kintype.
+
+Under this model,
+a Kintype may participate
+in the formation of:
+
+- self-image,
+- values,
+- embodiment,
+- emotional interpretation,
+- personal history,
+- identity continuity,
+- and other aspects of self-model.
+
+The degree of centrality may differ substantially
+between individuals.
+
+This framework remains descriptive
+rather than diagnostic.
+
+
+### Kin / Kith Boundary
+
+Kintype concerns identity as
+or as partly
+the relevant being.
+
+Kith / Otherhearted experience concerns
+a deep relationship,
+affinity,
+connection,
+or identification with a being
+without necessarily experiencing that being
+as part of the self.
+
+The distinction concerns
+the relationship between self and referent,
+not simply the intensity of interest.
+
+
+### Cultural Reference and Identity
+
+A Kintype may be represented
+through material derived from mythology,
+folklore,
+religion,
+fiction,
+or other cultural sources.
+
+The cultural description of a being
+and the individual's internal identity experience
+should be analyzed separately.
+
+Similarity to a cultural representation
+may assist self-understanding,
+but it does not independently prove
+the nature or origin of the identity.
+
+
+### Problems / Risks
+
+- Kintype should not be defined
+  solely by the fictional or mythical status
+  of the referent.
+- Cultural resemblance is not proof of identity.
+- Strong affinity should not automatically
+  be interpreted as Kintype rather than Kith.
+- Theriotype and Kintype should not be merged
+  merely because they appear structurally similar.
+- Community-specific distinctions
+  require historical investigation
+  before being removed or normalized.
+
+
+### Historical / Community Claims Requiring Verification
+
+- Earliest uses and definitions of Kintype.
+- Historical relationship
+  between Kintype and Theriotype.
+- Development of Kin / Kith terminology.
+- Community treatment of multiple Kintypes.
+- Historical treatment of Fictionkin,
+  Deitykin,
+  Conceptkin,
+  and related categories.
+- Whether current communities
+  treat Kintype as structurally equivalent
+  to Theriotype.
+
+
+### Current Canonical Candidate
+
+A Kintype is the non-human being,
+species,
+entity type,
+or identity category
+through which an Otherkin individual
+currently understands
+an important aspect of their non-human identity.
+
+Kintype describes
+an identity relationship,
+not merely preference,
+admiration,
+role-play,
+or outward resemblance.
+
+Its historical and community usage
+should be preserved
+even where it appears structurally similar
+to Theriotype.
+
+
+### Verification Status
+
+PARTIALLY AUDITED — EXTERNAL VERIFICATION REQUIRED
+
+
 ---
 
 # Community Knowledge Transmission and Access Audit
@@ -849,3 +1372,4 @@ or generation.
 - Current accessibility and depth of major Therian reference resources.
 - Development of Japanese-language Therian communities.
 - Current state of Japanese-language Therian reference services.
+
