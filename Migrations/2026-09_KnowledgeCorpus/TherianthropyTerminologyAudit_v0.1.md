@@ -1780,6 +1780,544 @@ or a weaker form of Kin identity.
 PARTIALLY AUDITED — EXTERNAL VERIFICATION REQUIRED
 
 
+## TERM: Copinglink
+
+### Author Context
+
+In the 2024 source material,
+SheilaGrace interpreted Copinglink
+through a comparatively negative model.
+
+The earlier material associated Copinglink
+with deliberately taking on
+a non-human identity or persona
+for purposes such as escape,
+coping,
+experimentation,
+or temporary psychological relief.
+
+At the time,
+SheilaGrace was also strongly concerned
+about inexperienced or poorly informed individuals
+being publicly interpreted as representative
+of Therian and Otherkin communities.
+
+This contributed to an excessively defensive
+and sometimes moralizing interpretation
+of voluntary or coping-related identities.
+
+SheilaGrace also lacked familiarity
+with newer terminology such as Otherpaw.
+
+The available taxonomy was therefore narrower,
+and some phenomena that might now be analyzed separately
+may have been grouped together under Copinglink.
+
+
+### 2024 Author Model
+
+The earlier working model approximately assumed:
+
+stress, dissatisfaction, curiosity, or desire for escape
+→ deliberate adoption of another identity
+→ temporary identification
+→ Copinglink
+
+This model strongly emphasized choice and motivation.
+
+It also risked treating
+deliberate identity exploration,
+role-play,
+coping,
+and perceived inauthenticity
+as if they represented the same phenomenon.
+
+SheilaGrace no longer considers
+that model sufficiently precise.
+
+
+### Current Author Model
+
+SheilaGrace now distinguishes
+between at least two different questions:
+
+1. What relationship does the individual experience
+   between self and referent?
+
+2. What psychological or practical function
+   does that relationship perform?
+
+Within this framework:
+
+Kin / Kith
+describe the relationship
+between the self and the referent.
+
+Coping
+describes one possible function
+performed by that relationship.
+
+Therefore,
+identity relationship and coping function
+should not automatically be treated
+as mutually exclusive categories.
+
+Possible combinations may include:
+
+- Kin with little apparent coping function,
+- Kin with strong coping function,
+- Kith with strong coping function,
+- deliberately cultivated identification with coping function,
+- or other configurations not yet adequately described.
+
+This is SheilaGrace's current analytical model.
+
+It should not automatically replace
+historical or community definitions of Copinglink.
+
+
+### First-Person Case Observation
+
+SheilaGrace reports a period during childhood
+in which dragon identity was subjectively experienced
+in a way that felt very similar to Kin.
+
+At the time,
+the experience did not feel merely aspirational
+or consciously role-played.
+
+Retrospective analysis identified
+two contextual factors:
+
+- a highly stressful environment
+  involving bullying and unwanted obligations,
+
+- and repeated access to a fictional reference
+  associated with overwhelming strength
+  and the ability to escape from or overcome
+  the stressful situation.
+
+From the later observational perspective,
+these circumstances made a coping interpretation
+plausible.
+
+However,
+the original first-person experience
+still felt subjectively like identity.
+
+This case suggests that:
+
+subjective Kin-like experience
+and retrospective functional interpretation
+may differ.
+
+It does not establish
+that similar experiences in other individuals
+must be Copinglink.
+
+
+### Subjective Experience vs Functional Interpretation
+
+A coping-related identity experience
+may not necessarily feel voluntary,
+temporary,
+artificial,
+or externally constructed
+to the person experiencing it.
+
+During periods of severe stress,
+available attention,
+working memory,
+self-observation,
+and capacity for broad comparison
+may be reduced.
+
+Under such conditions,
+a highly salient referent
+may become unusually important.
+
+The individual may experience
+strong identification with that referent
+without experiencing the process
+as a deliberate choice.
+
+External observers may recognize
+possible contextual influences.
+
+However,
+contextual evidence alone
+does not allow an observer
+to conclusively determine
+another person's internal identity.
+
+
+### Function Is Not Proof of Category
+
+The presence of coping function
+does not by itself establish
+that an identity is Copinglink.
+
+Therian,
+Otherkin,
+Otherhearted,
+role-play,
+creative identity exploration,
+and other forms of identification
+may also serve coping functions.
+
+Likewise,
+the existence of a coping function
+does not make the associated experience
+fraudulent or meaningless.
+
+The questions:
+
+"What is this relationship?"
+
+and
+
+"What function does this relationship serve?"
+
+should be analyzed separately.
+
+
+### Voluntariness and Agency
+
+Earlier descriptions of Copinglink
+often appeared to SheilaGrace
+to emphasize deliberate or voluntary identity creation.
+
+The current model treats voluntariness
+as potentially distributed across multiple stages.
+
+Possible stages include:
+
+trigger
+→ exposure to a referent
+→ attachment or identification
+→ cultivation
+→ maintenance
+→ reinterpretation
+→ disclosure or disengagement
+
+The degree of available choice
+may differ at each stage.
+
+An individual under severe stress
+may experience little meaningful choice
+during the initial formation
+of a coping-related identification.
+
+Later,
+greater agency may become available
+regarding interpretation,
+cultivation,
+expression,
+or use of the identity.
+
+However,
+greater internal insight
+does not necessarily mean
+that social freedom to change
+has also returned.
+
+
+### Stress Reduction and Reassessment
+
+Changes in stress,
+safety,
+social environment,
+mental state,
+or access to support
+may alter the importance
+or interpretation of a coping-related identity.
+
+An identity relationship
+that once served an urgent coping function
+may later:
+
+- remain important,
+- become less central,
+- be reinterpreted as Kith,
+- be reinterpreted as Kin,
+- become primarily autobiographical,
+- or lose identity relevance.
+
+None of these outcomes
+should be treated as mandatory.
+
+Reduction of stress
+may provide additional information
+for self-exploration,
+but it is not a diagnostic test
+for Therian,
+Otherkin,
+Otherhearted,
+or Copinglink identity.
+
+
+### Clinical and Therapeutic Boundary
+
+Copinglink itself
+should not automatically be treated
+as a mental disorder,
+symptom,
+or pathology.
+
+Where substantial distress,
+unsafe circumstances,
+trauma-related difficulties,
+or functional impairment are present,
+support should focus primarily on:
+
+- reducing unnecessary suffering,
+- improving safety,
+- expanding available choices,
+- restoring functioning where impaired,
+- and helping the individual understand
+  their own experience.
+
+Eliminating a non-human identity
+should not be treated
+as a required therapeutic outcome.
+
+If the identity or relationship changes
+as circumstances improve,
+that change may be relevant
+to later self-understanding.
+
+If the identity remains,
+that persistence may also be informative.
+
+Neither outcome independently proves
+a particular identity category.
+
+
+### Social Maintenance and Agency Constraints
+
+The ability to reinterpret an identity internally
+does not necessarily imply
+that the individual is socially free
+to revise its public expression.
+
+Once an identity label,
+Theriotype,
+Kintype,
+avatar,
+persona,
+or other representation
+has been shared with others,
+social relationships may begin to form around it.
+
+Possible pressures may include:
+
+- fear of being regarded as inconsistent or fraudulent,
+- reputational cost,
+- loss of community belonging,
+- loss of access to peer knowledge or support,
+- pressure to preserve a recognizable public persona,
+- audience expectations,
+- and reluctance to contradict earlier public claims.
+
+As a result,
+an individual may privately reinterpret an identity
+while continuing to publicly express
+an earlier interpretation.
+
+This possibility should not automatically be treated
+as evidence of deception.
+
+Internal reinterpretation,
+public disclosure,
+social exit,
+and behavioral change
+are separate processes
+with different costs and constraints.
+
+Status:
+
+AUTHOR FIELD OBSERVATION / SOCIAL-DYNAMICS HYPOTHESIS
+— EXTERNAL VERIFICATION REQUIRED
+
+
+### Identity Revision and Exit Freedom
+
+People should be able
+to revise earlier identity interpretations
+without automatically being treated
+as fraudulent or deceptive.
+
+A person may discover
+that a previous label no longer describes them well.
+
+They may also choose
+to leave a community,
+change public presentation,
+or stop using an identity label.
+
+These changes should not require
+retrospective denial
+that the earlier experience
+was subjectively meaningful.
+
+Community belonging,
+access to support,
+or access to information
+should ideally not depend
+on preserving an identity interpretation
+that the individual no longer considers accurate.
+
+
+### Otherpaw and Taxonomy Limitation
+
+SheilaGrace was not familiar
+with the term Otherpaw
+when the 2024 material was written.
+
+This may have contributed
+to the tendency to interpret
+some voluntary,
+performative,
+exploratory,
+or socially expressed animal identities
+through the Copinglink category.
+
+The relationship among:
+
+- Copinglink,
+- Otherlink,
+- Otherpaw,
+- role-play,
+- exploratory identity,
+- and voluntary non-human identification
+
+requires historical
+and contemporary community verification.
+
+The absence of terminology
+from an author's available reference set
+can affect how observed experiences are classified.
+
+
+### Problems / Risks
+
+- Copinglink should not automatically be equated
+  with deliberate deception or attention-seeking.
+
+- Coping function should not automatically determine
+  whether an experience is Kin or Kith.
+
+- Apparent voluntariness from an external perspective
+  may not represent the individual's subjective experience.
+
+- Stress-related development
+  should not be interpreted
+  as proof that an identity is unreal.
+
+- Copinglink should not automatically be pathologized.
+
+- Therapy should not be defined
+  as successful only if an identity disappears.
+
+- Persistence after stress reduction
+  does not independently prove Kin identity.
+
+- Disappearance after stress reduction
+  does not mean the earlier experience was fraudulent.
+
+- Public identity stability
+  should not be assumed to prove
+  internal identity stability.
+
+- Frequent revision of identity labels
+  should not automatically be interpreted
+  as evidence of dishonesty.
+
+- SheilaGrace's autobiographical model
+  should not be universalized
+  into a required developmental pathway.
+
+
+### Historical / Community Claims Requiring Verification
+
+- Origin and earliest documented definition of Copinglink.
+- Historical relationship between Copinglink and Otherlink.
+- Historical emphasis on voluntary or deliberate identity formation.
+- Whether community definitions distinguish
+  coping function from identity category.
+- Historical treatment of temporary or changing Copinglinks.
+- Relationship between Copinglink and Otherpaw.
+- Community attitudes toward identity revision.
+- Whether frequent Theriotype or Kintype revision
+  has historically been stigmatized.
+- Whether community belonging
+  has sometimes depended on maintaining
+  a stable public identity presentation.
+
+
+### Empirical / Clinical Claims Requiring Verification
+
+- Effects of chronic stress
+  on identity formation and interpretation.
+- Effects of stress
+  on working memory,
+  attention,
+  and self-observation.
+- Whether coping-related non-human identities
+  reliably change after stress reduction.
+- Relationship between social reinforcement
+  and persistence of publicly expressed identity.
+- Effects of community belonging
+  on willingness to revise identity labels.
+- Appropriate clinical approaches
+  when non-human identity coexists
+  with psychological distress.
+
+
+### Current Canonical Candidate
+
+Copinglink is a community term
+for a non-human identity,
+identification,
+or identity-related link
+that is understood by the individual
+as having developed,
+been cultivated,
+or been maintained
+in significant relation to coping
+with stress,
+distress,
+adversity,
+or another psychological need.
+
+The degree of voluntariness
+may vary across individuals
+and across different stages
+of the experience.
+
+Coping function should be analyzed separately
+from whether the referent is experienced
+as Kin,
+Kith,
+role-play,
+or another form of relationship.
+
+Copinglink should not automatically be treated
+as deceptive,
+pathological,
+or invalid.
+
+Its historical and current community definition
+requires external verification
+before this candidate is promoted
+to canonical status.
+
+
+### Verification Status
+
+PARTIALLY AUDITED — EXTERNAL VERIFICATION REQUIRED
+
+
 ---
 
 # Community Knowledge Transmission and Access Audit
