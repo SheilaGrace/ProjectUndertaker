@@ -2318,6 +2318,568 @@ to canonical status.
 PARTIALLY AUDITED — EXTERNAL VERIFICATION REQUIRED
 
 
+## TERM: Otherlink
+
+### Author Knowledge Boundary
+
+SheilaGrace has limited familiarity
+with the historical and community use
+of the term Otherlink.
+
+The author has encountered the term
+and read introductory explanations,
+but does not consider herself
+sufficiently informed
+to define its historical meaning independently.
+
+The following analysis therefore separates:
+
+- SheilaGrace's own comparison models,
+- personal experience with role-play and identity exploration,
+- and claims that require external community verification.
+
+
+### SheilaGrace Comparison Model: Identity Dataset Testrun
+
+To understand voluntary identity-related processes,
+SheilaGrace compares some experiences
+to role-play,
+TRPG character creation,
+online role-play,
+or game-character development.
+
+Within this analogy,
+an individual may choose:
+
+- which character or identity representation to use,
+- whether to begin a particular simulation,
+- whether to continue using it,
+- and whether to deliberately develop it further.
+
+However,
+the consequences of that simulation
+may not remain entirely voluntary.
+
+Role-play can sometimes function
+as an identity-exploration environment.
+
+Information may move in more than one direction:
+
+self
+→ projected into a character or role
+
+and
+
+experience obtained through the role
+→ incorporated into later self-understanding
+
+SheilaGrace describes the latter process
+as information being "downloaded"
+from the simulated identity
+into the individual's own identity model.
+
+This is an author-developed analogy,
+not an established definition of Otherlink.
+
+
+### Role-play Is Not Automatically Otherlink
+
+Role-play,
+character creation,
+creative writing,
+and avatar use
+should not automatically be classified
+as Otherlink.
+
+They may function as:
+
+- entertainment,
+- social activity,
+- artistic expression,
+- identity exploration,
+- embodiment experimentation,
+- or combinations of these.
+
+A person may deliberately simulate an identity
+without considering that identity
+part of themselves.
+
+Conversely,
+an initially deliberate simulation
+may produce unexpected information
+about the individual's own self-understanding.
+
+
+### Voluntariness and Agency
+
+SheilaGrace's experience suggests
+that "voluntary identity"
+should not automatically be treated
+as a single binary property.
+
+Different stages may involve different degrees
+of deliberate choice.
+
+Possible stages include:
+
+selection
+→ initial simulation
+→ repeated use
+→ cultivation
+→ integration
+→ maintenance
+→ reinterpretation
+→ discontinuation
+
+An individual may deliberately begin a process
+while later experiencing some consequences
+as less directly voluntary.
+
+Likewise,
+an individual may deliberately cultivate
+an identity relationship
+without having deliberately produced
+every feeling associated with it.
+
+
+### Relationship to Copinglink
+
+SheilaGrace currently experiences tension
+between her functional model of Copinglink
+and descriptions that may place Copinglink
+within a broader voluntary-identity category.
+
+In SheilaGrace's autobiographical experience,
+some coping-related identification
+was experienced primarily as a reaction
+to severe stress
+rather than as a deliberate identity experiment.
+
+The author therefore currently distinguishes:
+
+deliberate identity exploration or cultivation
+
+from
+
+identity-like processes
+that may emerge reactively
+under stressful conditions.
+
+Whether historical or current community terminology
+places both experiences
+within Otherlink
+requires external verification.
+
+Community taxonomy
+and SheilaGrace's functional analytical model
+should not be silently treated
+as identical systems.
+
+
+### Problems / Risks
+
+- SheilaGrace's role-play analogy
+  should not be treated
+  as the definition of Otherlink.
+
+- Deliberate role-play
+  should not automatically be classified
+  as identity.
+
+- Beginning an identity experiment voluntarily
+  does not prove that every later experience
+  remains voluntary.
+
+- Apparent choice
+  should not be assumed
+  to imply unlimited agency.
+
+- Otherlink and Copinglink
+  should not be reorganized
+  solely according to SheilaGrace's personal model
+  without historical verification.
+
+
+### Historical / Community Claims Requiring Verification
+
+- Origin and earliest documented use of Otherlink.
+- Historical definition of Otherlink.
+- Relationship between Otherlink and Copinglink.
+- Whether Otherlink was explicitly designed
+  as a broader category containing Copinglink.
+- Historical meaning of "voluntary identity"
+  within Otherlink communities.
+- Whether deliberate cultivation,
+  role-play,
+  simulation,
+  and identity formation
+  are distinguished in community usage.
+- Whether an Otherlink can become deeply integrated
+  or difficult to discontinue.
+
+
+### Current Canonical Candidate
+
+No canonical definition is proposed yet.
+
+A preliminary working hypothesis is that
+Otherlink concerns a deliberately established
+or deliberately cultivated identity relationship.
+
+However,
+the exact meaning,
+scope,
+degree of voluntariness,
+and relationship to Copinglink
+require external historical
+and contemporary community verification.
+
+SheilaGrace's Identity Dataset Testrun model
+should remain an interpretive comparison
+until that verification is complete.
+
+
+### Verification Status
+
+EARLY AUDIT — EXTERNAL VERIFICATION REQUIRED
+
+
+## TERM: Otherpaw
+
+### Author Context
+
+SheilaGrace initially welcomed
+the term Otherpaw
+because it appeared to provide
+a clearer distinction
+between Therian identity
+and recreational animal-themed activity.
+
+This reaction was influenced
+by longstanding concern
+that highly visible animal-themed performance
+could be publicly conflated
+with Therianthropy.
+
+The author's initial reaction
+also contained a strong gatekeeping impulse.
+
+That historical reaction
+should be preserved as Author Context,
+not converted into an objective rule
+about community membership.
+
+
+### Current Author Model: Activity vs Identity
+
+SheilaGrace currently treats Otherpaw
+primarily as an activity or expression category,
+not as a description
+of non-human identity itself.
+
+Within this model:
+
+Therian / Otherkin
+→ concerns how the individual experiences
+   or understands their own identity.
+
+Otherpaw
+→ concerns participation
+   in animal-themed recreational,
+   performative,
+   creative,
+   or expressive activity.
+
+Possible activities may include:
+
+- quadrobics,
+- gear use or creation,
+- animal-themed role-play,
+- creative performance,
+- and related forms of animal-themed self-expression.
+
+The activity
+and the individual's internal identity
+should be analyzed separately.
+
+
+### Activity Does Not Determine Identity
+
+Creative activity,
+role-play,
+gear,
+quadrobics,
+and public performance
+are behaviors.
+
+They do not independently establish
+whether an individual is:
+
+- Therian,
+- Otherkin,
+- Otherhearted,
+- Otherpaw,
+- or none of these.
+
+Within SheilaGrace's model,
+an individual could potentially be:
+
+Therian + Otherpaw
+
+Otherhearted + Otherpaw
+
+Otherkin + Otherpaw
+
+or
+
+Otherpaw without a non-human identity.
+
+These combinations are not inherently contradictory
+because identity and activity
+describe different dimensions.
+
+
+### Activity as an Exploration Tool
+
+An activity can also function
+as an observation window
+into the individual's own identity.
+
+A person may participate
+in animal-themed activities:
+
+- purely for enjoyment,
+- deliberately as identity exploration,
+- without initially realizing
+  that identity exploration is occurring,
+- or as expression
+  of an already recognized identity.
+
+Later reinterpretation is therefore possible.
+
+For example,
+a person may initially understand
+their participation as recreational
+and later conclude
+that a Therian or Otherkin interpretation
+better describes their internal experience.
+
+This should not be modeled as:
+
+Otherpaw
+→ automatically becomes Therian.
+
+A more cautious model is:
+
+activity
+→ additional self-observation
+→ new evidence about self
+→ possible reinterpretation of identity label
+
+
+### Relabeling Is Not Fraud
+
+A person may revise
+the label they use
+after gaining additional experience
+or self-understanding.
+
+Someone who previously used Otherpaw
+may later identify as Therian,
+Otherkin,
+Otherhearted,
+or another category.
+
+Someone may also remain Otherpaw
+without adopting a non-human identity label.
+
+Neither outcome
+should automatically be treated
+as more mature,
+more authentic,
+or more valuable.
+
+
+### Author Case Observation
+
+SheilaGrace personally distinguishes
+between her identities
+and her activities.
+
+She identifies as Therian and Otherkin
+while also participating
+in creative writing and role-play.
+
+For the author,
+being a writer or role-player
+describes activity,
+while Therian and Otherkin
+describe identity.
+
+This autobiographical distinction
+supports the author's current
+Activity / Identity separation model.
+
+It should not be treated
+as a universal community definition.
+
+
+### Community Testimony
+
+SheilaGrace reports
+that two Therian community members
+described Otherpaw
+as terminology intended
+to distinguish recreational animal-themed activity
+from Therian identity.
+
+This testimony is useful
+as a community observation
+but is too limited
+to establish historical origin
+or universal community meaning.
+
+Status:
+
+COMMUNITY TESTIMONY — N=2 / UNVERIFIED
+
+
+### Public Performance and Identity Pressure
+
+Animal-themed performance
+may also create social pressures
+that are separate
+from the individual's original identity.
+
+Possible processes may include:
+
+public activity
+→ audience recognition
+→ expectation of a stable persona
+→ pressure to continue recognizable behavior
+
+In some cases,
+the public persona
+may increasingly diverge
+from the individual's private self-understanding.
+
+The individual may then experience pressure
+to preserve a performance
+because of:
+
+- audience expectations,
+- reputation,
+- social belonging,
+- platform visibility,
+- or fear of disappointing others.
+
+This process is not unique to Otherpaw.
+
+It may occur
+in many performance-oriented
+or identity-oriented communities.
+
+Status:
+
+AUTHOR SOCIAL-DYNAMICS HYPOTHESIS
+— EXTERNAL VERIFICATION REQUIRED
+
+
+### Problems / Risks
+
+- Animal-themed activity
+  should not automatically be interpreted
+  as evidence of Therian identity.
+
+- Recreational activity
+  should not automatically be interpreted
+  as evidence that a person is not Therian.
+
+- Otherpaw should not be used
+  as a dismissive label
+  for individuals whose identity is uncertain.
+
+- Identity exploration through activity
+  should not be treated as fraud.
+
+- Public performance
+  and private identity
+  may diverge.
+
+- SheilaGrace's preference
+  for separating Otherpaw
+  from alterhuman identity categories
+  is currently an author classification position,
+  not an established universal fact.
+
+- Claims about the origin
+  or intended gatekeeping function
+  of Otherpaw
+  require historical verification.
+
+
+### Historical / Community Claims Requiring Verification
+
+- Origin and earliest documented use of Otherpaw.
+- Original intended definition of Otherpaw.
+- Whether the term was explicitly created
+  to distinguish recreational activity
+  from Therian identity.
+- Whether Otherpaw is considered
+  part of the Alterhuman umbrella
+  by its originators or current users.
+- Historical relationship
+  between Otherpaw,
+  quadrobics,
+  gear,
+  role-play,
+  and social-media performance.
+- Whether people commonly use Otherpaw
+  alongside Therian,
+  Otherkin,
+  or Otherhearted labels.
+- Development of Otherpaw terminology
+  across language communities.
+
+
+### Current Canonical Candidate
+
+Otherpaw may be useful
+as an activity-oriented label
+for individuals who participate
+in animal-themed recreational,
+creative,
+performative,
+or expressive practices
+without those activities
+by themselves determining
+the individual's internal identity.
+
+Activity and identity
+should be analyzed separately.
+
+Participation in Otherpaw-associated activities
+may sometimes contribute
+to identity exploration,
+but such participation
+does not independently establish
+Therian,
+Otherkin,
+or Otherhearted identity.
+
+The historical origin,
+community boundaries,
+and relationship to Alterhuman terminology
+require external verification
+before this candidate
+is promoted to canonical status.
+
+
+### Verification Status
+
+PARTIALLY AUDITED — EXTERNAL VERIFICATION REQUIRED
+
+
 ---
 
 # Community Knowledge Transmission and Access Audit
