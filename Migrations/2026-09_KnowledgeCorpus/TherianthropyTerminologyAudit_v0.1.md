@@ -562,7 +562,7 @@ but not proof.
 ### Kin / Kith Distinction
 
 Theriotype and Kintype concern identification as,
-or as partly, a non-human being.
+or partly as, a non-human being.
 
 Otherhearted / Kith experiences concern
 a deep identification with,
@@ -1115,8 +1115,8 @@ rather than diagnostic.
 
 ### Kin / Kith Boundary
 
-Kintype concerns identity as
-or as partly
+Kintype concerns identity as,
+or partly as,
 the relevant being.
 
 Kith / Otherhearted experience concerns
@@ -1203,6 +1203,576 @@ Its historical and community usage
 should be preserved
 even where it appears structurally similar
 to Theriotype.
+
+
+### Verification Status
+
+PARTIALLY AUDITED — EXTERNAL VERIFICATION REQUIRED
+
+
+## TERM: アザーハーテッド / Otherhearted
+
+### Author Context
+
+In the 2024 source material,
+Otherhearted was described primarily as
+a strong emotional or psychological affinity
+toward a non-human species
+without experiencing oneself as that species.
+
+By 2026,
+SheilaGrace considers the earlier language of
+"strong empathy" or "strong affinity"
+insufficient by itself.
+
+Strong interest,
+admiration,
+curiosity,
+emotional attachment,
+and identity-relevant relationship
+should not be treated as equivalent experiences.
+
+
+### Current Author Model
+
+SheilaGrace currently distinguishes several possible relationships
+between an individual and a non-human referent:
+
+Interest
+→ desire to observe, study, or learn about the referent
+
+Affinity
+→ emotional attraction, admiration, or felt similarity
+
+Kith / Otherhearted relationship
+→ a relationship with the referent that becomes meaningfully involved
+   in the individual's own self-understanding
+
+Kin
+→ the referent is experienced as part of,
+   or as an expression of,
+   the individual's own identity
+
+Coping function
+→ the referent or its perceived characteristics
+   serve an important psychological coping role
+
+These relationships may overlap.
+
+They should not automatically be treated
+as mutually exclusive identity categories.
+
+
+### Public Reference Explanation
+
+Otherhearted generally refers to an individual
+who experiences a deep and personally meaningful connection
+with a non-human being,
+species,
+entity,
+or other referent
+without necessarily experiencing themselves as that referent.
+
+The relationship may become important
+to the person's self-understanding,
+values,
+emotional life,
+personal history,
+or sense of connection.
+
+This differs from Kin identity,
+where the relevant being is experienced
+as part of the self.
+
+
+### Kin / Kith Distinction
+
+Within SheilaGrace's current working model:
+
+Kin is identity-bearing.
+
+Kith is relationship-bearing.
+
+This distinction concerns
+the relationship between self and referent,
+not merely the intensity of emotion.
+
+A very intense Kith relationship
+does not automatically become Kin.
+
+Likewise,
+a relatively quiet or low-salience Kin identity
+does not automatically become Kith.
+
+
+### Interest Is Not Kith
+
+Strong interest in an animal,
+species,
+fictional being,
+ecosystem,
+or other subject
+does not by itself establish a Kith relationship.
+
+An individual may spend substantial time
+observing,
+studying,
+collecting information about,
+or interacting with a subject
+without experiencing that subject
+as identity-relevant.
+
+This distinction is important
+because external observers may incorrectly interpret
+frequent engagement as evidence of emotional attachment
+or identity.
+
+
+### SheilaGrace Case Observation
+
+SheilaGrace's autobiographical history includes examples of:
+
+- strong intellectual interest without Kith or Kin,
+- strong "That's Me" reactions later reinterpreted as Kith,
+- Kith-like relationships that also served coping functions,
+- fictional or cultural references used as identity exploration tools,
+- and Kin hypotheses later rejected after further observation
+  and simulation.
+
+These experiences are useful as a longitudinal case record.
+
+They should not be treated
+as universal developmental pathways
+for all Otherhearted or Therian individuals.
+
+
+### Voluntariness and Development
+
+The 2025 material described Kith
+as something that could be acquired,
+changed,
+or to some degree chosen.
+
+SheilaGrace now considers that wording too simple.
+
+Exposure,
+relationship-building,
+study,
+care,
+creative exploration,
+or deliberate attention
+may influence the development of a Kith relationship.
+
+However,
+the subjective significance of the relationship
+may not be under direct voluntary control.
+
+A person's interpretation of the relationship
+may also change as circumstances,
+mental state,
+knowledge,
+or self-understanding change.
+
+
+### Possible Pathways / Author Hypotheses
+
+The 2024 material proposed several possible routes
+through which a Kith relationship might become recognized.
+
+These should not be treated as universal causes,
+diagnostic criteria,
+or mutually exclusive mechanisms.
+
+Possible pathways discussed by SheilaGrace include:
+
+- Reclassification after identity exploration:
+  an animal or being initially interpreted as a possible
+  Theriotype or Kintype may later be understood
+  as a Kith relationship instead.
+
+- Relationship-based development:
+  repeated contact,
+  care,
+  study,
+  or attachment
+  may contribute to a species or entity becoming
+  deeply meaningful to the individual.
+
+- Coping-mediated salience:
+  under stressful conditions,
+  traits associated with a particular being
+  may become unusually important because those traits
+  represent safety,
+  power,
+  freedom,
+  resilience,
+  or another urgently desired capacity.
+
+  After circumstances or mental state change,
+  the individual may reinterpret that relationship.
+
+- Salient resemblance or experiential trigger:
+  a strong "That's Me" reaction,
+  fictional encounter,
+  spontaneous shift-like experience,
+  or other emotionally salient event
+  may initiate exploration.
+
+  Such experiences can be meaningful
+  without independently proving Kin identity.
+
+The same individual may experience
+identity,
+Kith relationship,
+coping function,
+and exploratory role-play simultaneously.
+
+The origin of a Kith relationship
+may remain unknown.
+
+These pathways are author hypotheses
+derived from autobiographical experience
+and community observation,
+not established psychological mechanisms.
+
+
+### Fiction, Simulation, and Self-Exploration
+
+Fictional characters,
+species,
+stories,
+avatars,
+creative writing,
+and imagined scenarios
+may function as exploratory material.
+
+A strong "That's Me" response
+can be treated as a reason to investigate,
+not as proof of identity.
+
+Repeated observation,
+comparison,
+creative simulation,
+and longitudinal reflection
+may help an individual distinguish among:
+
+- resemblance,
+- aspiration,
+- Kith relationship,
+- coping function,
+- role-play,
+- and Kin identity.
+
+A hypothesis may become more precise,
+remain uncertain,
+or be rejected.
+
+Exploration should not be treated as fraud
+merely because the individual's eventual conclusion changes.
+
+
+### Public vs Private Exploration
+
+Identity exploration may carry different risks
+depending on its information-access environment.
+
+Private journaling,
+creative writing,
+closed simulation,
+or low-exposure experimentation
+may allow hypotheses to be tested
+without immediately creating a public identity claim.
+
+Public social-media exploration
+may introduce additional effects,
+including:
+
+- audience feedback,
+- social reinforcement,
+- reputational consequences,
+- pressure to remain consistent with earlier claims,
+- and propagation of incomplete or provisional interpretations.
+
+This does not make public exploration inherently invalid.
+
+It means that social feedback
+can become an additional variable
+in the identity-exploration process.
+
+
+### Problems / Risks
+
+- Strong interest should not be confused with Kith.
+- Strong affinity should not automatically be interpreted as Kin.
+- Kith should not be reduced to a weak form of Kin.
+- Coping function and Kith relationship may coexist.
+- An initial "That's Me" reaction is not conclusive evidence
+  of Kin identity.
+- SheilaGrace's autobiographical development
+  should not be universalized into a required pathway.
+- Age alone cannot determine whether someone's interpretation is valid.
+- Greater time for observation may increase available evidence,
+  but does not grant older individuals automatic authority
+  over another person's internal identity.
+- Fictional or cultural exposure may influence self-understanding
+  without making the resulting experience inherently false.
+
+
+### Historical / Community Claims Requiring Verification
+
+- Earliest documented meanings of Otherhearted.
+- Development of Kith terminology.
+- Historical relationship between Otherhearted,
+  Kith,
+  Therian,
+  and Otherkin.
+- Whether voluntariness has historically been considered relevant.
+- Historical community treatment of
+  Kin-to-Kith or Kith-to-Kin reinterpretation.
+- Whether other communities distinguish
+  intellectual interest,
+  affinity,
+  identity,
+  and coping in comparable ways.
+
+
+### Current Canonical Candidate
+
+Otherhearted refers to an individual
+who experiences a deep and identity-relevant relationship
+with a non-human being,
+species,
+entity,
+or other referent
+without necessarily experiencing themselves
+as that referent.
+
+The relationship may influence
+self-understanding,
+values,
+emotion,
+personal history,
+or sense of connection.
+
+Otherhearted experience should be distinguished
+from simple interest,
+admiration,
+role-play,
+and Kin identity,
+while recognizing that multiple forms of relationship
+may coexist in the same individual.
+
+
+### Verification Status
+
+PARTIALLY AUDITED — EXTERNAL VERIFICATION REQUIRED
+
+
+## TERM: Kith
+
+### Author Context
+
+In the earlier material,
+Kith was described largely as
+the species toward which an Otherhearted individual
+felt unusually strong affinity.
+
+SheilaGrace now considers
+"species" and "strong affinity"
+too narrow to describe every possible case.
+
+
+### Public Reference Explanation
+
+Kith refers to the being,
+species,
+entity,
+group,
+or other referent
+with which an Otherhearted individual
+experiences a deep and personally meaningful relationship.
+
+The referent is not necessarily experienced
+as part of the self.
+
+Kith therefore concerns
+a meaningful relationship with the referent,
+rather than identity as the referent.
+
+
+### Scope of the Referent
+
+Within SheilaGrace's current interpretation,
+a Kith relationship need not necessarily
+be limited to a biological species.
+
+Possible referents may include,
+depending on the individual's own framework:
+
+- living animal species,
+- extinct species,
+- mythical or folkloric beings,
+- fictional species,
+- spiritual or supernatural beings,
+- individual animals,
+- environments or ecosystems,
+- or other meaningful non-human referents.
+
+Broader applications,
+including concepts,
+places,
+or non-biological entities,
+require community and historical verification.
+
+SheilaGrace does not claim first-person access
+to every form of Kith experience.
+
+
+### Relationship-Bearing Model
+
+SheilaGrace currently uses
+"relationship-bearing"
+as an interpretive description of Kith.
+
+The important feature is not simply
+that the referent is liked,
+admired,
+or frequently thought about.
+
+Rather,
+the relationship itself becomes relevant
+to how the individual understands
+some aspect of their own life or identity.
+
+This does not imply that the referent
+is experienced as the self.
+
+
+### Voluntariness
+
+A Kith relationship may develop
+through experience,
+exposure,
+care,
+study,
+creative engagement,
+or other forms of contact.
+
+The individual's choices may affect
+whether such relationships are cultivated.
+
+However,
+the emotional or identity-relevant significance
+that develops from those experiences
+is not necessarily directly chosen.
+
+Earlier descriptions such as
+"Kith can be chosen"
+should therefore be treated as oversimplified.
+
+
+### Change and Reinterpretation
+
+Kith relationships may change over time.
+
+Possible changes include:
+
+- increasing or decreasing importance,
+- reinterpretation as Kin,
+- reinterpretation from an earlier Kin hypothesis,
+- becoming primarily historical or autobiographical,
+- or losing identity relevance entirely.
+
+Such changes do not necessarily mean
+that the earlier experience was fraudulent.
+
+They may reflect development,
+new information,
+changing circumstances,
+or improved differentiation
+between identity,
+relationship,
+interest,
+and coping.
+
+
+### Relation to Coping
+
+A Kith relationship may also serve
+a coping function.
+
+For example,
+an individual may become strongly attached
+to a being whose perceived characteristics
+represent strength,
+freedom,
+protection,
+belonging,
+or another urgently needed quality.
+
+The existence of a coping function
+does not by itself determine
+whether the relationship is Kin,
+Kith,
+Copinglink,
+or some combination.
+
+These dimensions should be assessed separately.
+
+
+### Problems / Risks
+
+- Kith should not be defined solely as "a species one likes."
+- Kith should not be treated as inherently weaker or less important than Kin.
+- The presence of coping function does not invalidate a Kith relationship.
+- A referent's importance may change over time.
+- External observers should not infer Kith solely from behavior or interests.
+- SheilaGrace's broad "identity-relevant relationship" model
+  requires verification against community usage.
+- Extremely broad use of Kith may erase distinctions
+  that individual communities or users consider meaningful.
+
+
+### Historical / Community Claims Requiring Verification
+
+- Earliest uses and definitions of Kith.
+- Whether Kith historically referred only to species.
+- Relationship between Kith and Otherhearted terminology.
+- Historical treatment of individual,
+  mythological,
+  fictional,
+  spiritual,
+  environmental,
+  or conceptual Kith.
+- Whether Kith has historically been described
+  as chosen,
+  involuntary,
+  acquired,
+  or changeable.
+- Community distinction between Kith
+  and strong non-identity-based interest.
+
+
+### Current Canonical Candidate
+
+Kith is the being,
+species,
+entity,
+group,
+or other referent
+with which an Otherhearted individual
+experiences a deep and identity-relevant relationship
+without necessarily identifying as that referent.
+
+Kith relationships may develop,
+change,
+or be reinterpreted over time.
+
+They should not be reduced
+to simple preference,
+interest,
+admiration,
+or a weaker form of Kin identity.
 
 
 ### Verification Status
