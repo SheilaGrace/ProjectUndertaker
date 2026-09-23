@@ -562,7 +562,7 @@ but not proof.
 ### Kin / Kith Distinction
 
 Theriotype and Kintype concern identification as,
-or as partly, a non-human being.
+or partly as, a non-human being.
 
 Otherhearted / Kith experiences concern
 a deep identification with,
@@ -1115,8 +1115,8 @@ rather than diagnostic.
 
 ### Kin / Kith Boundary
 
-Kintype concerns identity as
-or as partly
+Kintype concerns identity as,
+or partly as,
 the relevant being.
 
 Kith / Otherhearted experience concerns
@@ -1210,6 +1210,1676 @@ to Theriotype.
 PARTIALLY AUDITED — EXTERNAL VERIFICATION REQUIRED
 
 
+## TERM: アザーハーテッド / Otherhearted
+
+### Author Context
+
+In the 2024 source material,
+Otherhearted was described primarily as
+a strong emotional or psychological affinity
+toward a non-human species
+without experiencing oneself as that species.
+
+By 2026,
+SheilaGrace considers the earlier language of
+"strong empathy" or "strong affinity"
+insufficient by itself.
+
+Strong interest,
+admiration,
+curiosity,
+emotional attachment,
+and identity-relevant relationship
+should not be treated as equivalent experiences.
+
+
+### Current Author Model
+
+SheilaGrace currently distinguishes several possible relationships
+between an individual and a non-human referent:
+
+Interest
+→ desire to observe, study, or learn about the referent
+
+Affinity
+→ emotional attraction, admiration, or felt similarity
+
+Kith / Otherhearted relationship
+→ a relationship with the referent that becomes meaningfully involved
+   in the individual's own self-understanding
+
+Kin
+→ the referent is experienced as part of,
+   or as an expression of,
+   the individual's own identity
+
+Coping function
+→ the referent or its perceived characteristics
+   serve an important psychological coping role
+
+These relationships may overlap.
+
+They should not automatically be treated
+as mutually exclusive identity categories.
+
+
+### Public Reference Explanation
+
+Otherhearted generally refers to an individual
+who experiences a deep and personally meaningful connection
+with a non-human being,
+species,
+entity,
+or other referent
+without necessarily experiencing themselves as that referent.
+
+The relationship may become important
+to the person's self-understanding,
+values,
+emotional life,
+personal history,
+or sense of connection.
+
+This differs from Kin identity,
+where the relevant being is experienced
+as part of the self.
+
+
+### Kin / Kith Distinction
+
+Within SheilaGrace's current working model:
+
+Kin is identity-bearing.
+
+Kith is relationship-bearing.
+
+This distinction concerns
+the relationship between self and referent,
+not merely the intensity of emotion.
+
+A very intense Kith relationship
+does not automatically become Kin.
+
+Likewise,
+a relatively quiet or low-salience Kin identity
+does not automatically become Kith.
+
+
+### Interest Is Not Kith
+
+Strong interest in an animal,
+species,
+fictional being,
+ecosystem,
+or other subject
+does not by itself establish a Kith relationship.
+
+An individual may spend substantial time
+observing,
+studying,
+collecting information about,
+or interacting with a subject
+without experiencing that subject
+as identity-relevant.
+
+This distinction is important
+because external observers may incorrectly interpret
+frequent engagement as evidence of emotional attachment
+or identity.
+
+
+### SheilaGrace Case Observation
+
+SheilaGrace's autobiographical history includes examples of:
+
+- strong intellectual interest without Kith or Kin,
+- strong "That's Me" reactions later reinterpreted as Kith,
+- Kith-like relationships that also served coping functions,
+- fictional or cultural references used as identity exploration tools,
+- and Kin hypotheses later rejected after further observation
+  and simulation.
+
+These experiences are useful as a longitudinal case record.
+
+They should not be treated
+as universal developmental pathways
+for all Otherhearted or Therian individuals.
+
+
+### Voluntariness and Development
+
+The 2025 material described Kith
+as something that could be acquired,
+changed,
+or to some degree chosen.
+
+SheilaGrace now considers that wording too simple.
+
+Exposure,
+relationship-building,
+study,
+care,
+creative exploration,
+or deliberate attention
+may influence the development of a Kith relationship.
+
+However,
+the subjective significance of the relationship
+may not be under direct voluntary control.
+
+A person's interpretation of the relationship
+may also change as circumstances,
+mental state,
+knowledge,
+or self-understanding change.
+
+
+### Possible Pathways / Author Hypotheses
+
+The 2024 material proposed several possible routes
+through which a Kith relationship might become recognized.
+
+These should not be treated as universal causes,
+diagnostic criteria,
+or mutually exclusive mechanisms.
+
+Possible pathways discussed by SheilaGrace include:
+
+- Reclassification after identity exploration:
+  an animal or being initially interpreted as a possible
+  Theriotype or Kintype may later be understood
+  as a Kith relationship instead.
+
+- Relationship-based development:
+  repeated contact,
+  care,
+  study,
+  or attachment
+  may contribute to a species or entity becoming
+  deeply meaningful to the individual.
+
+- Coping-mediated salience:
+  under stressful conditions,
+  traits associated with a particular being
+  may become unusually important because those traits
+  represent safety,
+  power,
+  freedom,
+  resilience,
+  or another urgently desired capacity.
+
+  After circumstances or mental state change,
+  the individual may reinterpret that relationship.
+
+- Salient resemblance or experiential trigger:
+  a strong "That's Me" reaction,
+  fictional encounter,
+  spontaneous shift-like experience,
+  or other emotionally salient event
+  may initiate exploration.
+
+  Such experiences can be meaningful
+  without independently proving Kin identity.
+
+The same individual may experience
+identity,
+Kith relationship,
+coping function,
+and exploratory role-play simultaneously.
+
+The origin of a Kith relationship
+may remain unknown.
+
+These pathways are author hypotheses
+derived from autobiographical experience
+and community observation,
+not established psychological mechanisms.
+
+
+### Fiction, Simulation, and Self-Exploration
+
+Fictional characters,
+species,
+stories,
+avatars,
+creative writing,
+and imagined scenarios
+may function as exploratory material.
+
+A strong "That's Me" response
+can be treated as a reason to investigate,
+not as proof of identity.
+
+Repeated observation,
+comparison,
+creative simulation,
+and longitudinal reflection
+may help an individual distinguish among:
+
+- resemblance,
+- aspiration,
+- Kith relationship,
+- coping function,
+- role-play,
+- and Kin identity.
+
+A hypothesis may become more precise,
+remain uncertain,
+or be rejected.
+
+Exploration should not be treated as fraud
+merely because the individual's eventual conclusion changes.
+
+
+### Public vs Private Exploration
+
+Identity exploration may carry different risks
+depending on its information-access environment.
+
+Private journaling,
+creative writing,
+closed simulation,
+or low-exposure experimentation
+may allow hypotheses to be tested
+without immediately creating a public identity claim.
+
+Public social-media exploration
+may introduce additional effects,
+including:
+
+- audience feedback,
+- social reinforcement,
+- reputational consequences,
+- pressure to remain consistent with earlier claims,
+- and propagation of incomplete or provisional interpretations.
+
+This does not make public exploration inherently invalid.
+
+It means that social feedback
+can become an additional variable
+in the identity-exploration process.
+
+
+### Problems / Risks
+
+- Strong interest should not be confused with Kith.
+- Strong affinity should not automatically be interpreted as Kin.
+- Kith should not be reduced to a weak form of Kin.
+- Coping function and Kith relationship may coexist.
+- An initial "That's Me" reaction is not conclusive evidence
+  of Kin identity.
+- SheilaGrace's autobiographical development
+  should not be universalized into a required pathway.
+- Age alone cannot determine whether someone's interpretation is valid.
+- Greater time for observation may increase available evidence,
+  but does not grant older individuals automatic authority
+  over another person's internal identity.
+- Fictional or cultural exposure may influence self-understanding
+  without making the resulting experience inherently false.
+
+
+### Historical / Community Claims Requiring Verification
+
+- Earliest documented meanings of Otherhearted.
+- Development of Kith terminology.
+- Historical relationship between Otherhearted,
+  Kith,
+  Therian,
+  and Otherkin.
+- Whether voluntariness has historically been considered relevant.
+- Historical community treatment of
+  Kin-to-Kith or Kith-to-Kin reinterpretation.
+- Whether other communities distinguish
+  intellectual interest,
+  affinity,
+  identity,
+  and coping in comparable ways.
+
+
+### Current Canonical Candidate
+
+Otherhearted refers to an individual
+who experiences a deep and identity-relevant relationship
+with a non-human being,
+species,
+entity,
+or other referent
+without necessarily experiencing themselves
+as that referent.
+
+The relationship may influence
+self-understanding,
+values,
+emotion,
+personal history,
+or sense of connection.
+
+Otherhearted experience should be distinguished
+from simple interest,
+admiration,
+role-play,
+and Kin identity,
+while recognizing that multiple forms of relationship
+may coexist in the same individual.
+
+
+### Verification Status
+
+PARTIALLY AUDITED — EXTERNAL VERIFICATION REQUIRED
+
+
+## TERM: Kith
+
+### Author Context
+
+In the earlier material,
+Kith was described largely as
+the species toward which an Otherhearted individual
+felt unusually strong affinity.
+
+SheilaGrace now considers
+"species" and "strong affinity"
+too narrow to describe every possible case.
+
+
+### Public Reference Explanation
+
+Kith refers to the being,
+species,
+entity,
+group,
+or other referent
+with which an Otherhearted individual
+experiences a deep and personally meaningful relationship.
+
+The referent is not necessarily experienced
+as part of the self.
+
+Kith therefore concerns
+a meaningful relationship with the referent,
+rather than identity as the referent.
+
+
+### Scope of the Referent
+
+Within SheilaGrace's current interpretation,
+a Kith relationship need not necessarily
+be limited to a biological species.
+
+Possible referents may include,
+depending on the individual's own framework:
+
+- living animal species,
+- extinct species,
+- mythical or folkloric beings,
+- fictional species,
+- spiritual or supernatural beings,
+- individual animals,
+- environments or ecosystems,
+- or other meaningful non-human referents.
+
+Broader applications,
+including concepts,
+places,
+or non-biological entities,
+require community and historical verification.
+
+SheilaGrace does not claim first-person access
+to every form of Kith experience.
+
+
+### Relationship-Bearing Model
+
+SheilaGrace currently uses
+"relationship-bearing"
+as an interpretive description of Kith.
+
+The important feature is not simply
+that the referent is liked,
+admired,
+or frequently thought about.
+
+Rather,
+the relationship itself becomes relevant
+to how the individual understands
+some aspect of their own life or identity.
+
+This does not imply that the referent
+is experienced as the self.
+
+
+### Voluntariness
+
+A Kith relationship may develop
+through experience,
+exposure,
+care,
+study,
+creative engagement,
+or other forms of contact.
+
+The individual's choices may affect
+whether such relationships are cultivated.
+
+However,
+the emotional or identity-relevant significance
+that develops from those experiences
+is not necessarily directly chosen.
+
+Earlier descriptions such as
+"Kith can be chosen"
+should therefore be treated as oversimplified.
+
+
+### Change and Reinterpretation
+
+Kith relationships may change over time.
+
+Possible changes include:
+
+- increasing or decreasing importance,
+- reinterpretation as Kin,
+- reinterpretation from an earlier Kin hypothesis,
+- becoming primarily historical or autobiographical,
+- or losing identity relevance entirely.
+
+Such changes do not necessarily mean
+that the earlier experience was fraudulent.
+
+They may reflect development,
+new information,
+changing circumstances,
+or improved differentiation
+between identity,
+relationship,
+interest,
+and coping.
+
+
+### Relation to Coping
+
+A Kith relationship may also serve
+a coping function.
+
+For example,
+an individual may become strongly attached
+to a being whose perceived characteristics
+represent strength,
+freedom,
+protection,
+belonging,
+or another urgently needed quality.
+
+The existence of a coping function
+does not by itself determine
+whether the relationship is Kin,
+Kith,
+Copinglink,
+or some combination.
+
+These dimensions should be assessed separately.
+
+
+### Problems / Risks
+
+- Kith should not be defined solely as "a species one likes."
+- Kith should not be treated as inherently weaker or less important than Kin.
+- The presence of coping function does not invalidate a Kith relationship.
+- A referent's importance may change over time.
+- External observers should not infer Kith solely from behavior or interests.
+- SheilaGrace's broad "identity-relevant relationship" model
+  requires verification against community usage.
+- Extremely broad use of Kith may erase distinctions
+  that individual communities or users consider meaningful.
+
+
+### Historical / Community Claims Requiring Verification
+
+- Earliest uses and definitions of Kith.
+- Whether Kith historically referred only to species.
+- Relationship between Kith and Otherhearted terminology.
+- Historical treatment of individual,
+  mythological,
+  fictional,
+  spiritual,
+  environmental,
+  or conceptual Kith.
+- Whether Kith has historically been described
+  as chosen,
+  involuntary,
+  acquired,
+  or changeable.
+- Community distinction between Kith
+  and strong non-identity-based interest.
+
+
+### Current Canonical Candidate
+
+Kith is the being,
+species,
+entity,
+group,
+or other referent
+with which an Otherhearted individual
+experiences a deep and identity-relevant relationship
+without necessarily identifying as that referent.
+
+Kith relationships may develop,
+change,
+or be reinterpreted over time.
+
+They should not be reduced
+to simple preference,
+interest,
+admiration,
+or a weaker form of Kin identity.
+
+
+### Verification Status
+
+PARTIALLY AUDITED — EXTERNAL VERIFICATION REQUIRED
+
+
+## TERM: Copinglink
+
+### Author Context
+
+In the 2024 source material,
+SheilaGrace interpreted Copinglink
+through a comparatively negative model.
+
+The earlier material associated Copinglink
+with deliberately taking on
+a non-human identity or persona
+for purposes such as escape,
+coping,
+experimentation,
+or temporary psychological relief.
+
+At the time,
+SheilaGrace was also strongly concerned
+about inexperienced or poorly informed individuals
+being publicly interpreted as representative
+of Therian and Otherkin communities.
+
+This contributed to an excessively defensive
+and sometimes moralizing interpretation
+of voluntary or coping-related identities.
+
+SheilaGrace also lacked familiarity
+with newer terminology such as Otherpaw.
+
+The available taxonomy was therefore narrower,
+and some phenomena that might now be analyzed separately
+may have been grouped together under Copinglink.
+
+
+### 2024 Author Model
+
+The earlier working model approximately assumed:
+
+stress, dissatisfaction, curiosity, or desire for escape
+→ deliberate adoption of another identity
+→ temporary identification
+→ Copinglink
+
+This model strongly emphasized choice and motivation.
+
+It also risked treating
+deliberate identity exploration,
+role-play,
+coping,
+and perceived inauthenticity
+as if they represented the same phenomenon.
+
+SheilaGrace no longer considers
+that model sufficiently precise.
+
+
+### Current Author Model
+
+SheilaGrace now distinguishes
+between at least two different questions:
+
+1. What relationship does the individual experience
+   between self and referent?
+
+2. What psychological or practical function
+   does that relationship perform?
+
+Within this framework:
+
+Kin / Kith
+describe the relationship
+between the self and the referent.
+
+Coping
+describes one possible function
+performed by that relationship.
+
+Therefore,
+identity relationship and coping function
+should not automatically be treated
+as mutually exclusive categories.
+
+Possible combinations may include:
+
+- Kin with little apparent coping function,
+- Kin with strong coping function,
+- Kith with strong coping function,
+- deliberately cultivated identification with coping function,
+- or other configurations not yet adequately described.
+
+This is SheilaGrace's current analytical model.
+
+It should not automatically replace
+historical or community definitions of Copinglink.
+
+
+### First-Person Case Observation
+
+SheilaGrace reports a period during childhood
+in which dragon identity was subjectively experienced
+in a way that felt very similar to Kin.
+
+At the time,
+the experience did not feel merely aspirational
+or consciously role-played.
+
+Retrospective analysis identified
+two contextual factors:
+
+- a highly stressful environment
+  involving bullying and unwanted obligations,
+
+- and repeated access to a fictional reference
+  associated with overwhelming strength
+  and the ability to escape from or overcome
+  the stressful situation.
+
+From the later observational perspective,
+these circumstances made a coping interpretation
+plausible.
+
+However,
+the original first-person experience
+still felt subjectively like identity.
+
+This case suggests that:
+
+subjective Kin-like experience
+and retrospective functional interpretation
+may differ.
+
+It does not establish
+that similar experiences in other individuals
+must be Copinglink.
+
+
+### Subjective Experience vs Functional Interpretation
+
+A coping-related identity experience
+may not necessarily feel voluntary,
+temporary,
+artificial,
+or externally constructed
+to the person experiencing it.
+
+During periods of severe stress,
+available attention,
+working memory,
+self-observation,
+and capacity for broad comparison
+may be reduced.
+
+Under such conditions,
+a highly salient referent
+may become unusually important.
+
+The individual may experience
+strong identification with that referent
+without experiencing the process
+as a deliberate choice.
+
+External observers may recognize
+possible contextual influences.
+
+However,
+contextual evidence alone
+does not allow an observer
+to conclusively determine
+another person's internal identity.
+
+
+### Function Is Not Proof of Category
+
+The presence of coping function
+does not by itself establish
+that an identity is Copinglink.
+
+Therian,
+Otherkin,
+Otherhearted,
+role-play,
+creative identity exploration,
+and other forms of identification
+may also serve coping functions.
+
+Likewise,
+the existence of a coping function
+does not make the associated experience
+fraudulent or meaningless.
+
+The questions:
+
+"What is this relationship?"
+
+and
+
+"What function does this relationship serve?"
+
+should be analyzed separately.
+
+
+### Voluntariness and Agency
+
+Earlier descriptions of Copinglink
+often appeared to SheilaGrace
+to emphasize deliberate or voluntary identity creation.
+
+The current model treats voluntariness
+as potentially distributed across multiple stages.
+
+Possible stages include:
+
+trigger
+→ exposure to a referent
+→ attachment or identification
+→ cultivation
+→ maintenance
+→ reinterpretation
+→ disclosure or disengagement
+
+The degree of available choice
+may differ at each stage.
+
+An individual under severe stress
+may experience little meaningful choice
+during the initial formation
+of a coping-related identification.
+
+Later,
+greater agency may become available
+regarding interpretation,
+cultivation,
+expression,
+or use of the identity.
+
+However,
+greater internal insight
+does not necessarily mean
+that social freedom to change
+has also returned.
+
+
+### Stress Reduction and Reassessment
+
+Changes in stress,
+safety,
+social environment,
+mental state,
+or access to support
+may alter the importance
+or interpretation of a coping-related identity.
+
+An identity relationship
+that once served an urgent coping function
+may later:
+
+- remain important,
+- become less central,
+- be reinterpreted as Kith,
+- be reinterpreted as Kin,
+- become primarily autobiographical,
+- or lose identity relevance.
+
+None of these outcomes
+should be treated as mandatory.
+
+Reduction of stress
+may provide additional information
+for self-exploration,
+but it is not a diagnostic test
+for Therian,
+Otherkin,
+Otherhearted,
+or Copinglink identity.
+
+
+### Clinical and Therapeutic Boundary
+
+Copinglink itself
+should not automatically be treated
+as a mental disorder,
+symptom,
+or pathology.
+
+Where substantial distress,
+unsafe circumstances,
+trauma-related difficulties,
+or functional impairment are present,
+support should focus primarily on:
+
+- reducing unnecessary suffering,
+- improving safety,
+- expanding available choices,
+- restoring functioning where impaired,
+- and helping the individual understand
+  their own experience.
+
+Eliminating a non-human identity
+should not be treated
+as a required therapeutic outcome.
+
+If the identity or relationship changes
+as circumstances improve,
+that change may be relevant
+to later self-understanding.
+
+If the identity remains,
+that persistence may also be informative.
+
+Neither outcome independently proves
+a particular identity category.
+
+
+### Social Maintenance and Agency Constraints
+
+The ability to reinterpret an identity internally
+does not necessarily imply
+that the individual is socially free
+to revise its public expression.
+
+Once an identity label,
+Theriotype,
+Kintype,
+avatar,
+persona,
+or other representation
+has been shared with others,
+social relationships may begin to form around it.
+
+Possible pressures may include:
+
+- fear of being regarded as inconsistent or fraudulent,
+- reputational cost,
+- loss of community belonging,
+- loss of access to peer knowledge or support,
+- pressure to preserve a recognizable public persona,
+- audience expectations,
+- and reluctance to contradict earlier public claims.
+
+As a result,
+an individual may privately reinterpret an identity
+while continuing to publicly express
+an earlier interpretation.
+
+This possibility should not automatically be treated
+as evidence of deception.
+
+Internal reinterpretation,
+public disclosure,
+social exit,
+and behavioral change
+are separate processes
+with different costs and constraints.
+
+Status:
+
+AUTHOR FIELD OBSERVATION / SOCIAL-DYNAMICS HYPOTHESIS
+— EXTERNAL VERIFICATION REQUIRED
+
+
+### Identity Revision and Exit Freedom
+
+People should be able
+to revise earlier identity interpretations
+without automatically being treated
+as fraudulent or deceptive.
+
+A person may discover
+that a previous label no longer describes them well.
+
+They may also choose
+to leave a community,
+change public presentation,
+or stop using an identity label.
+
+These changes should not require
+retrospective denial
+that the earlier experience
+was subjectively meaningful.
+
+Community belonging,
+access to support,
+or access to information
+should ideally not depend
+on preserving an identity interpretation
+that the individual no longer considers accurate.
+
+
+### Otherpaw and Taxonomy Limitation
+
+SheilaGrace was not familiar
+with the term Otherpaw
+when the 2024 material was written.
+
+This may have contributed
+to the tendency to interpret
+some voluntary,
+performative,
+exploratory,
+or socially expressed animal identities
+through the Copinglink category.
+
+The relationship among:
+
+- Copinglink,
+- Otherlink,
+- Otherpaw,
+- role-play,
+- exploratory identity,
+- and voluntary non-human identification
+
+requires historical
+and contemporary community verification.
+
+The absence of terminology
+from an author's available reference set
+can affect how observed experiences are classified.
+
+
+### Problems / Risks
+
+- Copinglink should not automatically be equated
+  with deliberate deception or attention-seeking.
+
+- Coping function should not automatically determine
+  whether an experience is Kin or Kith.
+
+- Apparent voluntariness from an external perspective
+  may not represent the individual's subjective experience.
+
+- Stress-related development
+  should not be interpreted
+  as proof that an identity is unreal.
+
+- Copinglink should not automatically be pathologized.
+
+- Therapy should not be defined
+  as successful only if an identity disappears.
+
+- Persistence after stress reduction
+  does not independently prove Kin identity.
+
+- Disappearance after stress reduction
+  does not mean the earlier experience was fraudulent.
+
+- Public identity stability
+  should not be assumed to prove
+  internal identity stability.
+
+- Frequent revision of identity labels
+  should not automatically be interpreted
+  as evidence of dishonesty.
+
+- SheilaGrace's autobiographical model
+  should not be universalized
+  into a required developmental pathway.
+
+
+### Historical / Community Claims Requiring Verification
+
+- Origin and earliest documented definition of Copinglink.
+- Historical relationship between Copinglink and Otherlink.
+- Historical emphasis on voluntary or deliberate identity formation.
+- Whether community definitions distinguish
+  coping function from identity category.
+- Historical treatment of temporary or changing Copinglinks.
+- Relationship between Copinglink and Otherpaw.
+- Community attitudes toward identity revision.
+- Whether frequent Theriotype or Kintype revision
+  has historically been stigmatized.
+- Whether community belonging
+  has sometimes depended on maintaining
+  a stable public identity presentation.
+
+
+### Empirical / Clinical Claims Requiring Verification
+
+- Effects of chronic stress
+  on identity formation and interpretation.
+- Effects of stress
+  on working memory,
+  attention,
+  and self-observation.
+- Whether coping-related non-human identities
+  reliably change after stress reduction.
+- Relationship between social reinforcement
+  and persistence of publicly expressed identity.
+- Effects of community belonging
+  on willingness to revise identity labels.
+- Appropriate clinical approaches
+  when non-human identity coexists
+  with psychological distress.
+
+
+### Current Canonical Candidate
+
+Copinglink is a community term
+for a non-human identity,
+identification,
+or identity-related link
+that is understood by the individual
+as having developed,
+been cultivated,
+or been maintained
+in significant relation to coping
+with stress,
+distress,
+adversity,
+or another psychological need.
+
+The degree of voluntariness
+may vary across individuals
+and across different stages
+of the experience.
+
+Coping function should be analyzed separately
+from whether the referent is experienced
+as Kin,
+Kith,
+role-play,
+or another form of relationship.
+
+Copinglink should not automatically be treated
+as deceptive,
+pathological,
+or invalid.
+
+Its historical and current community definition
+requires external verification
+before this candidate is promoted
+to canonical status.
+
+
+### Verification Status
+
+PARTIALLY AUDITED — EXTERNAL VERIFICATION REQUIRED
+
+
+## TERM: Otherlink
+
+### Author Knowledge Boundary
+
+SheilaGrace has limited familiarity
+with the historical and community use
+of the term Otherlink.
+
+The author has encountered the term
+and read introductory explanations,
+but does not consider herself
+sufficiently informed
+to define its historical meaning independently.
+
+The following analysis therefore separates:
+
+- SheilaGrace's own comparison models,
+- personal experience with role-play and identity exploration,
+- and claims that require external community verification.
+
+
+### SheilaGrace Comparison Model: Identity Dataset Testrun
+
+To understand voluntary identity-related processes,
+SheilaGrace compares some experiences
+to role-play,
+TRPG character creation,
+online role-play,
+or game-character development.
+
+Within this analogy,
+an individual may choose:
+
+- which character or identity representation to use,
+- whether to begin a particular simulation,
+- whether to continue using it,
+- and whether to deliberately develop it further.
+
+However,
+the consequences of that simulation
+may not remain entirely voluntary.
+
+Role-play can sometimes function
+as an identity-exploration environment.
+
+Information may move in more than one direction:
+
+self
+→ projected into a character or role
+
+and
+
+experience obtained through the role
+→ incorporated into later self-understanding
+
+SheilaGrace describes the latter process
+as information being "downloaded"
+from the simulated identity
+into the individual's own identity model.
+
+This is an author-developed analogy,
+not an established definition of Otherlink.
+
+
+### Role-play Is Not Automatically Otherlink
+
+Role-play,
+character creation,
+creative writing,
+and avatar use
+should not automatically be classified
+as Otherlink.
+
+They may function as:
+
+- entertainment,
+- social activity,
+- artistic expression,
+- identity exploration,
+- embodiment experimentation,
+- or combinations of these.
+
+A person may deliberately simulate an identity
+without considering that identity
+part of themselves.
+
+Conversely,
+an initially deliberate simulation
+may produce unexpected information
+about the individual's own self-understanding.
+
+
+### Voluntariness and Agency
+
+SheilaGrace's experience suggests
+that "voluntary identity"
+should not automatically be treated
+as a single binary property.
+
+Different stages may involve different degrees
+of deliberate choice.
+
+Possible stages include:
+
+selection
+→ initial simulation
+→ repeated use
+→ cultivation
+→ integration
+→ maintenance
+→ reinterpretation
+→ discontinuation
+
+An individual may deliberately begin a process
+while later experiencing some consequences
+as less directly voluntary.
+
+Likewise,
+an individual may deliberately cultivate
+an identity relationship
+without having deliberately produced
+every feeling associated with it.
+
+
+### Relationship to Copinglink
+
+SheilaGrace currently experiences tension
+between her functional model of Copinglink
+and descriptions that may place Copinglink
+within a broader voluntary-identity category.
+
+In SheilaGrace's autobiographical experience,
+some coping-related identification
+was experienced primarily as a reaction
+to severe stress
+rather than as a deliberate identity experiment.
+
+The author therefore currently distinguishes:
+
+deliberate identity exploration or cultivation
+
+from
+
+identity-like processes
+that may emerge reactively
+under stressful conditions.
+
+Whether historical or current community terminology
+places both experiences
+within Otherlink
+requires external verification.
+
+Community taxonomy
+and SheilaGrace's functional analytical model
+should not be silently treated
+as identical systems.
+
+
+### Problems / Risks
+
+- SheilaGrace's role-play analogy
+  should not be treated
+  as the definition of Otherlink.
+
+- Deliberate role-play
+  should not automatically be classified
+  as identity.
+
+- Beginning an identity experiment voluntarily
+  does not prove that every later experience
+  remains voluntary.
+
+- Apparent choice
+  should not be assumed
+  to imply unlimited agency.
+
+- Otherlink and Copinglink
+  should not be reorganized
+  solely according to SheilaGrace's personal model
+  without historical verification.
+
+
+### Historical / Community Claims Requiring Verification
+
+- Origin and earliest documented use of Otherlink.
+- Historical definition of Otherlink.
+- Relationship between Otherlink and Copinglink.
+- Whether Otherlink was explicitly designed
+  as a broader category containing Copinglink.
+- Historical meaning of "voluntary identity"
+  within Otherlink communities.
+- Whether deliberate cultivation,
+  role-play,
+  simulation,
+  and identity formation
+  are distinguished in community usage.
+- Whether an Otherlink can become deeply integrated
+  or difficult to discontinue.
+
+
+### Current Canonical Candidate
+
+No canonical definition is proposed yet.
+
+A preliminary working hypothesis is that
+Otherlink concerns a deliberately established
+or deliberately cultivated identity relationship.
+
+However,
+the exact meaning,
+scope,
+degree of voluntariness,
+and relationship to Copinglink
+require external historical
+and contemporary community verification.
+
+SheilaGrace's Identity Dataset Testrun model
+should remain an interpretive comparison
+until that verification is complete.
+
+
+### Verification Status
+
+EARLY AUDIT — EXTERNAL VERIFICATION REQUIRED
+
+
+## TERM: Otherpaw
+
+### Author Context
+
+SheilaGrace initially welcomed
+the term Otherpaw
+because it appeared to provide
+a clearer distinction
+between Therian identity
+and recreational animal-themed activity.
+
+This reaction was influenced
+by longstanding concern
+that highly visible animal-themed performance
+could be publicly conflated
+with Therianthropy.
+
+The author's initial reaction
+also contained a strong gatekeeping impulse.
+
+That historical reaction
+should be preserved as Author Context,
+not converted into an objective rule
+about community membership.
+
+
+### Current Author Model: Activity vs Identity
+
+SheilaGrace currently treats Otherpaw
+primarily as an activity or expression category,
+not as a description
+of non-human identity itself.
+
+Within this model:
+
+Therian / Otherkin
+→ concerns how the individual experiences
+   or understands their own identity.
+
+Otherpaw
+→ concerns participation
+   in animal-themed recreational,
+   performative,
+   creative,
+   or expressive activity.
+
+Possible activities may include:
+
+- quadrobics,
+- gear use or creation,
+- animal-themed role-play,
+- creative performance,
+- and related forms of animal-themed self-expression.
+
+The activity
+and the individual's internal identity
+should be analyzed separately.
+
+
+### Activity Does Not Determine Identity
+
+Creative activity,
+role-play,
+gear,
+quadrobics,
+and public performance
+are behaviors.
+
+They do not independently establish
+whether an individual is:
+
+- Therian,
+- Otherkin,
+- Otherhearted,
+- Otherpaw,
+- or none of these.
+
+Within SheilaGrace's model,
+an individual could potentially be:
+
+Therian + Otherpaw
+
+Otherhearted + Otherpaw
+
+Otherkin + Otherpaw
+
+or
+
+Otherpaw without a non-human identity.
+
+These combinations are not inherently contradictory
+because identity and activity
+describe different dimensions.
+
+
+### Activity as an Exploration Tool
+
+An activity can also function
+as an observation window
+into the individual's own identity.
+
+A person may participate
+in animal-themed activities:
+
+- purely for enjoyment,
+- deliberately as identity exploration,
+- without initially realizing
+  that identity exploration is occurring,
+- or as expression
+  of an already recognized identity.
+
+Later reinterpretation is therefore possible.
+
+For example,
+a person may initially understand
+their participation as recreational
+and later conclude
+that a Therian or Otherkin interpretation
+better describes their internal experience.
+
+This should not be modeled as:
+
+Otherpaw
+→ automatically becomes Therian.
+
+A more cautious model is:
+
+activity
+→ additional self-observation
+→ new evidence about self
+→ possible reinterpretation of identity label
+
+
+### Relabeling Is Not Fraud
+
+A person may revise
+the label they use
+after gaining additional experience
+or self-understanding.
+
+Someone who previously used Otherpaw
+may later identify as Therian,
+Otherkin,
+Otherhearted,
+or another category.
+
+Someone may also remain Otherpaw
+without adopting a non-human identity label.
+
+Neither outcome
+should automatically be treated
+as more mature,
+more authentic,
+or more valuable.
+
+
+### Author Case Observation
+
+SheilaGrace personally distinguishes
+between her identities
+and her activities.
+
+She identifies as Therian and Otherkin
+while also participating
+in creative writing and role-play.
+
+For the author,
+being a writer or role-player
+describes activity,
+while Therian and Otherkin
+describe identity.
+
+This autobiographical distinction
+supports the author's current
+Activity / Identity separation model.
+
+It should not be treated
+as a universal community definition.
+
+
+### Community Testimony
+
+SheilaGrace reports
+that two Therian community members
+described Otherpaw
+as terminology intended
+to distinguish recreational animal-themed activity
+from Therian identity.
+
+This testimony is useful
+as a community observation
+but is too limited
+to establish historical origin
+or universal community meaning.
+
+Status:
+
+COMMUNITY TESTIMONY — N=2 / UNVERIFIED
+
+
+### Public Performance and Identity Pressure
+
+Animal-themed performance
+may also create social pressures
+that are separate
+from the individual's original identity.
+
+Possible processes may include:
+
+public activity
+→ audience recognition
+→ expectation of a stable persona
+→ pressure to continue recognizable behavior
+
+In some cases,
+the public persona
+may increasingly diverge
+from the individual's private self-understanding.
+
+The individual may then experience pressure
+to preserve a performance
+because of:
+
+- audience expectations,
+- reputation,
+- social belonging,
+- platform visibility,
+- or fear of disappointing others.
+
+This process is not unique to Otherpaw.
+
+It may occur
+in many performance-oriented
+or identity-oriented communities.
+
+Status:
+
+AUTHOR SOCIAL-DYNAMICS HYPOTHESIS
+— EXTERNAL VERIFICATION REQUIRED
+
+
+### Problems / Risks
+
+- Animal-themed activity
+  should not automatically be interpreted
+  as evidence of Therian identity.
+
+- Recreational activity
+  should not automatically be interpreted
+  as evidence that a person is not Therian.
+
+- Otherpaw should not be used
+  as a dismissive label
+  for individuals whose identity is uncertain.
+
+- Identity exploration through activity
+  should not be treated as fraud.
+
+- Public performance
+  and private identity
+  may diverge.
+
+- SheilaGrace's preference
+  for separating Otherpaw
+  from alterhuman identity categories
+  is currently an author classification position,
+  not an established universal fact.
+
+- Claims about the origin
+  or intended gatekeeping function
+  of Otherpaw
+  require historical verification.
+
+
+### Historical / Community Claims Requiring Verification
+
+- Origin and earliest documented use of Otherpaw.
+- Original intended definition of Otherpaw.
+- Whether the term was explicitly created
+  to distinguish recreational activity
+  from Therian identity.
+- Whether Otherpaw is considered
+  part of the Alterhuman umbrella
+  by its originators or current users.
+- Historical relationship
+  between Otherpaw,
+  quadrobics,
+  gear,
+  role-play,
+  and social-media performance.
+- Whether people commonly use Otherpaw
+  alongside Therian,
+  Otherkin,
+  or Otherhearted labels.
+- Development of Otherpaw terminology
+  across language communities.
+
+
+### Current Canonical Candidate
+
+Otherpaw may be useful
+as an activity-oriented label
+for individuals who participate
+in animal-themed recreational,
+creative,
+performative,
+or expressive practices
+without those activities
+by themselves determining
+the individual's internal identity.
+
+Activity and identity
+should be analyzed separately.
+
+Participation in Otherpaw-associated activities
+may sometimes contribute
+to identity exploration,
+but such participation
+does not independently establish
+Therian,
+Otherkin,
+or Otherhearted identity.
+
+The historical origin,
+community boundaries,
+and relationship to Alterhuman terminology
+require external verification
+before this candidate
+is promoted to canonical status.
+
+
+### Verification Status
+
+PARTIALLY AUDITED — EXTERNAL VERIFICATION REQUIRED
+
+
 ---
 
 # Community Knowledge Transmission and Access Audit
@@ -1288,6 +2958,272 @@ how abstract terminology related to lived experience.
 This should currently be described as
 informal mentorship and oral / experiential transmission,
 not as a formally established community-wide Mentor system.
+
+
+## Mentor Load and Single-Point-of-Failure Risk
+
+SheilaGrace reports that experienced community members
+were often expected to perform multiple support functions
+at the same time.
+
+These functions could include:
+
+- explaining terminology,
+- sharing first-person experience,
+- helping newcomers compare possible identity interpretations,
+- providing historical context,
+- identifying misinformation,
+- assisting with community navigation,
+- responding to interpersonal conflict,
+- offering emotional support,
+- and recognizing situations
+  that might require professional mental-health care
+  or other forms of external support.
+
+These roles place substantially different demands
+on the person providing assistance.
+
+A highly experienced Therian or Otherkin
+may possess valuable community knowledge
+without being trained as:
+
+- a therapist,
+- crisis worker,
+- clinician,
+- historian,
+- librarian,
+- moderator,
+- or social worker.
+
+Community experience alone
+should therefore not be treated
+as unlimited support capacity.
+
+
+### Author Field Observation: Mentor Overload
+
+SheilaGrace reports personal experience
+of attempting to provide intensive guidance
+to multiple newer or questioning individuals.
+
+The demand for individualized explanation,
+interpretation,
+emotional support,
+and reference assistance
+sometimes exceeded the practical capacity
+of a small number of volunteer mentors.
+
+The author experienced substantial strain
+while attempting to compensate
+for missing reference infrastructure
+through direct individual assistance.
+
+This observation should not be generalized
+into a claim that all Therian communities
+operate in the same way.
+
+Status:
+
+AUTHOR FIELD OBSERVATION — ANECDOTAL
+
+
+### Single-Point-of-Failure Problem
+
+A support environment becomes fragile
+when access to knowledge,
+interpretation,
+or emotional support
+depends heavily on a small number
+of experienced individuals.
+
+If one such individual becomes exhausted,
+leaves the community,
+becomes unavailable,
+or can no longer provide support,
+multiple functions may fail simultaneously.
+
+Possible consequences include:
+
+- loss of historical knowledge,
+- reduced access to detailed explanations,
+- increased dependence on simplified material,
+- reduced support for questioning individuals,
+- greater propagation of misinformation,
+- and increased pressure on remaining experienced members.
+
+This creates a single-point-of-failure risk.
+
+
+### Mentorship Should Not Be the Entire Infrastructure
+
+Mentorship can remain valuable.
+
+However,
+mentors should function as experienced nodes
+within a broader support and information system,
+rather than as the system itself.
+
+Where possible,
+routine informational needs should be supported by:
+
+- accessible reference material,
+- layered documentation,
+- self-exploration guides,
+- examples and case material,
+- historical archives,
+- searchable terminology resources,
+- and clear routes to deeper information.
+
+This can reserve direct mentorship
+for situations where individual interpretation,
+context,
+or lived experience
+provides substantial additional value.
+
+
+### Escalation Boundaries
+
+Community mentors should not be expected
+to independently resolve every problem
+presented by another individual.
+
+Different problems may require
+different kinds of support.
+
+For example:
+
+identity exploration
+may benefit from
+community experience and reflective discussion.
+
+Historical questions
+may require archival or source-based research.
+
+Factual claims
+may require external verification.
+
+Severe psychological distress,
+risk of harm,
+or significant functional impairment
+may require appropriately qualified professional support.
+
+The purpose of escalation
+is not to reject the individual.
+
+It is to recognize
+that no single mentor,
+community member,
+or reference source
+can safely perform every support function.
+
+
+### Distributed Support Model
+
+A more resilient support system
+would distribute responsibility across:
+
+reference material
+→ self-directed exploration
+→ peer discussion
+→ experienced community guidance
+→ specialized external support where appropriate
+
+Individuals should be able
+to enter and leave this structure
+at different points
+depending on their actual needs.
+
+Not every questioning individual
+requires intensive mentorship.
+
+Not every difficult case
+can be solved through documentation alone.
+
+
+### Project Undertaker / Project DeepDivers Implication
+
+Project Undertaker and Project DeepDivers
+should reduce dependence
+on individual human memory and availability.
+
+The goal is not to automate away
+human relationships or mentorship.
+
+The goal is to preserve enough:
+
+- knowledge,
+- provenance,
+- interpretive scaffolding,
+- examples,
+- navigation,
+- and recovery paths
+
+that future individuals
+do not require one exhausted expert
+to reconstruct the entire knowledge environment
+for them personally.
+
+In short:
+
+Do not make mentorship
+a single point of failure.
+
+
+### Problems / Risks
+
+- Experienced community members
+  should not automatically be treated
+  as mental-health professionals.
+
+- Volunteer status does not imply
+  unlimited availability or responsibility.
+
+- Mentor exhaustion can reduce
+  both individual welfare
+  and community knowledge continuity.
+
+- Documentation should reduce repetitive workload,
+  not eliminate relational support.
+
+- Automated or written resources
+  should not be assumed capable
+  of replacing every form of human judgment.
+
+- A referral or escalation
+  should not automatically be interpreted
+  as rejection or invalidation.
+
+- SheilaGrace's experience
+  should not be generalized
+  into a universal description
+  of Therian or Otherkin communities.
+
+
+### Claims Requiring External Verification
+
+- Historical prevalence
+  of informal mentorship
+  in Therian and Otherkin communities.
+
+- Frequency and causes
+  of mentor burnout or community withdrawal.
+
+- Degree to which community knowledge
+  has historically depended
+  on a small number of experienced members.
+
+- Availability of formal
+  or semi-formal support structures
+  in current communities.
+
+- Effects of improved documentation
+  on mentor workload
+  and newcomer information access.
+
+Status:
+
+AUTHOR FIELD OBSERVATION / SUPPORT-SYSTEM DESIGN HYPOTHESIS
+— EXTERNAL VERIFICATION REQUIRED
 
 
 ## Platform, Language, and Filter-Bubble Risks
@@ -1372,4 +3308,11 @@ or generation.
 - Current accessibility and depth of major Therian reference resources.
 - Development of Japanese-language Therian communities.
 - Current state of Japanese-language Therian reference services.
+- Historical concentration of mentorship and support work
+  among small numbers of experienced community members.
+- Evidence of mentor burnout,
+  withdrawal,
+  or knowledge loss associated with volunteer support burden.
+- Effectiveness of distributed reference and support systems
+  in reducing dependence on individual mentors.
 
