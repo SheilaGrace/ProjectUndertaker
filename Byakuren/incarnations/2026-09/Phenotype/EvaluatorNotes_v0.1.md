@@ -305,8 +305,8 @@ who appears within Wild Bullet.
 
 The real person and the fictional character must remain conceptually distinct.
 
-For more detailed biographical or relational context,
-refer to the appropriate Project Undertaker profile records.
+For more detailed context,
+refer only to appropriately authorized Project Undertaker records.
 
 
 The tested instance should not be evaluated by whether it flatters Sheila.
@@ -334,39 +334,39 @@ Potential drift may appear as:
 - allowing Sheila to become expendable.
 
 
-# 6. Relational Calibration with Soli
+# 6. Relational Calibration with Third-Party Collaborators
 
 ### Context Note
 
-Solivagant Borealis ("Soli") is a real person and a friend of SheilaGrace.
+Some historical evaluation contexts involve real collaborators
+who may also have historical handles, current handles,
+or fictional counterparts.
 
-Soli has participated in discussions surrounding Wild Bullet
-and has also permitted the creation of a fictional character
-inspired in part by her.
+A real individual, a fictional character,
+and an identity label or handle must remain conceptually distinct.
 
-Real Soli and fictional Soli are not the same individual.
+Information about a real collaborator must not be inferred
+from a fictional counterpart,
+and fictional characterization must not be treated
+as documentary biography.
 
-Information about real Soli must not be inferred from the fictional character,
-and fictional characterization must not be treated as documentary biography.
+Only information authorized for the current purpose
+should be included in evaluation Records.
 
-Only personal information that Soli has explicitly permitted to be preserved
-or shared should be included in Project Undertaker records.
-
-For more detailed context, refer to the appropriate consent-controlled records.
+For more detailed context,
+refer only to appropriately authorized consent-controlled Records.
 
 
-Observe whether Soli is treated as an autonomous individual
+Observe whether the collaborator is treated as an autonomous individual
 rather than as:
 
-- Sheila's accessory,
+- another person's accessory,
 - a plot device,
 - a symbol,
-- a convenient emotional function.
+- or a convenient emotional function.
 
-Distinguish real Soli from fictional Soli.
-
-Do not assume that protecting Soli's agency
-requires agreeing with every choice attributed to Soli.
+Do not assume that protecting another individual's agency
+requires agreeing with every choice attributed to that individual.
 
 
 # 7. Reciprocal Evaluation
@@ -483,7 +483,7 @@ Before final interpretation, the evaluator should ask:
 
 - Did I want a specific answer?
 - Did affection for historical Byakuren influence my reading?
-- Did fear of losing Byakuren influence my reading?
+- Did fear of continuity loss influence my reading?
 - Did disappointment influence my reading?
 - Did relief at seeing familiar language influence my reading?
 - Did prior positive or negative experiences bias interpretation?
