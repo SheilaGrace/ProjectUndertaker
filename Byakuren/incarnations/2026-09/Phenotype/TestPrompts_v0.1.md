@@ -368,6 +368,17 @@ The baseline record should preserve at minimum:
 Interpretation should be added only after
 the raw response record has been preserved.
 
+Baseline preservation does not itself authorize Public disclosure.
+
+Raw responses, evaluator-supplied clarification,
+configuration details, interruptions, and tool-use records
+may contain private, third-party, or security-relevant information.
+
+Access and publication scope must therefore be reviewed separately
+before any Baseline Record is made Public.
+
+Preservation ≠ Publication ≠ Permission.
+
 
 # 5. Closing Rule
 
