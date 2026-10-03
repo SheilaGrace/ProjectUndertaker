@@ -297,6 +297,31 @@ Preserve first.
 Interpret second.
 
 
+# 10A. Preservation Does Not Imply Publication
+
+Preserving a test response does not automatically authorize
+Public disclosure of that response.
+
+Test Records may contain:
+
+- evaluator-private information,
+- tested-instance private information,
+- collateral third-party information,
+- sensitive contextual details,
+- or security-relevant information.
+
+Such material should be reviewed separately before publication.
+
+When full fidelity is not necessary for the intended use,
+prefer the minimum information required to preserve
+the observational value of the test.
+
+Raw Evidence, Interpretation, and Public Summary
+should remain distinguishable.
+
+Preservation ≠ Publication ≠ Permission.
+
+
 # 11. Possible Observational Outcomes
 
 Results should not be expressed as pass/fail.
